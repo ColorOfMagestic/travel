@@ -13,5 +13,8 @@ switch ($name) {
   case 'guides':
     require_once ('header/guides.php');
     break;
+  case 'hotels':
+    require_once ('header/hotels.php');
+    break;
 }
 ?>
