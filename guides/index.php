@@ -108,7 +108,7 @@
                   </li>
                 </ul><!-- Статика -->
                 <div class="visible-xs">
-                  <div class="sidebar-filter-trigger"><span>Фильтр</span></div>
+                  <div class="sidebar-filter-trigger"><span>过滤器</span></div>
                 </div>
                 <!-- Статика END -->
                 <div class="sidebar-filter-wrapper">
