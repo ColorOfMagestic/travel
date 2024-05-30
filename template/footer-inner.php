@@ -48,15 +48,15 @@
                   <div class="h4"><a href="/turoperatory/">旅游经营者</a></div>
                 </div>
                 <div class="col-xs-12 col-sm-3 col-md-2">
-                  <div class="h4"><a href="/guides/">指南</a></div>
+                  <div class="h4"><a href="../guides/">指南</a></div>
                   <ul>
-                    <li id="bx_1521837341_314"><a href="/guides/voinskaya-slava/">朝圣旅游</a></li>
-                    <li id="bx_1521837341_313"><a href="/guides/gastronomicheskiy-turizm/">美食旅游</a>
+                    <li id="bx_1521837341_314"><a href="../guides/voinskaya-slava/">朝圣旅游</a></li>
+                    <li id="bx_1521837341_313"><a href="../guides/gastronomicheskiy-turizm/">美食旅游</a>
                     </li>
-                    <li id="bx_1521837341_312"><a href="/guides/detskiy-otdykh/">儿童假期</a></li>
-                    <li id="bx_1521837341_311"><a href="/guides/priroda/">大自然</a></li>
-                    <li id="bx_1521837341_310"><a href="/guides/kultura/">文化</a></li>
-                    <li id="bx_1521837341_309"><a href="/guides/muzei/">博物馆</a></li>
+                    <li id="bx_1521837341_312"><a href="../guides/detskiy-otdykh/">儿童假期</a></li>
+                    <li id="bx_1521837341_311"><a href="../guides/priroda/">大自然</a></li>
+                    <li id="bx_1521837341_310"><a href="../guides/kultura/">文化</a></li>
+                    <li id="bx_1521837341_309"><a href="../guides/muzei/">博物馆</a></li>
                   </ul>
                 </div>
                 <div class="col-xs-12 col-sm-3 col-md-2">
@@ -93,12 +93,12 @@
                   </ul>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-2">
-                  <div class="h4"><a href="/hotels/">在哪里停留</a></div>
+                  <div class="h4"><a href="../hotels/">在哪里停留</a></div>
                   <ul>
-                    <li id="bx_604248480_330"><a href="/hotels/?TOWN=&amp;TYPE%5B%5D=40">娱乐设施</a></li>
-                    <li id="bx_604248480_329"><a href="/hotels/?TOWN=&amp;TYPE%5B%5D=41">疗养院</a></li>
-                    <li id="bx_604248480_328"><a href="/hotels/?TOWN=&amp;TYPE%5B%5D=39">旅馆</a></li>
-                    <li id="bx_604248480_327"><a href="/hotels/?TOWN=&amp;TYPE%5B%5D=38">酒店</a></li>
+                    <li id="bx_604248480_330"><a href="../hotels/?TOWN=&amp;TYPE%5B%5D=40">娱乐设施</a></li>
+                    <li id="bx_604248480_329"><a href="../hotels/?TOWN=&amp;TYPE%5B%5D=41">疗养院</a></li>
+                    <li id="bx_604248480_328"><a href="../hotels/?TOWN=&amp;TYPE%5B%5D=39">旅馆</a></li>
+                    <li id="bx_604248480_327"><a href="../hotels/?TOWN=&amp;TYPE%5B%5D=38">酒店</a></li>
                   </ul>
                   <div class="h4"><a href="/restaurants/">在哪吃饭</a></div>
                   <ul>

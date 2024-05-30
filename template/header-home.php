@@ -86,10 +86,10 @@
                   <div class="col-xs-12 col-sm-6 col-md-12">
                     <div class="h4"><a href="hotels/">在哪里停留</a></div>
                     <ul>
-                      <li id="bx_3099439860_330"><a href="/hotels/?TOWN=&amp;TYPE%5B%5D=40">娱乐设施</a></li>
-                      <li id="bx_3099439860_329"><a href="/hotels/?TOWN=&amp;TYPE%5B%5D=41">疗养院</a></li>
-                      <li id="bx_3099439860_328"><a href="/hotels/?TOWN=&amp;TYPE%5B%5D=39">旅馆</a></li>
-                      <li id="bx_3099439860_327"><a href="/hotels/?TOWN=&amp;TYPE%5B%5D=38">酒店</a></li>
+                      <li id="bx_3099439860_330"><a href="../hotels/?TOWN=&amp;TYPE%5B%5D=40">娱乐设施</a></li>
+                      <li id="bx_3099439860_329"><a href="../hotels/?TOWN=&amp;TYPE%5B%5D=41">疗养院</a></li>
+                      <li id="bx_3099439860_328"><a href="../hotels/?TOWN=&amp;TYPE%5B%5D=39">旅馆</a></li>
+                      <li id="bx_3099439860_327"><a href="../hotels/?TOWN=&amp;TYPE%5B%5D=38">酒店</a></li>
                     </ul>
                   </div>
                   <div class="col-xs-12 col-sm-6 col-md-12">
@@ -312,7 +312,7 @@
                   <div class="header-menu-r">
 
                     <ul class="nav navbar-nav">
-                      <li><a href="/hotels/">在哪里停留</a></li>
+                      <li><a href="hotels/">在哪里停留</a></li>
 
                       <li><a href="/restaurants/">在哪吃饭</a></li>
 
