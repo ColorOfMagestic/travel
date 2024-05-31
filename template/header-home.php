@@ -93,13 +93,13 @@
                     </ul>
                   </div>
                   <div class="col-xs-12 col-sm-6 col-md-12">
-                    <div class="h4"><a href="/restaurants/">在哪吃饭</a></div>
+                    <div class="h4"><a href="../restaurants/">在哪吃饭</a></div>
                     <ul>
-                      <li id="bx_565502798_335"><a href="/restaurants/?TOWN=&amp;TYPE%5B%5D=64">餐厅</a></li>
-                      <li id="bx_565502798_334"><a href="/restaurants/?TOWN=&amp;TYPE%5B%5D=110">酒吧和酒馆</a></li>
-                      <li id="bx_565502798_333"><a href="/restaurants/?TOWN=&amp;TYPE%5B%5D=65">咖啡厅和咖啡店</a></li>
-                      <li id="bx_565502798_332"><a href="/restaurants/?TOWN=&amp;TYPE%5B%5D=66">饮食店</a></li>
-                      <li id="bx_565502798_331"><a href="/restaurants/?TOWN=&amp;TYPE%5B%5D=67">牛排馆</a></li>
+                      <li id="bx_565502798_335"><a href="../restaurants/?TOWN=&amp;TYPE%5B%5D=64">餐厅</a></li>
+                      <li id="bx_565502798_334"><a href="../restaurants/?TOWN=&amp;TYPE%5B%5D=110">酒吧和酒馆</a></li>
+                      <li id="bx_565502798_333"><a href="../restaurants/?TOWN=&amp;TYPE%5B%5D=65">咖啡厅和咖啡店</a></li>
+                      <li id="bx_565502798_332"><a href="../restaurants/?TOWN=&amp;TYPE%5B%5D=66">饮食店</a></li>
+                      <li id="bx_565502798_331"><a href="../restaurants/?TOWN=&amp;TYPE%5B%5D=67">牛排馆</a></li>
                     </ul>
                   </div>
                 </div>
@@ -314,7 +314,7 @@
                     <ul class="nav navbar-nav">
                       <li><a href="hotels/">在哪里停留</a></li>
 
-                      <li><a href="/restaurants/">在哪吃饭</a></li>
+                      <li><a href="../restaurants/">在哪吃饭</a></li>
 
                       <li><a href="/bring/">纪念品</a></li>
 
