@@ -16,5 +16,8 @@ switch ($name) {
   case 'hotels':
     require_once ('header/hotels.php');
     break;
+  case 'restaurants':
+    require_once ('header/restaurants.php');
+    break;
 }
 ?>
