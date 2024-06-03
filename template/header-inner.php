@@ -299,7 +299,7 @@
 
 
                     <ul class="nav navbar-nav">
-                      <li><a href="/areas/">地区</a></li>
+                      <li><a href="../areas/">地区</a></li>
 
                       <li><a href="../guides/">景点</a></li>
 

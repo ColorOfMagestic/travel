@@ -299,13 +299,13 @@
 
 
                     <ul class="nav navbar-nav">
-                      <li><a href="/areas/">地区</a></li>
+                      <li><a href="areas/">地区</a></li>
 
                       <li><a href="guides/">景点</a></li>
 
-                      <li><a href="/routes/">路线</a></li>
+                      <li><a href="routes/">路线</a></li>
 
-                      <li><a href="/events/">海报</a></li>
+                      <li><a href="events/">海报</a></li>
 
                     </ul>
                   </div>
@@ -314,11 +314,11 @@
                     <ul class="nav navbar-nav">
                       <li><a href="hotels/">在哪里停留</a></li>
 
-                      <li><a href="../restaurants/">在哪吃饭</a></li>
+                      <li><a href="restaurants/">在哪吃饭</a></li>
 
-                      <li><a href="/bring/">纪念品</a></li>
+                      <li><a href="bring/">纪念品</a></li>
 
-                      <li><a href="/projects/">项目</a></li>
+                      <li><a href="projects/">项目</a></li>
 
                       <li>
                         <div class="submenu-trigger"><span></span><span></span><span></span></div>
