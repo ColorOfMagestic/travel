@@ -2,8 +2,8 @@
   <div class="container">
 	<ul class="breadcrumb" itemprop="http://schema.org/breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
 			<li id="bx_breadcrumb_0" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-				<a href="/" title="Главная" itemprop="url">
-					Главная
+				<a href="/" title="主页" itemprop="url">
+					主页
 				</a>
 				<meta itemprop="position" content="1">
 			</li>
@@ -21,9 +21,9 @@
 			  <div class="page-header-obj-4"></div>
 			  <div class="page-header-top-valign">
 				<div class="page-header-top-valign-cont">
-				  <h1>Районы Новгородской области</h1>
+				  <h1>诺夫哥罗德州地区</h1>
 				  <div class="page-header-lead">
-					<p>Знакомство с первозданной природой и историческим прошлым районов Новгородской области</p>
+					<p>了解诺夫哥罗德州地区的原始自然和历史背景</p>
 				  </div>
 				</div>
 			  </div>
