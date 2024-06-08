@@ -21,7 +21,7 @@
                 <div class="sidebar-filter-wrapper">
                   <div class="close"></div>
                   <div class="sidebar-filter">
-                    <form class="filter-form" id="hotelsForm" name="hotelsForm" action="../hotels/">
+                    <form class="filter-form" id="hotelsForm" name="hotelsForm" action="">
                       <!--<pre>--><!--</pre>-->
                       <div class="h4">城市</div>
                       <div class="form-group">
@@ -166,7 +166,7 @@
                     <div class="objects-list">
                       <div class="tr">
                         <div class="object-tmb hotel-tmb">
-                          <a href="/hotels/inturist/" id="bx_3218110189_272">
+                          <a href="../hotels/inturist/" id="bx_3218110189_272">
                             <div class="object-tmb-pic"
                               style="background-image: url(images/de4effcd95f3f87b426e1ecbea2e1740.jpg);">
                               <div class="object-tmb-info">
@@ -184,7 +184,7 @@
                               <ul class="object-tmb-tags">
                                 <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
                               </ul>
-                              <a href="/hotels/inturist/">
+                              <a href="../hotels/inturist/">
                                 <div class="h3"><span>“国际旅行”酒店</span></div>
                               </a>
                             </div>
@@ -198,7 +198,7 @@
                         </div>
 
                         <div class="object-tmb hotel-tmb">
-                          <a href="/hotels/butik-otel-truvor/" id="bx_1454625752_275">
+                          <a href="../hotels/butik-otel-truvor/" id="bx_1454625752_275">
                             <div class="object-tmb-pic"
                               style="background-image: url(images/8d93df3f7dffd576b64491a401950efe.jpg);">
                               <div class="object-tmb-info">
@@ -216,7 +216,7 @@
                               <ul class="object-tmb-tags">
                                 <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
                               </ul>
-                              <a href="/hotels/butik-otel-truvor/">
+                              <a href="../hotels/butik-otel-truvor/">
                                 <div class="h3"><span>“特鲁沃”精品酒店(«Truvor»)</span></div>
                               </a>
                             </div>
@@ -233,7 +233,7 @@
                       </div>
                       <div class="tr">
                         <div class="object-tmb hotel-tmb">
-                          <a href="/hotels/gostinitsa-sadko/" id="bx_3218110189_278">
+                          <a href="../hotels/gostinitsa-sadko/" id="bx_3218110189_278">
                             <div class="object-tmb-pic"
                               style="background-image: url(images/055fd5402bcfc18b6c1f95d69f2aafd3.jpg);">
                               <div class="object-tmb-info">
@@ -249,7 +249,7 @@
                               <ul class="object-tmb-tags">
                                 <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
                               </ul>
-                              <a href="/hotels/gostinitsa-sadko/">
+                              <a href="../hotels/gostinitsa-sadko/">
                                 <div class="h3"><span>“萨特阔”酒店</span></div>
                               </a>
                             </div>
@@ -265,7 +265,7 @@
                           </div>
                         </div>
                         <div class="object-tmb hotel-tmb">
-                          <a href="/hotels/kurort-staraya-russa/" id="bx_3218110189_343">
+                          <a href="../hotels/kurort-staraya-russa/" id="bx_3218110189_343">
                             <div class="object-tmb-pic"
                               style="background-image: url(images/de5e3fc37a2bc6eb10e536be4c84ddca.jpg);">
                               <div class="object-tmb-info">
@@ -283,7 +283,7 @@
                               <ul class="object-tmb-tags">
                                 <li><a href="/cities/staraya-russa/">旧鲁萨</a></li>
                               </ul>
-                              <a href="/hotels/kurort-staraya-russa/">
+                              <a href="../hotels/kurort-staraya-russa/">
                                 <div class="h3"><span>«旧鲁萨» 基地度假</span></div>
                               </a>
                             </div>
@@ -298,7 +298,7 @@
                       </div>
                       <div class="tr">
                         <div class="object-tmb hotel-tmb">
-                          <a href="/hotels/gostinitsa-valday-eko-klub/" id="bx_3218110189_347">
+                          <a href="../hotels/gostinitsa-valday-eko-klub/" id="bx_3218110189_347">
                             <div class="object-tmb-pic"
                               style="background-image: url(images/d606590b3bf68369611196227607d27a.jpg);">
                               <div class="object-tmb-info">
@@ -316,7 +316,7 @@
                               <ul class="object-tmb-tags">
                                 <li><a href="/cities/valda/">瓦尔代</a></li>
                               </ul>
-                              <a href="/hotels/gostinitsa-valday-eko-klub/">
+                              <a href="../hotels/gostinitsa-valday-eko-klub/">
                                 <div class="h3"><span>“瓦尔代生态俱乐部”酒店</span></div>
                               </a>
                             </div>
@@ -329,7 +329,7 @@
                           </div>
                         </div>
                         <div class="object-tmb hotel-tmb">
-                          <a href="/hotels/gostinitsa-volkhov/" id="bx_1454625752_1405">
+                          <a href="../hotels/gostinitsa-volkhov/" id="bx_1454625752_1405">
                             <div class="object-tmb-pic"
                               style="background-image: url(images/b33a7e3a229089480314c3b554d1435d.jpg);">
                               <div class="object-tmb-info">
@@ -347,7 +347,7 @@
                               <ul class="object-tmb-tags">
                                 <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
                               </ul>
-                              <a href="/hotels/gostinitsa-volkhov/">
+                              <a href="../hotels/gostinitsa-volkhov/">
                                 <div class="h3"><span> «沃尔霍夫»酒店</span></div>
                               </a>
                             </div>
@@ -365,7 +365,7 @@
                       </div>
                       <div class="tr">
                         <div class="object-tmb hotel-tmb">
-                          <a href="/hotels/butik-otel-yurevskoe-podvore/" id="bx_1454625752_1406">
+                          <a href="../hotels/butik-otel-yurevskoe-podvore/" id="bx_1454625752_1406">
                             <div class="object-tmb-pic"
                               style="background-image: url(images/fd3cab96ce47cfda4d67dddf46025b24.jpg);">
                               <div class="object-tmb-info">
@@ -383,7 +383,7 @@
                               <ul class="object-tmb-tags">
                                 <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
                               </ul>
-                              <a href="/hotels/butik-otel-yurevskoe-podvore/">
+                              <a href="../hotels/butik-otel-yurevskoe-podvore/">
                                 <div class="h3"><span>«尤里耶夫大院»精品酒店</span></div>
                               </a>
                             </div>
@@ -396,7 +396,7 @@
                           </div>
                         </div>
                         <div class="object-tmb hotel-tmb">
-                          <a href="/hotels/otel-bianki/" id="bx_1454625752_2696">
+                          <a href="../hotels/otel-bianki/" id="bx_1454625752_2696">
                             <div class="object-tmb-pic"
                               style="background-image: url(images/0478b1694c02af74e0573374d9242a0a.jpg);">
                               <div class="object-tmb-info">
@@ -414,7 +414,7 @@
                               <ul class="object-tmb-tags">
                                 <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
                               </ul>
-                              <a href="/hotels/otel-bianki/">
+                              <a href="../hotels/otel-bianki/">
                                 <div class="h3"><span>"比安奇"酒店</span></div>
                               </a>
                             </div>
@@ -433,7 +433,7 @@
                       </div>
                       <div class="tr">
                         <div class="object-tmb hotel-tmb">
-                          <a href="/hotels/vsesezonnyy-kurort-lyubogore-gornolyzhnyy-klub/" id="bx_1454625752_2936">
+                          <a href="../hotels/vsesezonnyy-kurort-lyubogore-gornolyzhnyy-klub/" id="bx_1454625752_2936">
                             <div class="object-tmb-pic"
                               style="background-image: url(images/2cec561e7de15f59f61fc1c0f14ccea8.jpg);">
                               <div class="object-tmb-info">
@@ -451,7 +451,7 @@
                               <ul class="object-tmb-tags">
                                 <li><a href="/cities/p-lyubytino/">柳比蒂诺</a></li>
                               </ul>
-                              <a href="/hotels/vsesezonnyy-kurort-lyubogore-gornolyzhnyy-klub/">
+                              <a href="../hotels/vsesezonnyy-kurort-lyubogore-gornolyzhnyy-klub/">
                                 <div class="h3"><span>“柳博戈列”
                                     全季节度假村（滑雪俱乐部）
                                   </span></div>
@@ -466,7 +466,7 @@
                           </div>
                         </div>
                         <div class="object-tmb hotel-tmb">
-                          <a href="/hotels/truvor-glamping-glemping-truvor/" id="bx_1454625752_19710">
+                          <a href="../hotels/truvor-glamping-glemping-truvor/" id="bx_1454625752_19710">
                             <div class="object-tmb-pic"
                               style="background-image: url(images/e42f2ac7415357458f0d490762f81eec.jpg);">
                               <div class="object-tmb-info">
@@ -482,7 +482,7 @@
                               <ul class="object-tmb-tags">
                                 <li><a href="/cities/valda/">瓦尔代</a></li>
                               </ul>
-                              <a href="/hotels/truvor-glamping-glemping-truvor/">
+                              <a href="../hotels/truvor-glamping-glemping-truvor/">
                                 <div class="h3"><span> “特鲁沃尔”豪华露营(Truvor glamping)</span></div>
                               </a>
                             </div>
