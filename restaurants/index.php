@@ -5,7 +5,7 @@
     <?php require_once ('../template/header-inner.php') ?>
 
     <div class="main">
-      <div class="page-wrapper" style="background-image: url(files/page-wrapper-bg.jpg);">
+      <div class="page-wrapper" style="background-image: url(images/page-wrapper-bg.jpg);">
         <div class="container">
           <div class="page-wrapper-top">
             <div class="row">
@@ -20,45 +20,45 @@
                   <div class="sidebar-filter-wrapper">
                     <div class="close"></div>
                     <div class="sidebar-filter">
-                      <form class="filter-form" id="restaurantsForm" name="restaurantsForm" action="../restaurants/">
-                      <div class="h4">城市</div>
-                      <div class="form-group">
-                        <select name="TOWN" id="filter_city">
-                          <option value="">全部</option>
-                          <option value="31">巴捷茨基 </option>
-                          <option value="6">博罗维奇</option>
-                          <option value="1409">布龙尼察 </option>
-                          <option value="5">瓦尔代 </option>
-                          <option value="3">大诺夫哥罗德 </option>
-                          <option value="32">沃洛特</option>
-                          <option value="1434">加利察</option>
-                          <option value="428">戈里察</option>
-                          <option value="451">格鲁吉诺</option>
-                          <option value="33">杰缅斯克</option>
-                          <option value="1408">扎瓦尔</option>
-                          <option value="430">卡缅</option>
-                          <option value="2369">科罗斯廷村</option>
-                          <option value="34">克雷斯特西</option>
-                          <option value="1365">利奇科沃</option>
-                          <option value="35">柳比蒂诺</option>
-                          <option value="27">小维舍拉</option>
-                          <option value="36">马廖沃</option>
-                          <option value="37">莫申斯科耶</option>
-                          <option value="1411">米亚斯诺伊博尔</option>
-                          <option value="28">奥库洛夫卡</option>
-                          <option value="38">帕菲诺</option>
-                          <option value="29">佩斯托沃 </option>
-                          <option value="39">波多耶</option>
-                          <option value="7">索利齐</option>
-                          <option value="2469">索皮尼</option>
-                          <option value="4">旧鲁萨</option>
-                          <option value="445">捷索沃-涅特利斯基</option>
-                          <option value="40">赫沃伊纳亚</option>
-                          <option value="30">霍尔姆</option>
-                          <option value="26">丘多沃</option>
-                          <option value="41">希姆</option>
-                        </select>
-                      </div>
+                      <form class="filter-form" id="restaurantsForm" name="restaurantsForm" action="">
+                        <div class="h4">城市</div>
+                        <div class="form-group">
+                          <select name="TOWN" id="filter_city">
+                            <option value="">全部</option>
+                            <option value="31">巴捷茨基 </option>
+                            <option value="6">博罗维奇</option>
+                            <option value="1409">布龙尼察 </option>
+                            <option value="5">瓦尔代 </option>
+                            <option value="3">大诺夫哥罗德 </option>
+                            <option value="32">沃洛特</option>
+                            <option value="1434">加利察</option>
+                            <option value="428">戈里察</option>
+                            <option value="451">格鲁吉诺</option>
+                            <option value="33">杰缅斯克</option>
+                            <option value="1408">扎瓦尔</option>
+                            <option value="430">卡缅</option>
+                            <option value="2369">科罗斯廷村</option>
+                            <option value="34">克雷斯特西</option>
+                            <option value="1365">利奇科沃</option>
+                            <option value="35">柳比蒂诺</option>
+                            <option value="27">小维舍拉</option>
+                            <option value="36">马廖沃</option>
+                            <option value="37">莫申斯科耶</option>
+                            <option value="1411">米亚斯诺伊博尔</option>
+                            <option value="28">奥库洛夫卡</option>
+                            <option value="38">帕菲诺</option>
+                            <option value="29">佩斯托沃 </option>
+                            <option value="39">波多耶</option>
+                            <option value="7">索利齐</option>
+                            <option value="2469">索皮尼</option>
+                            <option value="4">旧鲁萨</option>
+                            <option value="445">捷索沃-涅特利斯基</option>
+                            <option value="40">赫沃伊纳亚</option>
+                            <option value="30">霍尔姆</option>
+                            <option value="26">丘多沃</option>
+                            <option value="41">希姆</option>
+                          </select>
+                        </div>
 
                         <div class="h4">类型</div>
                         <div class="form-checkboxes">
@@ -188,31 +188,29 @@
                       <div class="objects-list">
                         <div class="tr">
                           <div class="object-tmb rest-tmb">
-                            <a href="../restaurants/charodeyka-bar/" id="bx_1454625752_2556">
+                            <a href="../restaurants/kafe-sudarushka/" id="bx_3218110189_298">
                               <div class="object-tmb-pic"
-                                style="background-image: url(images/867d7a745c962fc6ac6610568b4e2e3f.jpg);">
+                                style="background-image: url(images/91e53e1ddfd21facb63da3a666570a9b.jpg);">
                                 <div class="object-tmb-info ">
 
 
                                   <div class="object-tmb-info-item">
-                                    <div class="object-info-num"
-                                      style="font-size: 12px;line-height: 14px;word-break: break-word;">Магнит или
-                                      варенье в подарок</div>
-                                    <div class="object-info-ttl">По карте<br>гостя</div>
+                                    <div class="object-info-num">-10%</div>
+                                    <div class="object-info-ttl">斯客人卡”的折扣。</div>
                                   </div>
 
 
                                 </div>
                               </div>
                             </a>
-                            <div class="object-tmb-descr">
-                              <div class="rest-tmb-descr">
+                            <div class="object-tmb-descr" style="min-height: 153.5px;">
+                              <div class="rest-tmb-descr" style="min-height: 112.5px;">
                                 <ul class="object-tmb-tags">
-                                  <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
-                                  <li>Бары и пабы</li>
+                                  <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
+                                  <li>咖啡厅和咖啡店</li>
                                 </ul>
-                                <a href="../restaurants/charodeyka-bar/">
-                                  <div class="h3"><span>Чародейка-бар</span></div>
+                                <a href="../restaurants/kafe-sudarushka/">
+                                  <div class="h3"><span>«苏达鲁什卡» 咖啡馆</span></div>
                                 </a>
                               </div>
                               <div class="object-tmb-data">
@@ -220,45 +218,13 @@
                                   <div class="ico ico-cuisine"></div>
                                   <div class="text">
                                     <ul class="object-tmb-tags">
-                                      <li>Русская</li>
+                                      <li>俄罗斯菜</li>
                                     </ul>
                                   </div>
                                 </div>
                               </div>
                             </div>
                           </div>
-                          <div class="object-tmb rest-tmb">
-                            <a href="../restaurants/restoran-antonio/" id="bx_1454625752_18748">
-                              <div class="object-tmb-pic"
-                                style="background-image: url(images/203f1baf7d1ee579f23d1d3b8096ec2b.jpg);">
-                              </div>
-                            </a>
-                            <div class="object-tmb-descr">
-                              <div class="rest-tmb-descr">
-                                <ul class="object-tmb-tags">
-                                  <li><a href="/cities/borovichi/">Боровичи</a></li>
-                                  <li>Рестораны</li>
-                                </ul>
-                                <a href="../restaurants/restoran-antonio/">
-                                  <div class="h3"><span>Семейный ресторан "Антонио" и магазин Dеликатесы (Antonio
-                                      Restaurant)</span></div>
-                                </a>
-                              </div>
-                              <div class="object-tmb-data">
-                                <div class="object-data-item">
-                                  <div class="ico ico-cuisine"></div>
-                                  <div class="text">
-                                    <ul class="object-tmb-tags">
-                                      <li>Итальянская</li>
-                                      <li>Русская</li>
-                                    </ul>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="tr">
                           <div class="object-tmb rest-tmb">
                             <a href="../restaurants/restoran-lyubytino-khutor/" id="bx_1454625752_471">
                               <div class="object-tmb-pic"
@@ -268,21 +234,21 @@
 
                                   <div class="object-tmb-info-item">
                                     <div class="object-info-num">-10%</div>
-                                    <div class="object-info-ttl">скидка по карте гостя</div>
+                                    <div class="object-info-ttl">斯客人卡”的折扣。</div>
                                   </div>
 
 
                                 </div>
                               </div>
                             </a>
-                            <div class="object-tmb-descr">
-                              <div class="rest-tmb-descr">
+                            <div class="object-tmb-descr" style="min-height: 153.5px;">
+                              <div class="rest-tmb-descr" style="min-height: 112.5px;">
                                 <ul class="object-tmb-tags">
-                                  <li><a href="/cities/p-lyubytino/">Любытино</a></li>
-                                  <li>Рестораны</li>
+                                  <li><a href="/cities/p-lyubytino/">柳比蒂诺</a></li>
+                                  <li>餐厅</li>
                                 </ul>
                                 <a href="../restaurants/restoran-lyubytino-khutor/">
-                                  <div class="h3"><span>Ресторан «Любытино-хутор»</span></div>
+                                  <div class="h3"><span>«柳比蒂诺-农场» 餐厅</span></div>
                                 </a>
                               </div>
                               <div class="object-tmb-data">
@@ -290,46 +256,7 @@
                                   <div class="ico ico-cuisine"></div>
                                   <div class="text">
                                     <ul class="object-tmb-tags">
-                                      <li>Русская</li>
-                                    </ul>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="object-tmb rest-tmb">
-                            <a href="../restaurants/restoran-marusya-marusya/" id="bx_1454625752_1380">
-                              <div class="object-tmb-pic"
-                                style="background-image: url(images/6ea2f30f92fac38d984c55f25c663ff9.jpg);">
-                                <div class="object-tmb-info ">
-
-
-                                  <div class="object-tmb-info-item">
-                                    <div class="object-info-num">-10%</div>
-                                    <div class="object-info-ttl">скидка по карте гостя</div>
-                                  </div>
-
-
-                                </div>
-                              </div>
-                            </a>
-                            <div class="object-tmb-descr">
-                              <div class="rest-tmb-descr">
-                                <ul class="object-tmb-tags">
-                                  <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
-                                  <li>Рестораны</li>
-                                </ul>
-                                <a href="../restaurants/restoran-marusya-marusya/">
-                                  <div class="h3"><span>Ресторан «Маруся» Marusya</span></div>
-                                </a>
-                              </div>
-                              <div class="object-tmb-data">
-                                <div class="object-data-item">
-                                  <div class="ico ico-cuisine"></div>
-                                  <div class="text">
-                                    <ul class="object-tmb-tags">
-                                      <li>Европейская</li>
-                                      <li>Русская</li>
+                                      <li>俄罗斯菜</li>
                                     </ul>
                                   </div>
                                 </div>
@@ -339,6 +266,45 @@
                         </div>
                         <div class="tr">
                           <div class="object-tmb rest-tmb">
+                            <a href="../restaurants/restoran-marusya-marusya/" id="bx_1454625752_1380">
+                              <div class="object-tmb-pic"
+                                style="background-image: url(images/6ea2f30f92fac38d984c55f25c663ff9.jpg);">
+                                <div class="object-tmb-info ">
+
+
+                                  <div class="object-tmb-info-item">
+                                    <div class="object-info-num">-10%</div>
+                                    <div class="object-info-ttl">斯客人卡”的折扣。</div>
+                                  </div>
+
+
+                                </div>
+                              </div>
+                            </a>
+                            <div class="object-tmb-descr" style="min-height: 153.5px;">
+                              <div class="rest-tmb-descr" style="min-height: 112.5px;">
+                                <ul class="object-tmb-tags">
+                                  <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
+                                  <li>餐厅</li>
+                                </ul>
+                                <a href="../restaurants/restoran-marusya-marusya/">
+                                  <div class="h3"><span>”马鲁西亚”(MARUSYA)餐厅</span></div>
+                                </a>
+                              </div>
+                              <div class="object-tmb-data">
+                                <div class="object-data-item">
+                                  <div class="ico ico-cuisine"></div>
+                                  <div class="text">
+                                    <ul class="object-tmb-tags">
+                                      <li>欧洲菜</li>
+                                      <li>俄罗斯菜</li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="object-tmb rest-tmb">
                             <a href="../restaurants/restoran-yurevskoe-podvore/" id="bx_1454625752_1381">
                               <div class="object-tmb-pic"
                                 style="background-image: url(images/0567fe04f602507ca4567889fc9ca295.jpg);">
@@ -347,21 +313,21 @@
 
                                   <div class="object-tmb-info-item">
                                     <div class="object-info-num">-10%</div>
-                                    <div class="object-info-ttl">скидка по карте гостя</div>
+                                    <div class="object-info-ttl">斯客人卡”的折扣。</div>
                                   </div>
 
 
                                 </div>
                               </div>
                             </a>
-                            <div class="object-tmb-descr">
-                              <div class="rest-tmb-descr">
+                            <div class="object-tmb-descr" style="min-height: 153.5px;">
+                              <div class="rest-tmb-descr" style="min-height: 112.5px;">
                                 <ul class="object-tmb-tags">
-                                  <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
-                                  <li>Рестораны</li>
+                                  <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
+                                  <li>餐厅</li>
                                 </ul>
                                 <a href="../restaurants/restoran-yurevskoe-podvore/">
-                                  <div class="h3"><span>Ресторан «Юрьевское Подворье»</span></div>
+                                  <div class="h3"><span>«尤里耶夫大院» 餐厅</span></div>
                                 </a>
                               </div>
                               <div class="object-tmb-data">
@@ -369,45 +335,7 @@
                                   <div class="ico ico-cuisine"></div>
                                   <div class="text">
                                     <ul class="object-tmb-tags">
-                                      <li>Русская</li>
-                                    </ul>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="object-tmb rest-tmb">
-                            <a href="../restaurants/restoran-fazenda/" id="bx_1454625752_3326">
-                              <div class="object-tmb-pic"
-                                style="background-image: url(images/a60985fa42d2ec697157809a2f4b80c9.jpg);">
-                                <div class="object-tmb-info ">
-
-
-                                  <div class="object-tmb-info-item">
-                                    <div class="object-info-num">-5%</div>
-                                    <div class="object-info-ttl">скидка по карте гостя</div>
-                                  </div>
-
-
-                                </div>
-                              </div>
-                            </a>
-                            <div class="object-tmb-descr">
-                              <div class="rest-tmb-descr">
-                                <ul class="object-tmb-tags">
-                                  <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
-                                  <li>Рестораны</li>
-                                </ul>
-                                <a href="../restaurants/restoran-fazenda/">
-                                  <div class="h3"><span>Ресторан «Fazenda»</span></div>
-                                </a>
-                              </div>
-                              <div class="object-tmb-data">
-                                <div class="object-data-item">
-                                  <div class="ico ico-cuisine"></div>
-                                  <div class="text">
-                                    <ul class="object-tmb-tags">
-                                      <li>Итальянская</li>
+                                      <li>俄罗斯菜</li>
                                     </ul>
                                   </div>
                                 </div>
@@ -425,21 +353,21 @@
 
                                   <div class="object-tmb-info-item">
                                     <div class="object-info-num">-10 на основное меню%</div>
-                                    <div class="object-info-ttl">скидка по карте гостя</div>
+                                    <div class="object-info-ttl">斯客人卡”的折扣。</div>
                                   </div>
 
 
                                 </div>
                               </div>
                             </a>
-                            <div class="object-tmb-descr">
-                              <div class="rest-tmb-descr">
+                            <div class="object-tmb-descr" style="min-height: 153.5px;">
+                              <div class="rest-tmb-descr" style="min-height: 112.5px;">
                                 <ul class="object-tmb-tags">
-                                  <li><a href="/cities/staraya-russa/">Старая Русса</a></li>
-                                  <li>Рестораны</li>
+                                  <li><a href="/cities/staraya-russa/">旧鲁萨</a></li>
+                                  <li>餐厅</li>
                                 </ul>
                                 <a href="../restaurants/restoran-karamazovy/">
-                                  <div class="h3"><span>Ресторан «Карамазовы»</span></div>
+                                  <div class="h3"><span>«卡拉马助夫» 餐厅</span></div>
                                 </a>
                               </div>
                               <div class="object-tmb-data">
@@ -447,9 +375,9 @@
                                   <div class="ico ico-cuisine"></div>
                                   <div class="text">
                                     <ul class="object-tmb-tags">
-                                      <li>Авторская</li>
-                                      <li>Европейская</li>
-                                      <li>Русская</li>
+                                      <li>招牌菜</li>
+                                      <li>欧洲菜</li>
+                                      <li>俄罗斯菜</li>
                                     </ul>
                                   </div>
                                 </div>
@@ -457,16 +385,46 @@
                             </div>
                           </div>
                           <div class="object-tmb rest-tmb">
-                            <a href="../restaurants/restoran-geografiya/" id="bx_1454625752_3313">
+                            <a href="../restaurants/gastrobar-naffiga-koze-bayan-/" id="bx_1454625752_2554">
                               <div class="object-tmb-pic"
-                                style="background-image: url(images/7ed453c0f24245ef97b3e17039f1fca6.jpg);">
+                                style="background-image: url(images/f0485a5e4ccceb6baa97e64319b4ba0d.jpg);">
+                                <div class="object-tmb-info ">
+
+
+                                  <div class="object-tmb-info-item">
+                                    <div class="object-info-num">-10%</div>
+                                    <div class="object-info-ttl">斯客人卡”的折扣。</div>
+                                  </div>
+
+
+                                </div>
+                              </div>
+                            </a>
+                            <div class="object-tmb-descr" style="min-height: 153.5px;">
+                              <div class="rest-tmb-descr" style="min-height: 112.5px;">
+                                <ul class="object-tmb-tags">
+                                  <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
+                                  <li>酒吧和酒馆</li>
+                                </ul>
+                                <a href="../restaurants/gastrobar-naffiga-koze-bayan-/">
+                                  <div class="h3"><span>“为什么山羊需要手风琴？！”美食酒吧</span></div>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="tr">
+                          <div class="object-tmb rest-tmb">
+                            <a href="../restaurants/charodeyka-bar/" id="bx_1454625752_2556">
+                              <div class="object-tmb-pic"
+                                style="background-image: url(images/867d7a745c962fc6ac6610568b4e2e3f.jpg);">
                                 <div class="object-tmb-info ">
 
 
                                   <div class="object-tmb-info-item">
                                     <div class="object-info-num"
-                                      style="font-size: 12px;line-height: 14px;word-break: break-word;">сладкий подарок
-                                      от ресторана «География»</div>
+                                      style="font-size: 12px;line-height: 14px;word-break: break-word;">Магнит или
+                                      варенье в подарок</div>
                                     <div class="object-info-ttl">По карте<br>гостя</div>
                                   </div>
 
@@ -474,14 +432,14 @@
                                 </div>
                               </div>
                             </a>
-                            <div class="object-tmb-descr">
-                              <div class="rest-tmb-descr">
+                            <div class="object-tmb-descr" style="min-height: 153.5px;">
+                              <div class="rest-tmb-descr" style="min-height: 112.5px;">
                                 <ul class="object-tmb-tags">
-                                  <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
-                                  <li>Рестораны</li>
+                                  <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
+                                  <li>酒吧和酒馆</li>
                                 </ul>
-                                <a href="../restaurants/restoran-geografiya/">
-                                  <div class="h3"><span>Ресторан "География"</span></div>
+                                <a href="../restaurants/charodeyka-bar/">
+                                  <div class="h3"><span>«巫婆» 酒吧</span></div>
                                 </a>
                               </div>
                               <div class="object-tmb-data">
@@ -489,10 +447,45 @@
                                   <div class="ico ico-cuisine"></div>
                                   <div class="text">
                                     <ul class="object-tmb-tags">
-                                      <li>Европейская</li>
-                                      <li>Итальянская</li>
-                                      <li>Русская</li>
-                                      <li>Японская</li>
+                                      <li>俄罗斯菜</li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="object-tmb rest-tmb">
+                            <a href="../restaurants/restoran-most-most/" id="bx_3218110189_3296">
+                              <div class="object-tmb-pic"
+                                style="background-image: url(images/3b76b5336f2e03d09012dbf785f7d6a7.jpeg);">
+                                <div class="object-tmb-info ">
+
+
+                                  <div class="object-tmb-info-item">
+                                    <div class="object-info-num">-10%</div>
+                                    <div class="object-info-ttl">斯客人卡”的折扣。</div>
+                                  </div>
+
+
+                                </div>
+                              </div>
+                            </a>
+                            <div class="object-tmb-descr" style="min-height: 153.5px;">
+                              <div class="rest-tmb-descr" style="min-height: 112.5px;">
+                                <ul class="object-tmb-tags">
+                                  <li><a href="/cities/borovichi/">博罗维奇</a></li>
+                                  <li>餐厅</li>
+                                </ul>
+                                <a href="../restaurants/restoran-most-most/">
+                                  <div class="h3"><span>“桥” 餐厅 (MOST)</span></div>
+                                </a>
+                              </div>
+                              <div class="object-tmb-data">
+                                <div class="object-data-item">
+                                  <div class="ico ico-cuisine"></div>
+                                  <div class="text">
+                                    <ul class="object-tmb-tags">
+                                      <li>招牌菜</li>
                                     </ul>
                                   </div>
                                 </div>
@@ -502,7 +495,35 @@
                         </div>
                         <div class="tr">
                           <div class="object-tmb rest-tmb">
-                            <a href="../restaurants/sytyy-gus-kafe-restoran-russkoy-kukhni/" id="bx_1454625752_20407">
+                            <a href="../restaurants/eko-klub-valday/" id="bx_3218110189_18725">
+                              <div class="object-tmb-pic"
+                                style="background-image: url(images/a126a95d45a786ee21ae3eb1c9f304fd.jpg);">
+                              </div>
+                            </a>
+                            <div class="object-tmb-descr" style="min-height: 153.5px;">
+                              <div class="rest-tmb-descr" style="min-height: 112.5px;">
+                                <ul class="object-tmb-tags">
+                                  <li><a href="/cities/valda/">瓦尔代</a></li>
+                                  <li>餐厅</li>
+                                </ul>
+                                <a href="../restaurants/eko-klub-valday/">
+                                  <div class="h3"><span> «瓦尔代生态俱乐部» 餐厅</span></div>
+                                </a>
+                              </div>
+                              <div class="object-tmb-data">
+                                <div class="object-data-item">
+                                  <div class="ico ico-cuisine"></div>
+                                  <div class="text">
+                                    <ul class="object-tmb-tags">
+                                      <li>俄罗斯菜</li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="object-tmb rest-tmb">
+                            <a href="../restaurants/sytyy-gus-kafe-restoran-russkoy-kukhni/" id="bx_3218110189_20407">
                               <div class="object-tmb-pic"
                                 style="background-image: url(images/04a0ed13ca535c1534ce09efc56c6240.jpg);">
                                 <div class="object-tmb-info ">
@@ -519,15 +540,15 @@
                                 </div>
                               </div>
                             </a>
-                            <div class="object-tmb-descr">
-                              <div class="rest-tmb-descr">
+                            <div class="object-tmb-descr" style="min-height: 153.5px;">
+                              <div class="rest-tmb-descr" style="min-height: 112.5px;">
                                 <ul class="object-tmb-tags">
-                                  <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
-                                  <li>Рестораны</li>
-                                  <li>Кафе и кофейни</li>
+                                  <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
+                                  <li>餐厅</li>
+                                  <li>咖啡厅和咖啡店</li>
                                 </ul>
                                 <a href="../restaurants/sytyy-gus-kafe-restoran-russkoy-kukhni/">
-                                  <div class="h3"><span>Кафе-ресторан русской кухни "Сытый Гусь"</span></div>
+                                  <div class="h3"><span>"饱鹅" 俄式咖啡餐厅</span></div>
                                 </a>
                               </div>
                               <div class="object-tmb-data">
@@ -535,251 +556,22 @@
                                   <div class="ico ico-cuisine"></div>
                                   <div class="text">
                                     <ul class="object-tmb-tags">
-                                      <li>Русская</li>
+                                      <li>俄罗斯菜</li>
                                     </ul>
                                   </div>
                                 </div>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="object-tmb rest-tmb">
-                            <a href="../restaurants/restoran-bar-pryanik/" id="bx_1454625752_2558">
-                              <div class="object-tmb-pic"
-                                style="background-image: url(images/f6485e1270af2b62db968940fc20511b.jpg);">
-                                <div class="object-tmb-info ">
-
-
-                                  <div class="object-tmb-info-item">
-                                    <div class="object-info-num">-10%</div>
-                                    <div class="object-info-ttl">скидка по карте гостя</div>
-                                  </div>
-
-
-                                </div>
-                              </div>
-                            </a>
-                            <div class="object-tmb-descr">
-                              <div class="rest-tmb-descr">
-                                <ul class="object-tmb-tags">
-                                  <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
-                                  <li>Рестораны</li>
-                                  <li>Бары и пабы</li>
-                                </ul>
-                                <a href="../restaurants/restoran-bar-pryanik/">
-                                  <div class="h3"><span>Ресторан-бар "Пряник"</span></div>
-                                </a>
-                              </div>
-                              <div class="object-tmb-data">
-                                <div class="object-data-item">
-                                  <div class="ico ico-cuisine"></div>
-                                  <div class="text">
-                                    <ul class="object-tmb-tags">
-                                      <li>Европейская</li>
-                                      <li>Русская</li>
-                                    </ul>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="tr">
-                          <div class="object-tmb rest-tmb">
-                            <a href="../restaurants/gastrobar-naffiga-koze-bayan-/" id="bx_1454625752_2554">
-                              <div class="object-tmb-pic"
-                                style="background-image: url(images/f0485a5e4ccceb6baa97e64319b4ba0d.jpg);">
-                                <div class="object-tmb-info ">
-
-
-                                  <div class="object-tmb-info-item">
-                                    <div class="object-info-num">-10%</div>
-                                    <div class="object-info-ttl">скидка по карте гостя</div>
-                                  </div>
-
-
-                                </div>
-                              </div>
-                            </a>
-                            <div class="object-tmb-descr">
-                              <div class="rest-tmb-descr">
-                                <ul class="object-tmb-tags">
-                                  <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
-                                  <li>Бары и пабы</li>
-                                </ul>
-                                <a href="../restaurants/gastrobar-naffiga-koze-bayan-/">
-                                  <div class="h3"><span>Гастробар «Наffига Козе баян?!»</span></div>
-                                </a>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="object-tmb rest-tmb">
-                            <a href="../restaurants/restoran-i-bar-moya-kukhnya-na-torgovoy-storone/"
-                              id="bx_1454625752_294">
-                              <div class="object-tmb-pic"
-                                style="background-image: url(images/251620f9881cb8cfb9032fb9fc1f2fc2.jpg);">
-                                <div class="object-tmb-info ">
-
-
-                                  <div class="object-tmb-info-item">
-                                    <div class="object-info-num"
-                                      style="font-size: 12px;line-height: 14px;word-break: break-word;">приветственный
-                                      бокал вина или б/а коктейль при заказе</div>
-                                    <div class="object-info-ttl">По карте<br>гостя</div>
-                                  </div>
-
-
-                                </div>
-                              </div>
-                            </a>
-                            <div class="object-tmb-descr">
-                              <div class="rest-tmb-descr">
-                                <ul class="object-tmb-tags">
-                                  <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
-                                  <li>Рестораны</li>
-                                </ul>
-                                <a href="../restaurants/restoran-i-bar-moya-kukhnya-na-torgovoy-storone/">
-                                  <div class="h3"><span>Ресторан и бар My Kitchen на Торговой стороне</span></div>
-                                </a>
-                              </div>
-                              <div class="object-tmb-data">
-                                <div class="object-data-item">
-                                  <div class="ico ico-cuisine"></div>
-                                  <div class="text">
-                                    <ul class="object-tmb-tags">
-                                      <li>Кавказская</li>
-                                    </ul>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="tr">
-                          <div class="object-tmb rest-tmb">
-                            <a href="../restaurants/bryumen/" id="bx_1454625752_290">
-                              <div class="object-tmb-pic"
-                                style="background-image: url(images/71db07cb0484dbf3a7bfd7a1fc3da3eb.jpg);">
-                                <div class="object-tmb-info ">
-
-
-                                  <div class="object-tmb-info-item">
-                                    <div class="object-info-num"
-                                      style="font-size: 12px;line-height: 14px;word-break: break-word;">Бокал
-                                      свежесваренного крафтового пива</div>
-                                    <div class="object-info-ttl">По карте<br>гостя</div>
-                                  </div>
-
-
-                                </div>
-                              </div>
-                            </a>
-                            <div class="object-tmb-descr">
-                              <div class="rest-tmb-descr">
-                                <ul class="object-tmb-tags">
-                                  <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
-                                  <li>Рестораны</li>
-                                </ul>
-                                <a href="../restaurants/bryumen/">
-                                  <div class="h3"><span>Ресторан «Брюмен»</span></div>
-                                </a>
-                              </div>
-                              <div class="object-tmb-data">
-                                <div class="object-data-item">
-                                  <div class="ico ico-cuisine"></div>
-                                  <div class="text">
-                                    <ul class="object-tmb-tags">
-                                      <li>Европейская</li>
-                                    </ul>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="object-tmb rest-tmb">
-                            <a href="../restaurants/chaykhana-skazka/" id="bx_1454625752_287">
-                              <div class="object-tmb-pic"
-                                style="background-image: url(images/e28e57e5775d2e1753ceb20533a9c0a2.jpg);">
-                                <div class="object-tmb-info ">
-
-
-                                  <div class="object-tmb-info-item">
-                                    <div class="object-info-num">-10%</div>
-                                    <div class="object-info-ttl">скидка по карте гостя</div>
-                                  </div>
-
-
-                                </div>
-                              </div>
-                            </a>
-                            <div class="object-tmb-descr">
-                              <div class="rest-tmb-descr">
-                                <ul class="object-tmb-tags">
-                                  <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
-                                  <li>Чайханы</li>
-                                </ul>
-                                <a href="../restaurants/chaykhana-skazka/">
-                                  <div class="h3"><span>Чайхана «Сказка»</span></div>
-                                </a>
-                              </div>
-                              <div class="object-tmb-data">
-                                <div class="object-data-item">
-                                  <div class="ico ico-cuisine"></div>
-                                  <div class="text">
-                                    <ul class="object-tmb-tags">
-                                      <li>Европейская</li>
-                                      <li>Кавказская</li>
-                                    </ul>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="tr">
-                          <div class="object-tmb rest-tmb">
-                            <a href="../restaurants/restobar-mamont/" id="bx_1454625752_21047">
-                              <div class="object-tmb-pic"
-                                style="background-image: url(images/9e7d061eda4e376ce503a0530abcf98d.jpg);">
-                              </div>
-                            </a>
-                            <div class="object-tmb-descr">
-                              <div class="rest-tmb-descr">
-                                <ul class="object-tmb-tags">
-                                  <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
-                                  <li>Бары и пабы</li>
-                                </ul>
-                                <a href="../restaurants/restobar-mamont/">
-                                  <div class="h3"><span>Рестобар Мамонт</span></div>
-                                </a>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="object-tmb rest-tmb">
-                            <a href="../restaurants/kafe-uezdnoe/" id="bx_1454625752_22879">
-                              <div class="object-tmb-pic"
-                                style="background-image: url(images/56542e4942429ea829bf1f5f0572e626.jpg);">
-                              </div>
-                            </a>
-                            <div class="object-tmb-descr">
-                              <div class="rest-tmb-descr">
-                                <ul class="object-tmb-tags">
-                                  <li><a href="/cities/valda/">Валдай</a></li>
-                                </ul>
-                                <a href="../restaurants/kafe-uezdnoe/">
-                                  <div class="h3"><span>Кафе «Уездное»</span></div>
-                                </a>
                               </div>
                             </div>
                           </div>
                         </div>
                       </div>
                     </div>
-                    <div class="show-more-wrapper">
+                    <!-- <div class="show-more-wrapper">
                       <a class="show-more restaurants-show-more"
-                        href="../restaurants/?TOWN=0&amp;PAGEN_7=2&amp;PAGEN_1=2">
+                        href="..../restaurants/?TOWN=0&amp;PAGEN_7=2&amp;PAGEN_1=2">
                         Показать еще
                       </a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </div>
