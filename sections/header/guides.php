@@ -9,7 +9,7 @@
             <meta itemprop="position" content="1">
           </li>
           <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-            景点
+            名胜古迹
             <meta itemprop="position" content="2">
           </li>
         </ul>
@@ -25,10 +25,9 @@
                   <div class="page-header-top-valign">
                     <div class="page-header-top-valign-cont">
                       <h1>
-                        景点 </h1>
+                        名胜古迹 </h1>
                       <div class="page-header-lead">
-                        <p>Информация о туристических возможностях и достопримечательностях Новгородской области - куда
-                          ехать и что посмотреть</p>
+                        <p>关于诺夫哥罗德地区旅游机会和景点的信息-去哪里看什么</p>
                       </div>
                     </div>
                   </div>
