@@ -166,7 +166,39 @@
                     <div class="objects-list">
                       <div class="tr">
                         <div class="object-tmb hotel-tmb">
-                          <a href="../hotels/butik-otel-truvor/" id="bx_1454625752_275">
+                          <a href="/hotels/inturist/" id="bx_3218110189_272">
+                            <div class="object-tmb-pic"
+                              style="background-image: url(images/de4effcd95f3f87b426e1ecbea2e1740.jpg);">
+                              <div class="object-tmb-info">
+
+
+                                <div class="object-tmb-info-item">
+                                  <div class="object-info-num">-15%</div>
+                                  <div class="object-info-ttl">斯客人卡”的折扣。</div>
+                                </div>
+                              </div>
+                            </div>
+                          </a>
+                          <div class="object-tmb-descr" style="min-height: 153.5px;">
+                            <div class="hotel-tmb-descr" style="min-height: 122.5px;">
+                              <ul class="object-tmb-tags">
+                                <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
+                              </ul>
+                              <a href="/hotels/inturist/">
+                                <div class="h3"><span>“国际旅行”酒店</span></div>
+                              </a>
+                            </div>
+                            <div class="object-tmb-data">
+                              <div class="object-data-item">
+                                <div class="ico ico-type-hotel"></div>
+                                <div class="text">酒店</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <div class="object-tmb hotel-tmb">
+                          <a href="/hotels/butik-otel-truvor/" id="bx_1454625752_275">
                             <div class="object-tmb-pic"
                               style="background-image: url(images/8d93df3f7dffd576b64491a401950efe.jpg);">
                               <div class="object-tmb-info">
@@ -174,444 +206,51 @@
 
                                 <div class="object-tmb-info-item">
                                   <div class="object-info-num">-15%</div>
-                                  <div class="object-info-ttl">скидка по�&nbsp;карте гостя</div>
+                                  <div class="object-info-ttl">斯客人卡”的折扣。</div>
                                 </div>
                               </div>
                             </div>
                           </a>
-                          <div class="object-tmb-descr">
-                            <div class="hotel-tmb-descr">
+                          <div class="object-tmb-descr" style="min-height: 238.5px;">
+                            <div class="hotel-tmb-descr" style="min-height: 186.5px;">
                               <ul class="object-tmb-tags">
-                                <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
+                                <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
                               </ul>
-                              <a href="../hotels/butik-otel-truvor/">
-                                <div class="h3"><span>Бутик-отель «Truvor»</span></div>
+                              <a href="/hotels/butik-otel-truvor/">
+                                <div class="h3"><span>“特鲁沃”精品酒店(«Truvor»)</span></div>
                               </a>
                             </div>
                             <div class="object-tmb-data">
                               <div class="object-data-item">
                                 <div class="ico ico-type-hotel"></div>
-                                <div class="text">Гостиница</div>
+                                <div class="text">酒店</div>
                               </div>
                             </div>
                           </div>
                         </div>
 
-                        <div class="object-tmb hotel-tmb">
-                          <a href="../hotels/otel-bianki/" id="bx_1454625752_2696">
-                            <div class="object-tmb-pic"
-                              style="background-image: url(images/0478b1694c02af74e0573374d9242a0a.jpg);">
-                              <div class="object-tmb-info">
-
-
-                                <div class="object-tmb-info-item">
-                                  <div class="object-info-num">-10%</div>
-                                  <div class="object-info-ttl">скидка по�&nbsp;карте гостя</div>
-                                </div>
-                              </div>
-                            </div>
-                          </a>
-                          <div class="object-tmb-descr">
-                            <div class="hotel-tmb-descr">
-                              <ul class="object-tmb-tags">
-                                <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
-                              </ul>
-                              <a href="../hotels/otel-bianki/">
-                                <div class="h3"><span>Отель "БИАНКИ"</span></div>
-                              </a>
-                            </div>
-                            <div class="hotel-tmb-rating">
-                              <div class="hotel-rating">4</div>
-                            </div>
-                            <div class="object-tmb-data">
-                              <div class="object-data-item">
-                                <div class="ico ico-type-hotel"></div>
-                                <div class="text">Гостиница</div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
 
                       </div>
                       <div class="tr">
                         <div class="object-tmb hotel-tmb">
-                          <a href="../hotels/gostinitsa-volkhov/" id="bx_1454625752_1405">
+                          <a href="/hotels/gostinitsa-sadko/" id="bx_3218110189_278">
                             <div class="object-tmb-pic"
-                              style="background-image: url(images/b33a7e3a229089480314c3b554d1435d.jpg);">
+                              style="background-image: url(images/055fd5402bcfc18b6c1f95d69f2aafd3.jpg);">
                               <div class="object-tmb-info">
-
-
                                 <div class="object-tmb-info-item">
                                   <div class="object-info-num">-10%</div>
-                                  <div class="object-info-ttl">скидка по�&nbsp;карте гостя</div>
+                                  <div class="object-info-ttl">斯客人卡”的折扣。</div>
                                 </div>
                               </div>
                             </div>
                           </a>
-                          <div class="object-tmb-descr">
-                            <div class="hotel-tmb-descr">
+                          <div class="object-tmb-descr" style="min-height: 238.5px;">
+                            <div class="hotel-tmb-descr" style="min-height: 137.5px;">
                               <ul class="object-tmb-tags">
-                                <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
+                                <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
                               </ul>
-                              <a href="../hotels/gostinitsa-volkhov/">
-                                <div class="h3"><span>Гостиница «Волхов»</span></div>
-                              </a>
-                            </div>
-                            <div class="hotel-tmb-rating">
-                              <div class="hotel-rating">4</div>
-                            </div>
-                            <div class="object-tmb-data">
-                              <div class="object-data-item">
-                                <div class="ico ico-type-hotel"></div>
-                                <div class="text">Гостиница</div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-
-                        <div class="object-tmb hotel-tmb">
-                          <a href="../hotels/otel-viktoriya/" id="bx_1454625752_2898">
-                            <div class="object-tmb-pic"
-                              style="background-image: url(images/440e0661f682c0af3bf712a55a4ee81c.jpg);">
-                              <div class="object-tmb-info">
-
-
-                                <div class="object-tmb-info-item">
-                                  <div class="object-info-num">-15%</div>
-                                  <div class="object-info-ttl">скидка по�&nbsp;карте гостя</div>
-                                </div>
-                              </div>
-                            </div>
-                          </a>
-                          <div class="object-tmb-descr">
-                            <div class="hotel-tmb-descr">
-                              <ul class="object-tmb-tags">
-                                <li><a href="/cities/borovichi/">Боровичи</a></li>
-                              </ul>
-                              <a href="../hotels/otel-viktoriya/">
-                                <div class="h3"><span>Отель "Виктория"</span></div>
-                              </a>
-                            </div>
-                            <div class="object-tmb-data">
-                              <div class="object-data-item">
-                                <div class="ico ico-type-hotel"></div>
-                                <div class="text">Гостиница</div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-
-                      </div>
-                      <div class="tr">
-                        <div class="object-tmb hotel-tmb">
-                          <a href="../hotels/baza-otdykha-lyubytino-khutor/" id="bx_1454625752_469">
-                            <div class="object-tmb-pic"
-                              style="background-image: url(images/4dcaafcbb9e451d724fcf9d01a1aea2b.jpg);">
-                              <div class="object-tmb-info">
-
-
-                                <div class="object-tmb-info-item">
-                                  <div class="object-info-num">-10%</div>
-                                  <div class="object-info-ttl">скидка по�&nbsp;карте гостя</div>
-                                </div>
-                              </div>
-                            </div>
-                          </a>
-                          <div class="object-tmb-descr">
-                            <div class="hotel-tmb-descr">
-                              <ul class="object-tmb-tags">
-                                <li><a href="/cities/p-lyubytino/">Любытино</a></li>
-                              </ul>
-                              <a href="../hotels/baza-otdykha-lyubytino-khutor/">
-                                <div class="h3"><span>База отдыха «Любытино-хутор»</span></div>
-                              </a>
-                            </div>
-                            <div class="object-tmb-data">
-                              <div class="object-data-item">
-                                <div class="ico ico-type-hotel"></div>
-                                <div class="text">База отдыха</div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-
-                        <div class="object-tmb hotel-tmb">
-                          <a href="../hotels/truvor-glamping-glemping-truvor/" id="bx_1454625752_19710">
-                            <div class="object-tmb-pic"
-                              style="background-image: url(images/e42f2ac7415357458f0d490762f81eec.jpg);">
-                              <div class="object-tmb-info">
-
-
-                                <div class="object-tmb-info-item">
-                                  <div class="object-info-num">-15%</div>
-                                  <div class="object-info-ttl">скидка по�&nbsp;карте гостя</div>
-                                </div>
-                              </div>
-                            </div>
-                          </a>
-                          <div class="object-tmb-descr">
-                            <div class="hotel-tmb-descr">
-                              <ul class="object-tmb-tags">
-                                <li><a href="/cities/valda/">Валдай</a></li>
-                              </ul>
-                              <a href="../hotels/truvor-glamping-glemping-truvor/">
-                                <div class="h3"><span>Truvor glamping Глэмпинг Трувор</span></div>
-                              </a>
-                            </div>
-                            <div class="object-tmb-data">
-                              <div class="object-data-item">
-                                <div class="ico ico-type-hotel"></div>
-                                <div class="text">База отдыха</div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-
-                      </div>
-                      <div class="tr">
-                        <div class="object-tmb hotel-tmb">
-                          <a href="../hotels/vsesezonnyy-kurort-lyubogore-gornolyzhnyy-klub/" id="bx_1454625752_2936">
-                            <div class="object-tmb-pic"
-                              style="background-image: url(images/2cec561e7de15f59f61fc1c0f14ccea8.jpg);">
-                              <div class="object-tmb-info">
-
-
-                                <div class="object-tmb-info-item">
-                                  <div class="object-info-num">-5%</div>
-                                  <div class="object-info-ttl">скидка по�&nbsp;карте гостя</div>
-                                </div>
-                              </div>
-                            </div>
-                          </a>
-                          <div class="object-tmb-descr">
-                            <div class="hotel-tmb-descr">
-                              <ul class="object-tmb-tags">
-                                <li><a href="/cities/p-lyubytino/">Любытино</a></li>
-                              </ul>
-                              <a href="../hotels/vsesezonnyy-kurort-lyubogore-gornolyzhnyy-klub/">
-                                <div class="h3"><span>Всесезонный курорт «Любогорье» (Горнолыжный клуб)</span></div>
-                              </a>
-                            </div>
-                            <div class="object-tmb-data">
-                              <div class="object-data-item">
-                                <div class="ico ico-type-hotel"></div>
-                                <div class="text">База отдыха</div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-
-                        <div class="object-tmb hotel-tmb">
-                          <a href="../hotels/rakhmaninov-otel/" id="bx_1454625752_274">
-                            <div class="object-tmb-pic"
-                              style="background-image: url(images/9c484dcdd41ad5c14ac3e46de15a9849.jpg);">
-                            </div>
-                          </a>
-                          <div class="object-tmb-descr">
-                            <div class="hotel-tmb-descr">
-                              <ul class="object-tmb-tags">
-                                <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
-                              </ul>
-                              <a href="../hotels/rakhmaninov-otel/">
-                                <div class="h3"><span>�&nbsp;ахманинов. Отель</span></div>
-                              </a>
-                            </div>
-                            <div class="object-tmb-data">
-                              <div class="object-data-item">
-                                <div class="ico ico-type-hotel"></div>
-                                <div class="text">Гостиница</div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-
-                      </div>
-                      <div class="tr">
-                        <div class="object-tmb hotel-tmb">
-                          <a href="../hotels/karelinn/" id="bx_1454625752_2641">
-                            <div class="object-tmb-pic"
-                              style="background-image: url(images/8399fe953062c89b05a9b64d868fe011.jpg);">
-                              <div class="object-tmb-info">
-
-
-                                <div class="object-tmb-info-item">
-                                  <div class="object-info-num">-10%</div>
-                                  <div class="object-info-ttl">скидка по�&nbsp;карте гостя</div>
-                                </div>
-                              </div>
-                            </div>
-                          </a>
-                          <div class="object-tmb-descr">
-                            <div class="hotel-tmb-descr">
-                              <ul class="object-tmb-tags">
-                                <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
-                              </ul>
-                              <a href="../hotels/karelinn/">
-                                <div class="h3"><span>Карелинн</span></div>
-                              </a>
-                            </div>
-                            <div class="object-tmb-data">
-                              <div class="object-data-item">
-                                <div class="ico ico-type-hotel"></div>
-                                <div class="text">Гостиница</div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-
-                        <div class="object-tmb hotel-tmb">
-                          <a href="../hotels/butik-otel-yurevskoe-podvore/" id="bx_1454625752_1406">
-                            <div class="object-tmb-pic"
-                              style="background-image: url(images/fd3cab96ce47cfda4d67dddf46025b24.jpg);">
-                              <div class="object-tmb-info">
-
-
-                                <div class="object-tmb-info-item">
-                                  <div class="object-info-num">-10%</div>
-                                  <div class="object-info-ttl">скидка по�&nbsp;карте гостя</div>
-                                </div>
-                              </div>
-                            </div>
-                          </a>
-                          <div class="object-tmb-descr">
-                            <div class="hotel-tmb-descr">
-                              <ul class="object-tmb-tags">
-                                <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
-                              </ul>
-                              <a href="../hotels/butik-otel-yurevskoe-podvore/">
-                                <div class="h3"><span>Бутик-отель «Юрьевское Подворье»</span></div>
-                              </a>
-                            </div>
-                            <div class="object-tmb-data">
-                              <div class="object-data-item">
-                                <div class="ico ico-type-hotel"></div>
-                                <div class="text">Гостиница</div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-
-                      </div>
-                      <div class="tr">
-                        <div class="object-tmb hotel-tmb">
-                          <a href="../hotels/gostevoy-dom-valeriya/" id="bx_1454625752_19547">
-                            <div class="object-tmb-pic"
-                              style="background-image: url(images/54a6d7b4c0fa42ac04dc6289e4b421db.jpeg);">
-                              <div class="object-tmb-info">
-
-
-                                <div class="object-tmb-info-item">
-                                  <div class="object-info-num">-10%</div>
-                                  <div class="object-info-ttl">скидка по�&nbsp;карте гостя</div>
-                                </div>
-                              </div>
-                            </div>
-                          </a>
-                          <div class="object-tmb-descr">
-                            <div class="hotel-tmb-descr">
-                              <ul class="object-tmb-tags">
-                                <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
-                              </ul>
-                              <a href="../hotels/gostevoy-dom-valeriya/">
-                                <div class="h3"><span>Гостевой дом "Валерия"</span></div>
-                              </a>
-                            </div>
-                            <div class="object-tmb-data">
-                              <div class="object-data-item">
-                                <div class="ico ico-type-hotel"></div>
-                                <div class="text">Гостевой дом</div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-
-                        <div class="object-tmb hotel-tmb">
-                          <a href="../hotels/gostevoy-dom-tri-kota/" id="bx_1454625752_1847">
-                            <div class="object-tmb-pic"
-                              style="background-image: url(images/bc0efec79f330ef567fb4c7d56327998.jpg);">
-                              <div class="object-tmb-info">
-
-
-                                <div class="object-tmb-info-item">
-                                  <div class="object-info-num">-10%</div>
-                                  <div class="object-info-ttl">скидка по�&nbsp;карте гостя</div>
-                                </div>
-                              </div>
-                            </div>
-                          </a>
-                          <div class="object-tmb-descr">
-                            <div class="hotel-tmb-descr">
-                              <ul class="object-tmb-tags">
-                                <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
-                              </ul>
-                              <a href="../hotels/gostevoy-dom-tri-kota/">
-                                <div class="h3"><span>Гостевой дом "Три кота"</span></div>
-                              </a>
-                            </div>
-                            <div class="object-tmb-data">
-                              <div class="object-data-item">
-                                <div class="ico ico-type-hotel"></div>
-                                <div class="text">Гостиница</div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-
-                      </div>
-                      <div class="tr">
-                        <div class="object-tmb hotel-tmb">
-                          <a href="../hotels/otel-welcome-inn/" id="bx_1454625752_280">
-                            <div class="object-tmb-pic"
-                              style="background-image: url(images/0e4a9ab7831066b991bb543ea9f79085.jpg);">
-                              <div class="object-tmb-info">
-
-
-                                <div class="object-tmb-info-item">
-                                  <div class="object-info-num">-10%</div>
-                                  <div class="object-info-ttl">скидка по�&nbsp;карте гостя</div>
-                                </div>
-                              </div>
-                            </div>
-                          </a>
-                          <div class="object-tmb-descr">
-                            <div class="hotel-tmb-descr">
-                              <ul class="object-tmb-tags">
-                                <li><a href="/cities/velikiy-novgorod/">Великий Новгород</a></li>
-                              </ul>
-                              <a href="../hotels/otel-welcome-inn/">
-                                <div class="h3"><span>Отель «Welcome inn»</span></div>
-                              </a>
-                            </div>
-                            <div class="object-tmb-data">
-                              <div class="object-data-item">
-                                <div class="ico ico-type-hotel"></div>
-                                <div class="text">Гостиница</div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-
-                        <div class="object-tmb hotel-tmb">
-                          <a href="../hotels/gostinitsa-polist/" id="bx_1454625752_1437">
-                            <div class="object-tmb-pic"
-                              style="background-image: url(images/c83ec3fb5e0cea76839054a5640830fc.jpg);">
-                              <div class="object-tmb-info">
-
-
-                                <div class="object-tmb-info-item">
-                                  <div class="object-info-num">-10%</div>
-                                  <div class="object-info-ttl">скидка по�&nbsp;карте гостя</div>
-                                </div>
-                              </div>
-                            </div>
-                          </a>
-                          <div class="object-tmb-descr">
-                            <div class="hotel-tmb-descr">
-                              <ul class="object-tmb-tags">
-                                <li><a href="/cities/staraya-russa/">Старая �&nbsp;усса</a></li>
-                              </ul>
-                              <a href="../hotels/gostinitsa-polist/">
-                                <div class="h3"><span>Гостиница «Полисть»</span></div>
+                              <a href="/hotels/gostinitsa-sadko/">
+                                <div class="h3"><span>“萨特阔”酒店</span></div>
                               </a>
                             </div>
                             <div class="hotel-tmb-rating">
@@ -620,7 +259,172 @@
                             <div class="object-tmb-data">
                               <div class="object-data-item">
                                 <div class="ico ico-type-hotel"></div>
-                                <div class="text">Гостиница</div>
+                                <div class="text">酒店</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="object-tmb hotel-tmb">
+                          <a href="/hotels/kurort-staraya-russa/" id="bx_3218110189_343">
+                            <div class="object-tmb-pic"
+                              style="background-image: url(images/de5e3fc37a2bc6eb10e536be4c84ddca.jpg);">
+                              <div class="object-tmb-info">
+
+
+                                <div class="object-tmb-info-item">
+                                  <div class="object-info-num">-18%</div>
+                                  <div class="object-info-ttl">斯客人卡”的折扣。</div>
+                                </div>
+                              </div>
+                            </div>
+                          </a>
+                          <div class="object-tmb-descr" style="min-height: 238.5px;">
+                            <div class="hotel-tmb-descr" style="min-height: 186.5px;">
+                              <ul class="object-tmb-tags">
+                                <li><a href="/cities/staraya-russa/">旧鲁萨</a></li>
+                              </ul>
+                              <a href="/hotels/kurort-staraya-russa/">
+                                <div class="h3"><span>«旧鲁萨» 基地度假</span></div>
+                              </a>
+                            </div>
+                            <div class="object-tmb-data">
+                              <div class="object-data-item">
+                                <div class="ico ico-type-hotel"></div>
+                                <div class="text">疗养院</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="tr">
+                        <div class="object-tmb hotel-tmb">
+                          <a href="/hotels/gostinitsa-valday-eko-klub/" id="bx_3218110189_347">
+                            <div class="object-tmb-pic"
+                              style="background-image: url(images/d606590b3bf68369611196227607d27a.jpg);">
+                              <div class="object-tmb-info">
+
+
+                                <div class="object-tmb-info-item">
+                                  <div class="object-info-num">-10%</div>
+                                  <div class="object-info-ttl">斯客人卡”的折扣。</div>
+                                </div>
+                              </div>
+                            </div>
+                          </a>
+                          <div class="object-tmb-descr" style="min-height: 153.5px;">
+                            <div class="hotel-tmb-descr" style="min-height: 122.5px;">
+                              <ul class="object-tmb-tags">
+                                <li><a href="/cities/valda/">瓦尔代</a></li>
+                              </ul>
+                              <a href="/hotels/gostinitsa-valday-eko-klub/">
+                                <div class="h3"><span>“瓦尔代生态俱乐部”酒店</span></div>
+                              </a>
+                            </div>
+                            <div class="object-tmb-data">
+                              <div class="object-data-item">
+                                <div class="ico ico-type-hotel"></div>
+                                <div class="text">娱乐设施</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="object-tmb hotel-tmb">
+                          <a href="/hotels/gostinitsa-volkhov/" id="bx_1454625752_1405">
+                            <div class="object-tmb-pic"
+                              style="background-image: url(images/b33a7e3a229089480314c3b554d1435d.jpg);">
+                              <div class="object-tmb-info">
+
+
+                                <div class="object-tmb-info-item">
+                                  <div class="object-info-num">-10%</div>
+                                  <div class="object-info-ttl">斯客人卡”的折扣。</div>
+                                </div>
+                              </div>
+                            </div>
+                          </a>
+                          <div class="object-tmb-descr" style="min-height: 153.5px;">
+                            <div class="hotel-tmb-descr" style="min-height: 122.5px;">
+                              <ul class="object-tmb-tags">
+                                <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
+                              </ul>
+                              <a href="/hotels/gostinitsa-volkhov/">
+                                <div class="h3"><span> «沃尔霍夫»酒店</span></div>
+                              </a>
+                            </div>
+                            <div class="hotel-tmb-rating">
+                              <div class="hotel-rating">4</div>
+                            </div>
+                            <div class="object-tmb-data">
+                              <div class="object-data-item">
+                                <div class="ico ico-type-hotel"></div>
+                                <div class="text">酒店</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="tr">
+                        <div class="object-tmb hotel-tmb">
+                          <a href="/hotels/butik-otel-yurevskoe-podvore/" id="bx_1454625752_1406">
+                            <div class="object-tmb-pic"
+                              style="background-image: url(images/fd3cab96ce47cfda4d67dddf46025b24.jpg);">
+                              <div class="object-tmb-info">
+
+
+                                <div class="object-tmb-info-item">
+                                  <div class="object-info-num">-10%</div>
+                                  <div class="object-info-ttl">斯客人卡”的折扣。</div>
+                                </div>
+                              </div>
+                            </div>
+                          </a>
+                          <div class="object-tmb-descr" style="min-height: 153.5px;">
+                            <div class="hotel-tmb-descr" style="min-height: 122.5px;">
+                              <ul class="object-tmb-tags">
+                                <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
+                              </ul>
+                              <a href="/hotels/butik-otel-yurevskoe-podvore/">
+                                <div class="h3"><span>«尤里耶夫大院»精品酒店</span></div>
+                              </a>
+                            </div>
+                            <div class="object-tmb-data">
+                              <div class="object-data-item">
+                                <div class="ico ico-type-hotel"></div>
+                                <div class="text">酒店</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="object-tmb hotel-tmb">
+                          <a href="/hotels/otel-bianki/" id="bx_1454625752_2696">
+                            <div class="object-tmb-pic"
+                              style="background-image: url(images/0478b1694c02af74e0573374d9242a0a.jpg);">
+                              <div class="object-tmb-info">
+
+
+                                <div class="object-tmb-info-item">
+                                  <div class="object-info-num">-10%</div>
+                                  <div class="object-info-ttl">斯客人卡”的折扣。</div>
+                                </div>
+                              </div>
+                            </div>
+                          </a>
+                          <div class="object-tmb-descr" style="min-height: 153.5px;">
+                            <div class="hotel-tmb-descr" style="min-height: 122.5px;">
+                              <ul class="object-tmb-tags">
+                                <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
+                              </ul>
+                              <a href="/hotels/otel-bianki/">
+                                <div class="h3"><span>"比安奇"酒店</span></div>
+                              </a>
+                            </div>
+                            <div class="hotel-tmb-rating">
+                              <div class="hotel-rating">4</div>
+                            </div>
+                            <div class="object-tmb-data">
+                              <div class="object-data-item">
+                                <div class="ico ico-type-hotel"></div>
+                                <div class="text">酒店</div>
                               </div>
                             </div>
                           </div>
@@ -629,68 +433,69 @@
                       </div>
                       <div class="tr">
                         <div class="object-tmb hotel-tmb">
-                          <a href="../hotels/mini-otel-santa-russa/" id="bx_1454625752_20346">
+                          <a href="/hotels/vsesezonnyy-kurort-lyubogore-gornolyzhnyy-klub/" id="bx_1454625752_2936">
                             <div class="object-tmb-pic"
-                              style="background-image: url(images/475a93c506a1a381a0032c89c51ec852.jpg);">
-                            </div>
-                          </a>
-                          <div class="object-tmb-descr">
-                            <div class="hotel-tmb-descr">
-                              <ul class="object-tmb-tags">
-                                <li><a href="/cities/staraya-russa/">Старая �&nbsp;усса</a></li>
-                              </ul>
-                              <a href="../hotels/mini-otel-santa-russa/">
-                                <div class="h3"><span>Мини-отель «Санта �&nbsp;усса»</span></div>
-                              </a>
-                            </div>
-                            <div class="object-tmb-data">
-                              <div class="object-data-item">
-                                <div class="ico ico-type-hotel"></div>
-                                <div class="text">Гостиница</div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-
-                        <div class="object-tmb hotel-tmb">
-                          <a href="../hotels/dizayn-otel-seliger-klub/" id="bx_1454625752_23460">
-                            <div class="object-tmb-pic"
-                              style="background-image: url(images/911d33d948fb5f72e5b2afb4db6bd755.jpg);">
+                              style="background-image: url(images/2cec561e7de15f59f61fc1c0f14ccea8.jpg);">
                               <div class="object-tmb-info">
 
 
                                 <div class="object-tmb-info-item">
-                                  <div class="object-info-num">-10%%</div>
-                                  <div class="object-info-ttl">скидка по�&nbsp;карте гостя</div>
+                                  <div class="object-info-num">-5%</div>
+                                  <div class="object-info-ttl">斯客人卡”的折扣。</div>
                                 </div>
                               </div>
                             </div>
                           </a>
-                          <div class="object-tmb-descr">
-                            <div class="hotel-tmb-descr">
+                          <div class="object-tmb-descr" style="min-height: 153.5px;">
+                            <div class="hotel-tmb-descr" style="min-height: 122.5px;">
                               <ul class="object-tmb-tags">
-                                <li><a href="/cities/p-demyansk/">Демянск</a></li>
+                                <li><a href="/cities/p-lyubytino/">柳比蒂诺</a></li>
                               </ul>
-                              <a href="../hotels/dizayn-otel-seliger-klub/">
-                                <div class="h3"><span>Дизайн-отель «Селигер клуб»</span></div>
+                              <a href="/hotels/vsesezonnyy-kurort-lyubogore-gornolyzhnyy-klub/">
+                                <div class="h3"><span>“柳博戈列”
+                                    全季节度假村（滑雪俱乐部）
+                                  </span></div>
                               </a>
                             </div>
                             <div class="object-tmb-data">
                               <div class="object-data-item">
                                 <div class="ico ico-type-hotel"></div>
-                                <div class="text">Гостиница</div>
+                                <div class="text">娱乐设施</div>
                               </div>
                             </div>
                           </div>
                         </div>
-
+                        <div class="object-tmb hotel-tmb">
+                          <a href="/hotels/truvor-glamping-glemping-truvor/" id="bx_1454625752_19710">
+                            <div class="object-tmb-pic"
+                              style="background-image: url(images/e42f2ac7415357458f0d490762f81eec.jpg);">
+                              <div class="object-tmb-info">
+                                <div class="object-tmb-info-item">
+                                  <div class="object-info-num">-15%</div>
+                                  <div class="object-info-ttl">斯客人卡”的折扣。</div>
+                                </div>
+                              </div>
+                            </div>
+                          </a>
+                          <div class="object-tmb-descr" style="min-height: 153.5px;">
+                            <div class="hotel-tmb-descr" style="min-height: 122.5px;">
+                              <ul class="object-tmb-tags">
+                                <li><a href="/cities/valda/">瓦尔代</a></li>
+                              </ul>
+                              <a href="/hotels/truvor-glamping-glemping-truvor/">
+                                <div class="h3"><span> “特鲁沃尔”豪华露营(Truvor glamping)</span></div>
+                              </a>
+                            </div>
+                            <div class="object-tmb-data">
+                              <div class="object-data-item">
+                                <div class="ico ico-type-hotel"></div>
+                                <div class="text">娱乐设施</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
                       </div>
                     </div>
-                  </div>
-                  <div class="show-more-wrapper">
-                    <a class="show-more hotels-show-more" href="../hotels/?TOWN=0&amp;PAGEN_7=2&amp;PAGEN_1=2">
-                      Показать еще
-                    </a>
                   </div>
                 </div>
               </div>
@@ -699,6 +504,7 @@
         </div>
       </div>
     </div>
+  </div>
   </div>
 
   <?php require_once ('../template/footer-inner.php') ?>
