@@ -23,4 +23,3 @@ switch ($name) {
     require_once ('header/areas.php');
     break;
 }
-?>
