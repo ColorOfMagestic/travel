@@ -1,0 +1,10 @@
+.review-message {
+  font-size: 14px;
+  line-height: 19px;
+  margin-bottom: 20px; }
+  .review-message.error {
+    color: red; }
+  .review-message.success {
+    color: green; }
+
+/*# sourceMappingURL=style.css.map */
