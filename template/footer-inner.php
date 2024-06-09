@@ -8,7 +8,7 @@
               <div class="footer-partners-list">
                 <a class="footer-partner-tmb" id="bx_3017195560_307">
                   <div class="footer-partner-tmb-pic">
-                    <img src="images/51fc1ca97441eeeb91c5fbce091beafb.png">
+                    <img src="../images/51fc1ca97441eeeb91c5fbce091beafb.png">
                   </div>
                   <div class="footer-partner-tmb-descr">
                     <div class="cont">诺夫哥罗德州

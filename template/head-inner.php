@@ -20,7 +20,7 @@
   <script type="text/javascript" async="" src="../js/ba.js"></script>
 
   <script type="text/javascript" src="../js/script.js"></script>
-  <title>Официальный портал о туризме в Новгородской области и Великом Новгороде</title>
+  <title><?php require_once('../sections/titles.php') ?></title>
   <link rel="stylesheet" href="../css/bootstrap.min.css">
   <link rel="stylesheet" href="../css/bootstrap-select.min.css">
   <link rel="stylesheet" href="../css/slick.css">
