@@ -14,4 +14,7 @@ switch ($name) {
   case 'kafe-sudarushka':
     require_once ('title/kafe-sudarushka.php');
     break;
+  case 'restoran-lyubytino-khutor':
+    require_once ('title/restoran-lyubytino-khutor.php');
+    break;
 }
