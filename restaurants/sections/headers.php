@@ -12,4 +12,7 @@ switch ($name) {
   case 'charodeyka-bar':
     require_once ('header/charodeyka-bar.php');
     break;
+  case 'kafe-sudarushka':
+    require_once ('header/kafe-sudarushka.php');
+    break;
 }
