@@ -572,13 +572,13 @@ c35 -11 71 -20 80 -20 9 0 21 -4 27 -9 5 -5 38 -21 74 -36 140 -58 333 -216
             </g>
           </svg>
         </a> -->
-        <script>
+        <!-- <script>
           document.addEventListener("DOMContentLoaded", (event) => {
             setTimeout(function () {
               document.querySelector('.pereezd-btn').classList.add('toggle');
             }, 1000);
           });
-        </script>
+        </script> -->
         <script>
           document.addEventListener("DOMContentLoaded", (event) => {
             if (document.querySelector('.buy a')) {
