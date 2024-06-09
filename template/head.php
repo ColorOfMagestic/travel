@@ -31,41 +31,6 @@
     type="text/javascript">(window.BX || top.BX).message({ 'LANGUAGE_ID': 'ru', 'FORMAT_DATE': 'DD.MM.YYYY', 'FORMAT_DATETIME': 'DD.MM.YYYY HH:MI:SS', 'COOKIE_PREFIX': 'BITRIX_SM', 'SERVER_TZ_OFFSET': '10800', 'SITE_ID': 's1', 'SITE_DIR': '/', 'USER_ID': '', 'SERVER_TIME': '1715788502', 'USER_TZ_OFFSET': '0', 'USER_TZ_AUTO': 'Y', 'bitrix_sessid': '988d8fb94b039f4597f6ea4575265f16' });</script>
 
 
-  <script type="text/javascript">
-    (function () {
-      "use strict";
-
-      var counter = function () {
-        var cookie = (function (name) {
-          var parts = ("; " + document.cookie).split("; " + name + "=");
-          if (parts.length == 2) {
-            try { return JSON.parse(decodeURIComponent(parts.pop().split(";").shift())); }
-            catch (e) { }
-          }
-        })("BITRIX_CONVERSION_CONTEXT_s1");
-
-        if (cookie && cookie.EXPIRE >= BX.message("SERVER_TIME"))
-          return;
-
-        var request = new XMLHttpRequest();
-        request.open("POST", "/bitrix/tools/conversion/ajax_counter.php", true);
-        request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-        request.send(
-          "SITE_ID=" + encodeURIComponent("s1") +
-          "&sessid=" + encodeURIComponent(BX.bitrix_sessid()) +
-          "&HTTP_REFERER=" + encodeURIComponent(document.referrer)
-        );
-      };
-
-      if (window.frameRequestStart === true)
-        BX.addCustomEvent("onFrameDataReceived", counter);
-      else
-        BX.ready(counter);
-    })();
-  </script>
-
-
-
   <script type="text/javascript" src="js/script.js"></script>
   <script
     type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "6b5e1ffd5d986bd1057cd9f05cdaa794"]); _ba.push(["host", "novgorod.travel"]); (function () { var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true; ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ba, s); })();</script>
