@@ -13,4 +13,3 @@ switch ($name) {
     require_once ('header/charodeyka-bar.php');
     break;
 }
-?>
