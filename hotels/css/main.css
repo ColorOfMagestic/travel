@@ -1144,7 +1144,7 @@ input.input-date[type=text].error {
   margin: 0 0 0 0;
   height: 72px;
   /*background: url(../images/page-header-content-bottom.png) center 0 no-repeat;*/
-  background: url(../images/pattern555%D1%8575.png) center 0 repeat;
+  background: url(images/pattern555%D1%8575.png) center 0 repeat;
   position: relative;
 }
 
@@ -1924,12 +1924,12 @@ ul.breadcrumb > li + li:before {
 
 .page-header-bottom {
   height: 76px;
-  background: url(../../images/pattern555х75.png) top left no-repeat;
+  background: url(../images/pattern555х75.png) top left no-repeat;
   position: relative;
   background-size: contain; }
 
 .page-header-bottom.wide-pattern{
-  background: url(../../images/pattern750х75.png) top left no-repeat;
+  background: url(../images/pattern750х75.png) top left no-repeat;
 }
 
 .contacts-map-wrapper,
