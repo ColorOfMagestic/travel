@@ -32,7 +32,7 @@
                               balloonContent: ''
                             }, {
                               // Опции.
-                              // Необходимо указать данный тип макета.
+                              // Необходимо указать данный 类型 макета.
                               iconLayout: 'default#image',
                               // Своё изображение иконки метки.
                               iconImageHref: '../images/map-pin.png',
@@ -66,28 +66,28 @@
                     <table class="object-info-table">
                       <tbody>
                         <tr>
-                          <td class="name">Телефон:</td>
+                          <td class="name">电话:</td>
                           <td class="val"><a class="no-ul" href="tel:8-800-31-27-16, +7-981-700-00-16">8-800-31-27-16,
                               +7-981-700-00-16</a></td>
                         </tr>
                         <tr>
-                          <td class="name">Сайт:</td>
+                          <td class="name">网站: </td>
                           <td class="val">
                             <a href="http://lubogora.ru" target="_blank">lubogora.ru</a><br>
                             <a href="http://vk.com/lubogora" target="_blank">vk.com/lubogora</a><br>
                           </td>
                         </tr>
                         <tr>
-                          <td class="name">E-mail:</td>
+                          <td class="name">电子邮件：</td>
                           <td class="val"><a class="no-ul"
                               href="mailto:administrator@lubogora.ru">administrator@lubogora.ru</a></td>
                         </tr>
                         <tr>
-                          <td class="name">Адрес:</td>
+                          <td class="name">地址:</td>
                           <td class="val">Новгородская обл, Любытинский р-н, Селище (Любытинское с/п) д, дом № 30</td>
                         </tr>
                         <tr>
-                          <td class="name">GPS-координаты:</td>
+                          <td class="name">GPS坐标: </td>
                           <td class="val">
                             <a href="javascript:void(0)" data-copy="58.818082,33.547507" class="gps-block">
                               <span> 58.818082,33.547507 </span>
@@ -277,7 +277,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_phone">Телефон:</label>
+                                  <label for="feedback_phone">电话:</label>
                                   <input class="input-phone" type="text" name="phone" id="feedback_phone" required="">
                                 </div>
                               </div>

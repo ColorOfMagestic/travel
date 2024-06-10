@@ -126,7 +126,7 @@ $(document).ready(function () {
       }
       content += '<p class="name"><strong>' + point.name + '</strong></p>';
       if (point.address != '' && point.address != undefined) {
-        content += '<p><strong>Адрес:</strong> ' + point.address + '</p>';
+        content += '<p><strong>地址:</strong> ' + point.address + '</p>';
       }
       if (point.work_time != '' && point.work_time != undefined) {
         content += '<p><strong>Время работы:</strong> ' + point.work_time + '</p>';

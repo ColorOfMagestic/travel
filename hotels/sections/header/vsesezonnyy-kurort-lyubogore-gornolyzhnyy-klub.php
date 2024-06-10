@@ -3,14 +3,14 @@
             <ul class="breadcrumb" itemprop="http://schema.org/breadcrumb" itemscope=""
               itemtype="http://schema.org/BreadcrumbList">
               <li id="bx_breadcrumb_0" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                <a href="/" title="Главная" itemprop="url">
-                  Главная
+                <a href="/" title="主页" itemprop="url">
+                  主页
                 </a>
                 <meta itemprop="position" content="1">
               </li>
               <li id="bx_breadcrumb_1" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                <a href="/hotels/" title="Где остановиться" itemprop="url">
-                  Где остановиться
+                <a href="/hotels/" title="在哪里停留" itemprop="url">
+                  在哪里停留
                 </a>
                 <meta itemprop="position" content="2">
               </li>
@@ -43,7 +43,7 @@
                     <div class="page-header-info">
                       <div class="page-header-info-item">
                         <div class="ico ico-type-hotel"></div>
-                        <div class="text">Тип:: <span>База отдыха</span></div>
+                        <div class="text">类型:: <span>娱乐设施</span></div>
                       </div>
                       <div class="page-header-info-item">
                       </div>

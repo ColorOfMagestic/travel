@@ -33,7 +33,7 @@
                               balloonContent: ''
                             }, {
                               // Опции.
-                              // Необходимо указать данный тип макета.
+                              // Необходимо указать данный 类型 макета.
                               iconLayout: 'default#image',
                               // Своё изображение иконки метки.
                               iconImageHref: '../images/map-pin.png',
@@ -67,19 +67,19 @@
                     <table class="object-info-table">
                       <tbody>
                         <tr>
-                          <td class="name">Телефон:</td>
+                          <td class="name">电话:</td>
                           <td class="val">
                             <a class="no-ul" href="tel:+7 (965) 807-81-73">+7 (965) 807-81-73</a>
                           </td>
                         </tr>
                         <tr>
-                          <td class="name">Сайт:</td>
+                          <td class="name">网站: </td>
                           <td class="val">
                             <a href="http://vk.com/karamazovy.rest" target="_blank">vk.com/karamazovy.rest</a><br>
                           </td>
                         </tr>
                         <tr>
-                          <td class="name">Адрес:</td>
+                          <td class="name">地址:</td>
                           <td class="val">Старая �&nbsp;усса, Гостинодворская ул., 20</td>
                         </tr>
                         <tr>
@@ -87,7 +87,7 @@
                           <td class="val">Ежедневно с 12:00 до 23:00</td>
                         </tr>
                         <tr>
-                          <td class="name">GPS-координаты:</td>
+                          <td class="name">GPS坐标: </td>
                           <td class="val"><a href="javascript:void(0)" data-copy="57.991393,31.361309"
                               class="gps-block">
                               <span> 57.991393,31.361309 </span>
@@ -291,7 +291,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_phone">Телефон:</label>
+                                  <label for="feedback_phone">电话:</label>
                                   <input class="input-phone" type="text" name="phone" id="feedback_phone" required="">
                                 </div>
                               </div>

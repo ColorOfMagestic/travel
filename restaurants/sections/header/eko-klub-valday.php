@@ -3,19 +3,19 @@
             <ul class="breadcrumb" itemprop="http://schema.org/breadcrumb" itemscope=""
               itemtype="http://schema.org/BreadcrumbList">
               <li id="bx_breadcrumb_0" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                <a href="/" title="Главная" itemprop="url">
-                  Главная
+                <a href="/" title="主页" itemprop="url">
+                  主页
                 </a>
                 <meta itemprop="position" content="1">
               </li>
               <li id="bx_breadcrumb_1" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                <a href="/restaurants/" title="Где поесть" itemprop="url">
-                  Где поесть
+                <a href="/restaurants/" title="在哪吃饭" itemprop="url">
+                  在哪吃饭
                 </a>
                 <meta itemprop="position" content="2">
               </li>
               <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                �&nbsp;есторан «Эко-клуб Валдай»
+                �&nbsp;есторан «Эко-клуб 瓦尔代»
                 <meta itemprop="position" content="3">
               </li>
             </ul>
@@ -31,10 +31,10 @@
                       <div class="page-header-top-valign">
                         <div class="page-header-top-valign-cont">
                           <ul class="page-header-tags">
-                            <li><a href="/cities/valda/">Валдай</a></li>
+                            <li><a href="/cities/valda/">瓦尔代</a></li>
                             <li>�&nbsp;естораны</li>
                           </ul>
-                          <h1>�&nbsp;есторан «Эко-клуб Валдай»</h1>
+                          <h1>�&nbsp;есторан «Эко-клуб 瓦尔代»</h1>
                           <div class="page-header-lead">
                             <p></p>
                           </div>

@@ -32,7 +32,7 @@
                               balloonContent: ''
                             }, {
                               // Опции.
-                              // Необходимо указать данный тип макета.
+                              // Необходимо указать данный 类型 макета.
                               iconLayout: 'default#image',
                               // Своё изображение иконки метки.
                               iconImageHref: '../images/map-pin.png',
@@ -66,24 +66,24 @@
                     <table class="object-info-table">
                       <tbody>
                         <tr>
-                          <td class="name">Телефон:</td>
+                          <td class="name">电话:</td>
                           <td class="val"><a class="no-ul"
                               href="tel:+7-812-245-36-98, (816-52) 410-41">+7-812-245-36-98, (816-52) 410-41</a></td>
                         </tr>
                         <tr>
-                          <td class="name">Сайт:</td>
+                          <td class="name">网站: </td>
                           <td class="val">
                             <a href="http://russa.amaks-kurort.ru " target="_blank">russa.amaks-kurort.ru </a><br>
                           </td>
                         </tr>
                         <tr>
-                          <td class="name">E-mail:</td>
+                          <td class="name">电子邮件：</td>
                           <td class="val"><a class="no-ul"
                               href="mailto:strkurort@amaks-hotels.ru, sale.staraya-russa@yandex.ru">strkurort@amaks-hotels.ru,
                               sale.staraya-russa@yandex.ru</a></td>
                         </tr>
                         <tr>
-                          <td class="name">Адрес:</td>
+                          <td class="name">地址:</td>
                           <td class="val">г. Старая �&nbsp;усса, ул. Минеральная, 62
                           </td>
                         </tr>
@@ -92,7 +92,7 @@
                           <td class="val">Круглосуточно</td>
                         </tr>
                         <tr>
-                          <td class="name">GPS-координаты:</td>
+                          <td class="name">GPS坐标: </td>
                           <td class="val">
                             <a href="javascript:void(0)" data-copy="57.986634,31.366188" class="gps-block">
                               <span> 57.986634,31.366188 </span>
@@ -232,7 +232,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_phone">Телефон:</label>
+                                  <label for="feedback_phone">电话:</label>
                                   <input class="input-phone" type="text" name="phone" id="feedback_phone" required="">
                                 </div>
                               </div>

@@ -247,7 +247,7 @@
                       </div>
                       <div class="col-xs-12 col-md-4">
                         <div class="form-group">
-                          <label>Телефон:</label>
+                          <label>电话:</label>
                           <input class="input-phone" type="text" name="phone" required="" aria-required="true">
                         </div>
                       </div>

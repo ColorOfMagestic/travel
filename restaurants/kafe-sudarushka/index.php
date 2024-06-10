@@ -31,7 +31,7 @@
                               balloonContent: ''
                             }, {
                               // Опции.
-                              // Необходимо указать данный тип макета.
+                              // Необходимо указать данный 类型 макета.
                               iconLayout: 'default#image',
                               // Своё изображение иконки метки.
                               iconImageHref: '../images/map-pin.png',
@@ -65,32 +65,32 @@
                     <table class="object-info-table">
                       <tbody>
                         <tr>
-                          <td class="name">Телефон:</td>
+                          <td class="name">电话:</td>
                           <td class="val">
                             <a class="no-ul" href="tel:+7 (991) 492-03-55">+7 (991) 492-03-55</a>
                           </td>
                         </tr>
                         <tr>
-                          <td class="name">Сайт:</td>
+                          <td class="name">网站: </td>
                           <td class="val">
                             <a href="http://vk.com/sudarushka53" target="_blank">vk.com/sudarushka53</a><br>
                           </td>
                         </tr>
                         <tr>
-                          <td class="name">E-mail:</td>
+                          <td class="name">电子邮件：</td>
                           <td class="val"><a class="no-ul" href="mailto:sudaryhka53@mail.ru">sudaryhka53@mail.ru</a>
                           </td>
                         </tr>
                         <tr>
-                          <td class="name">Адрес:</td>
-                          <td class="val">Великий Новгород, ул. Большая Московская, 32/12</td>
+                          <td class="name">地址:</td>
+                          <td class="val">大诺夫哥罗德 , ул. Большая Московская, 32/12</td>
                         </tr>
                         <tr>
                           <td class="name">Время работы:</td>
                           <td class="val">Ежедневно с 11.00 до 23.00</td>
                         </tr>
                         <tr>
-                          <td class="name">GPS-координаты:</td>
+                          <td class="name">GPS坐标: </td>
                           <td class="val"><a href="javascript:void(0)" data-copy="58.520676,31.288753"
                               class="gps-block">
                               <span> 58.520676,31.288753 </span>
@@ -209,7 +209,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_phone">Телефон:</label>
+                                  <label for="feedback_phone">电话:</label>
                                   <input class="input-phone" type="text" name="phone" id="feedback_phone" required="">
                                 </div>
                               </div>
