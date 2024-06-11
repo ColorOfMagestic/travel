@@ -15,7 +15,7 @@
                 <meta itemprop="position" content="2">
               </li>
               <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                酒店 «Садко»
+              “萨特阔”酒店
                 <meta itemprop="position" content="3">
               </li>
             </ul>
@@ -33,9 +33,9 @@
                           <ul class="page-header-tags">
                             <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
                           </ul>
-                          <h1>酒店 «Садко»</h1>
+                          <h1>“萨特阔”酒店</h1>
                           <div class="page-header-lead">
-                            <p>Комфортабельная гостиница в шаговой доступности от исторического центра города. </p>
+                            <p>舒适的酒店距离历史悠久的市中心仅几步之遥。</p>
                           </div>
                         </div>
                       </div>
@@ -64,7 +64,7 @@
                           <div class="ico ico-hotel-price"></div>
                           <div class="cont">
                             <div class="ttl">Стоимость<br>в сутки:</div>
-                            <div class="val">от <span>2�&nbsp;200</span> р.</div>
+                            <div class="val">от <span>2 200</span> р.</div>
                           </div>
                         </div>
                         <div class="object-info-item">
@@ -72,7 +72,7 @@
 
                           <div class="ico ico-object-discount"></div>
                           <div class="cont">
-                            <div class="ttl">скидка по�&nbsp;карте гостя:</div>
+                            <div class="ttl">斯客人卡”的折扣。:</div>
                             <div class="val"><span>-10%</span></div>
                           </div>
 
