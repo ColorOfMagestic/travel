@@ -15,7 +15,7 @@
                 <meta itemprop="position" content="2">
               </li>
               <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                �&nbsp;есторан MOST (Мост)
+                “桥” 餐厅 (MOST)
                 <meta itemprop="position" content="3">
               </li>
             </ul>
@@ -31,12 +31,12 @@
                       <div class="page-header-top-valign">
                         <div class="page-header-top-valign-cont">
                           <ul class="page-header-tags">
-                            <li><a href="/cities/borovichi/">Боровичи</a></li>
-                            <li>�&nbsp;естораны</li>
+                            <li><a href="/cities/borovichi/">博罗维奇</a></li>
+                            <li>餐厅</li>
                           </ul>
-                          <h1>�&nbsp;есторан MOST (Мост)</h1>
+                          <h1>“桥” 餐厅 (MOST)</h1>
                           <div class="page-header-lead">
-                            <p>�&nbsp;есторан Most – ваш гастро-культурный опыт в усадьбе Митрофановых с собственным
+                            <p>Ресторан Most – ваш гастро-культурный опыт в усадьбе Митрофановых с собственным
                               садом и огородом. </p>
                           </div>
                         </div>
@@ -45,8 +45,8 @@
                     <div class="page-header-info">
                       <div class="page-header-info-item">
                         <div class="ico ico-cuisine"></div>
-                        <div class="text">Кухня <span>
-                            Авторская </span></div>
+                        <div class="text">饭菜<span>
+                            招牌菜 </span></div>
                       </div>
                     </div>
                     <div class="page-header-bottom page-header-bottom-object">
@@ -62,7 +62,7 @@
                         <div class="object-info-item">
                           <div class="ico ico-object-discount"></div>
                           <div class="cont">
-                            <div class="ttl">скидка по�&nbsp;карте гостя</div>
+                            <div class="ttl">斯客人卡”的折扣。</div>
                             <div class="val"><span>-10%</span></div>
                           </div>
                         </div>
