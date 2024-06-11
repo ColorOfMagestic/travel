@@ -241,7 +241,7 @@
                       </div>
                       <div class="col-xs-12 col-md-4">
                         <div class="form-group">
-                          <label>E-mail</label>
+                          <label>电子邮件：</label>
                           <input type="email" name="email" required="" aria-required="true">
                         </div>
                       </div>
