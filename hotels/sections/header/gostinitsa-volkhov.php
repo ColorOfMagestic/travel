@@ -15,7 +15,7 @@
                 <meta itemprop="position" content="2">
               </li>
               <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                酒店 «Волхов»
+                «沃尔霍夫»酒店
                 <meta itemprop="position" content="3">
               </li>
             </ul>
@@ -33,7 +33,7 @@
                           <ul class="page-header-tags">
                             <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
                           </ul>
-                          <h1>酒店 «Волхов»</h1>
+                          <h1>«沃尔霍夫»酒店</h1>
                           <div class="page-header-lead">
                             <p>Комфортабельный отель в самом центре Великого Новгорода. Скидка 10% на проживание в
                               гостинице "Волхов" по Карте гостя.</p>
@@ -68,7 +68,7 @@
 
                           <div class="ico ico-object-discount"></div>
                           <div class="cont">
-                            <div class="ttl">скидка по�&nbsp;карте гостя:</div>
+                            <div class="ttl">斯客人卡”的折扣。:</div>
                             <div class="val"><span>-10%</span></div>
                           </div>
 
