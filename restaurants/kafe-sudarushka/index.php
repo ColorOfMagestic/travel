@@ -12,7 +12,7 @@
               <div class="col-xs-12 col-sm-4 pull-right">
                 <div class="sidebar-object-info sticky-sidebar">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -83,11 +83,11 @@
                         </tr>
                         <tr>
                           <td class="name">地址:</td>
-                          <td class="val">大诺夫哥罗德 , ул. Большая Московская, 32/12</td>
+                          <td class="val">大诺夫哥罗德市巴尔沙亚莫斯科街 32/12号</td>
                         </tr>
                         <tr>
-                          <td class="name">Время работы:</td>
-                          <td class="val">Ежедневно с 11.00 до 23.00</td>
+                          <td class="name">工作时间:</td>
+                          <td class="val">每天，11.00 - 23.00</td>
                         </tr>
                         <tr>
                           <td class="name">GPS坐标: </td>
@@ -151,20 +151,16 @@
                     <div class="section-expandable-content">
                       <p></p>
                       <p>
-                        Гастрономическое кафе «Сударушка» - это место, где можно провести тематические мероприятия,
-                        свадьбу, юбилей, корпоратив, а также посидеть в узком кругу родных и близких, наслаждаясь
-                        вкусными домашними блюдами под приятную музыку. В кафе работает интернет, кондиционер.
+                      美食咖啡馆“苏达鲁什卡”是举办主题活动、婚礼、周年纪念、公司聚会的场所。有机会坐在一个狭窄的亲朋好友圈子里。在悦耳的音乐中享受美味的家常菜。咖啡馆有互联网和空调。
                       </p>
                       <p>
-                        Никого из гостей не оставило равнодушным мороженое со свежими фруктами и горьким шоколадом. В
-                        обед всегда доступны горячие вторые блюда, разнообразные салатики.
+                      没有一个客人对新鲜水果和苦巧克力冰淇淋无动于衷。午餐总是有热的第二道菜，各种各样的沙拉。
                       </p>
                       <p>
-                        Интерьер в классическом стиле, небольшие столики, музыкальные композиции, живые комнатные
-                        растения – все это создает уют, гармонию, спокойствие.
+                      内饰采用经典风格。舒适、和谐、宁静是由小桌子、音乐作品、活的室内植物创造的。
                       </p>
                       <p>
-                        �&nbsp;ядом с кафе имеется отдельная парковка.
+                      咖啡馆旁边有一个单独的停车场。
                       </p>
                       <p></p>
                     </div>
@@ -174,7 +170,7 @@
 
 
                   <div class="share-links">
-                    <div class="share-links-ttl">Поделиться:</div>
+                    <div class="share-links-ttl">分享:</div>
                     <div class="share-links-cont">
                       <script src="../js/share.js"></script>
                       <div class="ya-share2" style="margin-top:12px;" data-curtain=""
@@ -203,7 +199,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_email">E-mail</label>
+                                  <label for="feedback_email">电子邮件：</label>
                                   <input type="text" name="email" id="feedback_email" required="">
                                 </div>
                               </div>

@@ -15,7 +15,7 @@
                 <meta itemprop="position" content="2">
               </li>
               <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                Кафе «Сударушка»
+                «苏达鲁什卡» 咖啡馆
                 <meta itemprop="position" content="3">
               </li>
             </ul>
@@ -32,11 +32,11 @@
                         <div class="page-header-top-valign-cont">
                           <ul class="page-header-tags">
                             <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
-                            <li>Кафе и кофейни</li>
+                            <li>咖啡厅和咖啡店</li>
                           </ul>
-                          <h1>Кафе «Сударушка»</h1>
+                          <h1>«苏达鲁什卡» 咖啡馆</h1>
                           <div class="page-header-lead">
-                            <p>Уютное кафе, где готовят, как дома. �&nbsp;асполагается в исторической части Торговой
+                            <p>Уютное кафе, где готовят, как дома. Располагается в исторической части Торговой
                               стороны города.</p>
                           </div>
                         </div>
@@ -45,8 +45,8 @@
                     <div class="page-header-info">
                       <div class="page-header-info-item">
                         <div class="ico ico-cuisine"></div>
-                        <div class="text">Кухня <span>
-                            �&nbsp;усская </span></div>
+                        <div class="text">饭菜<span>
+                            俄罗斯菜 </span></div>
                       </div>
                     </div>
                     <div class="page-header-bottom page-header-bottom-object">
@@ -62,7 +62,7 @@
                         <div class="object-info-item">
                           <div class="ico ico-object-discount"></div>
                           <div class="cont">
-                            <div class="ttl">скидка по�&nbsp;карте гостя</div>
+                            <div class="ttl">斯客人卡”的折扣。</div>
                             <div class="val"><span>-10%</span></div>
                           </div>
                         </div>
