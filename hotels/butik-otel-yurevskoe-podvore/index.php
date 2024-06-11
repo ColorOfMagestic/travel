@@ -13,7 +13,7 @@
 
                 <div class="sidebar-object-info sticky-sidebar">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -82,11 +82,11 @@
                         </tr>
                         <tr>
                           <td class="name">地址:</td>
-                          <td class="val">大诺夫哥罗德 , Юрьевское шоссе, 6А</td>
+                          <td class="val">大诺夫哥罗德市尤里耶夫斯科耶大街6А号</td>
                         </tr>
                         <tr>
-                          <td class="name">Время работы:</td>
-                          <td class="val">ежедневно, круглосуточно</td>
+                          <td class="name">工作时间:</td>
+                          <td class="val">每天, 24小时</td>
                         </tr>
                         <tr>
                           <td class="name">GPS坐标: </td>
@@ -110,200 +110,149 @@
               <div class="col-xs-12 col-sm-8">
                 <div class="page-content">
                   <div class="section-expandable">
-                    <div class="h2">Фотогалерея</div>
+                    <div class="h2">照片廊</div>
                     <div class="section-expandable-content">
                       <div class="photo-slider-wrapper">
                         <div class="photo-slider">
-                          <div class="slide"><img
-                              data-lazy="images/cc1fbd01d335da9946d4b5f4f47dff69.jpg">
+                          <div class="slide"><img data-lazy="images/cc1fbd01d335da9946d4b5f4f47dff69.jpg">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/e8e80ee2751fcf565c791314ad643141.jpg">
+                          <div class="slide"><img data-lazy="images/e8e80ee2751fcf565c791314ad643141.jpg">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/206beb123ff9c738225a00057ec6f7bf.jpeg">
+                          <div class="slide"><img data-lazy="images/206beb123ff9c738225a00057ec6f7bf.jpeg">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/42e7963f573ea9a8e1ea2905c2b0829c.jpeg">
+                          <div class="slide"><img data-lazy="images/42e7963f573ea9a8e1ea2905c2b0829c.jpeg">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/558f81d5e575d8eefb6bf3fde9d7dee6.jpeg">
+                          <div class="slide"><img data-lazy="images/558f81d5e575d8eefb6bf3fde9d7dee6.jpeg">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/63c788fd97ba583b2d3e8897d54294b8.jpeg">
+                          <div class="slide"><img data-lazy="images/63c788fd97ba583b2d3e8897d54294b8.jpeg">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/38d59abe57f4111f075a4e366b255642.png">
+                          <div class="slide"><img data-lazy="images/38d59abe57f4111f075a4e366b255642.png">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/4dbdb2c7f52a3f879e65f049f4558d17.png">
+                          <div class="slide"><img data-lazy="images/4dbdb2c7f52a3f879e65f049f4558d17.png">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/5c0b83869d8ee9819cf4ecbff1ed7e5a.png">
+                          <div class="slide"><img data-lazy="images/5c0b83869d8ee9819cf4ecbff1ed7e5a.png">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/f6c9023be181cc151a7e9951c5028f45.png">
+                          <div class="slide"><img data-lazy="images/f6c9023be181cc151a7e9951c5028f45.png">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/32ffcd7a2401299d3cf81cedcd5f18a6.png">
+                          <div class="slide"><img data-lazy="images/32ffcd7a2401299d3cf81cedcd5f18a6.png">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/46079f2a2b032aaabe1d75e3fbfd109e.png">
+                          <div class="slide"><img data-lazy="images/46079f2a2b032aaabe1d75e3fbfd109e.png">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/04f7559bb0925b11875cbd934cc0c230.png">
+                          <div class="slide"><img data-lazy="images/04f7559bb0925b11875cbd934cc0c230.png">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/8596b3d0ea8b9d0df3426b6070c5aa8b.png">
+                          <div class="slide"><img data-lazy="images/8596b3d0ea8b9d0df3426b6070c5aa8b.png">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/39521aa052f5030b2e59e7093a9310d8.png">
+                          <div class="slide"><img data-lazy="images/39521aa052f5030b2e59e7093a9310d8.png">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/7f410863e0f39de3b49fe4730f44b9e4.png">
+                          <div class="slide"><img data-lazy="images/7f410863e0f39de3b49fe4730f44b9e4.png">
                           </div>
                         </div>
                         <div class="photo-slider-thumbs">
-                          <div class="slide"><img
-                              data-lazy="images/cc1fbd01d335da9946d4b5f4f47dff69.jpg">
+                          <div class="slide"><img data-lazy="images/cc1fbd01d335da9946d4b5f4f47dff69.jpg">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/e8e80ee2751fcf565c791314ad643141.jpg">
+                          <div class="slide"><img data-lazy="images/e8e80ee2751fcf565c791314ad643141.jpg">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/206beb123ff9c738225a00057ec6f7bf.jpeg">
+                          <div class="slide"><img data-lazy="images/206beb123ff9c738225a00057ec6f7bf.jpeg">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/42e7963f573ea9a8e1ea2905c2b0829c.jpeg">
+                          <div class="slide"><img data-lazy="images/42e7963f573ea9a8e1ea2905c2b0829c.jpeg">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/558f81d5e575d8eefb6bf3fde9d7dee6.jpeg">
+                          <div class="slide"><img data-lazy="images/558f81d5e575d8eefb6bf3fde9d7dee6.jpeg">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/63c788fd97ba583b2d3e8897d54294b8.jpeg">
+                          <div class="slide"><img data-lazy="images/63c788fd97ba583b2d3e8897d54294b8.jpeg">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/38d59abe57f4111f075a4e366b255642.png">
+                          <div class="slide"><img data-lazy="images/38d59abe57f4111f075a4e366b255642.png">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/4dbdb2c7f52a3f879e65f049f4558d17.png">
+                          <div class="slide"><img data-lazy="images/4dbdb2c7f52a3f879e65f049f4558d17.png">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/5c0b83869d8ee9819cf4ecbff1ed7e5a.png">
+                          <div class="slide"><img data-lazy="images/5c0b83869d8ee9819cf4ecbff1ed7e5a.png">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/f6c9023be181cc151a7e9951c5028f45.png">
+                          <div class="slide"><img data-lazy="images/f6c9023be181cc151a7e9951c5028f45.png">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/32ffcd7a2401299d3cf81cedcd5f18a6.png">
+                          <div class="slide"><img data-lazy="images/32ffcd7a2401299d3cf81cedcd5f18a6.png">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/46079f2a2b032aaabe1d75e3fbfd109e.png">
+                          <div class="slide"><img data-lazy="images/46079f2a2b032aaabe1d75e3fbfd109e.png">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/04f7559bb0925b11875cbd934cc0c230.png">
+                          <div class="slide"><img data-lazy="images/04f7559bb0925b11875cbd934cc0c230.png">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/8596b3d0ea8b9d0df3426b6070c5aa8b.png">
+                          <div class="slide"><img data-lazy="images/8596b3d0ea8b9d0df3426b6070c5aa8b.png">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/39521aa052f5030b2e59e7093a9310d8.png">
+                          <div class="slide"><img data-lazy="images/39521aa052f5030b2e59e7093a9310d8.png">
                           </div>
-                          <div class="slide"><img
-                              data-lazy="images/7f410863e0f39de3b49fe4730f44b9e4.png">
+                          <div class="slide"><img data-lazy="images/7f410863e0f39de3b49fe4730f44b9e4.png">
                           </div>
                         </div>
                       </div>
                     </div>
                   </div>
                   <div class="section-expandable">
-                    <div class="h2">Об отеле</div>
+                    <div class="h2">关于酒店</div>
                     <div class="section-expandable-content">
                       <p></p>
                       <p>
-                        Отель «Ю�&nbsp;ЬЕВСКОЕ ПОДВО�&nbsp;ЬЕ» — единственный отель в Великом Новгороде, который имеет
-                        такое уникальное расположение. Он находится в лесопарковой зоне, вокруг леса, поля, озёр
-                        (Ильмень и Мячино) и Юрьевского Монастыря, построенного князем Ярославом Мудрым в 1030 году.
-                        Напротив отеля расположен музей деревянного зодчества под открытым небом «Витославлицы»,
-                        обязательный для посещения и погружения в новгородский быт и традиции!
+                        «尤里耶夫大院»精品酒店是大诺夫哥罗德唯一一家地理位置如此独特的酒店。它在森林公园区。围绕森林、田野、湖泊（伊尔门和米亚基诺）。尤里耶夫斯基修道院由智者雅罗斯拉夫王子于1030年建造，酒店对面是露天木制建筑博物馆“维托斯拉夫利茨”。参观和沉浸在诺夫哥罗德的生活和传统中是强制性的！
                       </p>
                       <p>
-                        Любой вид размещения на ваш утонченный вкус: гостиничные номера разных категорий, апартаменты,
-                        глэмпинги и современные избы. В каждом прослеживаются нотки русской тематики в современном
-                        прочтении.
+                        任何类型的住宿，以满足您精致的品味。不同类别的酒店客房、公寓、露营地和现代小屋。每一个都可以追溯到现代阅读中俄罗斯主题的音符。
                       </p>
                       <p>
-                        Территория комплекса:
+                        综合体的区域：
                       </p>
                       <p>
                       </p>
                       <ul>
-                        <li>Семейный дом «Красна изба»;</li>
-                        <li>Главный корпус с 20 комфортабельными номерами разных категорий;</li>
-                        <li>�&nbsp;есторан и летняя веранда;</li>
-                        <li>Летний ресторан;</li>
-                        <li>�&nbsp;усская баня на дровах и уличная банная зона;</li>
-                        <li>7 глэмпингов;</li>
-                        <li>5 изб;</li>
-                        <li>Эко-тропа с домами для насекомых;</li>
-                        <li>Зоны отдыха: гамаки, фото-локации, яблоневый сад. </li>
+                        <li>家宅“克拉斯纳·伊兹巴”；</li>
+                        <li>主楼设有20个不同类别的舒适房间；</li>
+                        <li>餐厅和夏季阳台；</li>
+                        <li>夏季餐厅；</li>
+                        <li>俄罗斯木柴浴和街头沐浴区；</li>
+                        <li>7个露营地；</li>
+                        <li>5间客栈；</li>
+                        <li>有昆虫家园的生态步道；</li>
+                        <li>休闲区：吊床、拍照地点、苹果园。</li>
                       </ul>
                       <p>
                       </p>
                       <p>
-                        «Юрьевское Подворье» — это семейный проект, сделанный с большой любовью к каждой детали. Здесь
-                        вы окунетесь в уютное сказочное девство, русское ремесло, почувствуете себя как «в деревне у
-                        бабушки», где вам всегда рады, где вам уютно, безопасно и тепло. Потрясающая природа и
-                        энергетика этого места позволят отбросить все лишнее и предаться созиданию прекрасного. А наше
-                        продуманное пространство с вкусным питанием, пением птиц за окном и внимательным сервисом
-                        сделают отдых комфортным и гармоничным для каждого гостя.
+                        «尤里耶夫大院»
+                        是一个家庭项目。对每一个细节都充满了热爱。在这里，您将沉浸在舒适的童话般的处女中，俄罗斯手工艺。你会觉得自己“在村里和祖母在一起”。你总是很受欢迎的地方。在那里你会感到舒适、安全和温暖。这个地方令人惊叹的自然和能量将使您能够抛开一切不必要的东西，沉迷于创造美丽的东西。而我们周到的空间，美味的食物，窗外的鸟鸣，周到的服务，将使每一位客人的假期都舒适和谐。
                       </p>
                       <h3>
-                        Банный Spa-комплекс «Юрьевское подворье» </h3>
+                        沐浴水疗综合体 «尤里耶夫大院»</h3>
                       <p>
-                        Наша баня – для настоящего отдыха, крепкого здоровья, сильного иммунитета и душевного
-                        спокойствия. Банный комплекс с просторной парной, уличным банным комплексом с сибирским чаном на
-                        дровах и зоной отдыха.
+                        我们的浴室是为了真正的休息、健康、免疫力强和安心。浴室综合体，配有宽敞的蒸汽浴室、带有西伯利亚柴的街头浴室综合体和休闲区。
                       </p>
                       <p>
-                        Авторские методики наших пармастеров позволят вам по-настоящему отдохнуть телом и душой.
+                        我们大师的作者技巧将让您的身心真正得到休息。
                       </p>
                       <h3>
-                        Глэмпинговый городок </h3>
+                        露营地</h3>
                       <p>
-                        Здесь находятся семь комфортабельных глэмпингов с видом на лес и пять изб с видом на яблоневый
-                        сад. Концепция, которая лежит в основе домов в лесной зоне, отвечает запросам тех людей, кто
-                        ищет уединение, спокойствие и отдых. Это особая атмосфера, в которую хочется возвращаться. Она
-                        сложилась из синергии окружающей природы, уникального месторасположения вокруг святых мест и
-                        внутреннего наполнения отеля: чистый воздух, продуманный дизайн с использованием спокойных
-                        оттенков, натуральных материалов, удобных матрасов для качественного восстановления сна, вкусной
-                        натуральной еды.
+                      这里有七个舒适的露营地，可以俯瞰森林。五间小屋可以俯瞰苹果园。森林区的概念是为寻求隐私、宁静和休息的人设计的。这是一种特殊的气氛。我想回到这里。它是由周围的自然、圣地周围的独特位置和酒店内部的填充协同作用而形成的。清新的空气，采用沉稳色调的周到设计，天然的材料，舒适的床垫，高质量的睡眠恢复，美味的天然食物。
                       </p>
                       <p>
-                        Также в комплексе Вас ждут:
+                      此外，在综合体中，您将被期待：
                       </p>
                       <p>
                       </p>
                       <ul>
-                        <li>Гастро-лавка с продуктами собственного производства;</li>
-                        <li>Собственная сыроварня;</li>
-                        <li>Поляны для активного отдыха;</li>
-                        <li>Детская зона;</li>
-                        <li>Мини-зоопарк;</li>
-                        <li>Организация экскурсий;</li>
-                        <li>Приём автокемпингов (караванов). </li>
+                        <li>一家自产食品的美食店；</li>
+                        <li>自己的奶酪厂；</li>
+                        <li>户外活动空地；</li>
+                        <li>儿童区；</li>
+                        <li>迷你动物园；</li>
+                        <li>组织游览；</li>
+                        <li>接受汽车露营（大篷车）。</li>
                       </ul>
                       <p>
                       </p>
-                      *Скидка по программе «Карта гостя Новгородской области» предоставляется только при бронировании
-                      непосредственно через отель.<br>
+                      *只有通过酒店直接预订时，才会享受“诺夫哥罗德地区客人卡”计划的折扣。<br>
                       <br>
                       <p></p>
                     </div>
                   </div>
 
                   <div class="share-links">
-                    <div class="share-links-ttl">Поделиться:</div>
+                    <div class="share-links-ttl">分享:</div>
                     <div class="share-links-cont">
                       <script src="../js/share.js"></script>
                       <div class="ya-share2" style="margin-top:12px;" data-curtain=""
@@ -332,7 +281,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_email">E-mail</label>
+                                  <label for="feedback_email">电子邮件：</label>
                                   <input type="text" name="email" id="feedback_email" required="">
                                 </div>
                               </div>

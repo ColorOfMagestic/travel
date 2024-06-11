@@ -15,7 +15,7 @@
                 <meta itemprop="position" content="2">
               </li>
               <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                Бутик-отель «Юрьевское Подворье»
+                «尤里耶夫大院»精品酒店
                 <meta itemprop="position" content="3">
               </li>
             </ul>
@@ -33,7 +33,7 @@
                           <ul class="page-header-tags">
                             <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
                           </ul>
-                          <h1>Бутик-отель «Юрьевское Подворье»</h1>
+                          <h1>«尤里耶夫大院»精品酒店</h1>
                           <div class="page-header-lead">
                             <p>Отдых с душой и по-русски в одном из самых живописных уголков Великого Новгорода.
                               Скидка 10% на проживание в отеле «Юрьевское подворье» и питание в ресторане «Юрьевское
@@ -59,7 +59,7 @@
 
                           <div class="ico ico-object-discount"></div>
                           <div class="cont">
-                            <div class="ttl">скидка по�&nbsp;карте гостя:</div>
+                            <div class="ttl">斯客人卡”的折扣。:</div>
                             <div class="val"><span>-10%</span></div>
                           </div>
 
