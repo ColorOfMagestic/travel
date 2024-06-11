@@ -15,7 +15,7 @@
                 <meta itemprop="position" content="2">
               </li>
               <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                Курорт «Старая �&nbsp;усса»
+                «旧鲁萨» 基地度假
                 <meta itemprop="position" content="3">
               </li>
             </ul>
@@ -31,12 +31,11 @@
                       <div class="page-header-top-valign">
                         <div class="page-header-top-valign-cont">
                           <ul class="page-header-tags">
-                            <li><a href="/cities/staraya-russa/">Старая �&nbsp;усса</a></li>
+                            <li><a href="/cities/staraya-russa/">旧鲁萨</a></li>
                           </ul>
-                          <h1>Курорт «Старая �&nbsp;усса»</h1>
+                          <h1>«旧鲁萨» 基地度假</h1>
                           <div class="page-header-lead">
-                            <p>Старейший лечебный курорт был известен русским аристократам еще в XIX веке под названием
-                              «Старорусские минеральные воды». </p>
+                            <p>“旧鲁萨”基地度假建于19世纪。以前的名字是“老罗斯矿泉水”。</p>
                           </div>
                         </div>
                       </div>
@@ -58,7 +57,7 @@
 
                           <div class="ico ico-object-discount"></div>
                           <div class="cont">
-                            <div class="ttl">скидка по�&nbsp;карте гостя:</div>
+                            <div class="ttl">斯客人卡”的折扣。:</div>
                             <div class="val"><span>-18%</span></div>
                           </div>
 

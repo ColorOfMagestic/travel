@@ -13,7 +13,7 @@
 
                 <div class="sidebar-object-info sticky-sidebar">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -84,7 +84,7 @@
                         </tr>
                         <tr>
                           <td class="name">地址:</td>
-                          <td class="val">г. Старая �&nbsp;усса, ул. Минеральная, 62
+                          <td class="val">旧鲁萨市米纳拉尔纳亚街62号18房间
                           </td>
                         </tr>
                         <tr>
@@ -113,7 +113,7 @@
               <div class="col-xs-12 col-sm-8">
                 <div class="page-content">
                   <div class="section-expandable">
-                    <div class="h2">Фотогалерея</div>
+                    <div class="h2">照片廊</div>
                     <div class="section-expandable-content">
                       <div class="photo-slider-wrapper">
                         <div class="photo-slider">
@@ -170,25 +170,23 @@
                     <div class="section-expandable-content">
                       <p></p>
                       <div>
-                        Вдали от городского шума и суеты, в красивом живописном месте с чистым воздухом можно отдохнуть
-                        от забот на Курорте «Старая �&nbsp;усса». А уникальные минеральные воды и целебные грязи
-                        помогают излечиться от многих заболеваний. <br>
+                      它在俄罗斯贵族、艺术家、贵族和沙皇姓氏的代表中受到广泛的需求。在此期间，他们因贫血、神经过度紧张而被送往“水”治疗。即使在忧郁和悲伤中。康复以沿着公园小径散步、每天饮用矿泉水的形式进行。这种疗法对许多人有帮助。让年轻的女士、轻骑兵和孩子们站起来。 <br>
                       </div>
                       <div>
                         <br>
                       </div>
                       <div>
-                        Лечение в санатории «Старая �&nbsp;усса» эффективно при нарушениях обменных процессов и
-                        пищеварения, заболеваниях нервной и дыхательной системы. <br>
+                      在苏联时期，基地度假继续工作和改进。新的治疗方法开始出现。健康基地不断更新。现在，“旧鲁萨”基地度假结合了过去几个世纪的现代基础设施和文化传统。<br>
                       </div>
                       <div>
                         <br>
                       </div>
                       <div>
-                        Особые методики помогают восстановить здоровье при стрессе, неврозах, бесплодии и болях в
-                        позвоночнике. Наиболее эффективны старорусские грязи и минеральные воды при гастрите, ожирении,
-                        артрите, псориазе и хроническом бронхите. Специальные процедуры помогают улучшить состояние кожи
-                        и волос, избавиться от целлюлита и лишнего веса.
+                      他们去疗养院改善消化、呼吸系统和神经系统疾病的健康。由于该机构的特殊技术，您可以治愈神经症、压力、不孕、脊柱疼痛。
+                      </div>
+                      <br>
+                      <div>
+                      老罗斯泥巴和矿泉水对肥胖、胃炎、银屑病等疾病有很好的帮助。为了改善皮肤和头发的状况，选择了一个特殊程序的课程。
                       </div>
                       <br>
                       <br>
@@ -197,7 +195,7 @@
                   </div>
 
                   <div class="share-links">
-                    <div class="share-links-ttl">Поделиться:</div>
+                    <div class="share-links-ttl">分享:</div>
                     <div class="share-links-cont">
                       <script src="../js/share.js"></script>
                       <div class="ya-share2" style="margin-top:12px;" data-curtain=""
@@ -226,7 +224,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_email">E-mail</label>
+                                  <label for="feedback_email">电子邮件：</label>
                                   <input type="text" name="email" id="feedback_email" required="">
                                 </div>
                               </div>
