@@ -13,7 +13,7 @@
 
                 <div class="sidebar-object-info sticky-sidebar">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -107,7 +107,7 @@
               <div class="col-xs-12 col-sm-8">
                 <div class="page-content">
                   <div class="section-expandable">
-                    <div class="h2">Фотогалерея</div>
+                    <div class="h2">照片廊</div>
                     <div class="section-expandable-content">
                       <div class="photo-slider-wrapper">
                         <div class="photo-slider">
@@ -184,7 +184,7 @@
                     </div>
                   </div>
                   <div class="section-expandable">
-                    <div class="h2">О гостинице</div>
+                    <div class="h2">关于酒店</div>
                     <div class="section-expandable-content">
                       <p><span ame="" width="100%" height="370" src="https://www.youtube.com/embed/x7ROZNx8c6Q"
                           frameborder="0"
@@ -292,15 +292,14 @@
                         </span>
                       </div>
                       <div>
-                        *Скидка по программе "Карта гостя Новгородской области" предоставляется только при бронировании
-                        непосредственно через отель.
+                        *只有通过酒店直接预订时，才会享受诺夫哥罗德地区客人卡计划的折扣。
                       </div>
                       <p></p>
                     </div>
                   </div>
 
                   <div class="share-links">
-                    <div class="share-links-ttl">Поделиться:</div>
+                    <div class="share-links-ttl">分享:</div>
                     <div class="share-links-cont">
                       <script src="../js/share.js"></script>
                       <div class="ya-share2" style="margin-top:12px;" data-curtain=""
@@ -329,7 +328,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_email">E-mail</label>
+                                  <label for="feedback_email">电子邮件：</label>
                                   <input type="text" name="email" id="feedback_email" required="">
                                 </div>
                               </div>

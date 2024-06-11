@@ -15,7 +15,7 @@
                 <meta itemprop="position" content="2">
               </li>
               <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                酒店 «瓦尔代 Эко Клуб»
+                “瓦尔代生态俱乐部”酒店
                 <meta itemprop="position" content="3">
               </li>
             </ul>
@@ -33,10 +33,9 @@
                           <ul class="page-header-tags">
                             <li><a href="/cities/valda/">瓦尔代</a></li>
                           </ul>
-                          <h1>酒店 «瓦尔代 Эко Клуб»</h1>
+                          <h1>“瓦尔代生态俱乐部”酒店</h1>
                           <div class="page-header-lead">
-                            <p>Курортный отель в живописной местности национального заповедника «瓦尔代ский» на берегу
-                              озера Борое. </p>
+                            <p>“瓦尔代斯基”国家保护区风景区的度假酒店。位于博罗埃湖畔。</p>
                           </div>
                         </div>
                       </div>
@@ -58,7 +57,7 @@
 
                           <div class="ico ico-object-discount"></div>
                           <div class="cont">
-                            <div class="ttl">скидка по�&nbsp;карте гостя:</div>
+                            <div class="ttl">斯客人卡”的折扣。:</div>
                             <div class="val"><span>-10%</span></div>
                           </div>
 
