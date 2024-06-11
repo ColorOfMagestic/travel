@@ -9,15 +9,15 @@
         <div class="container">
           <div class="page-wrapper-top">
             <div class="row">
-              <div class="col-xs-12 col-sm-4 col-md-3">
+              <div class="col-xs-12 col-sm-4 col-md-2">
                 <div class="page-sidebar page-sidebar-l">
 
                   <!-- Статика -->
-                  <div class="visible-xs">
+                  <!-- <div class="visible-xs">
                     <div class="sidebar-filter-trigger"><span>过滤器</span></div>
-                  </div>
+                  </div> -->
                   <!-- Статика END -->
-                  <div class="sidebar-filter-wrapper">
+                  <!-- <div class="sidebar-filter-wrapper">
                     <div class="close"></div>
                     <div class="sidebar-filter">
                       <form class="filter-form" id="restaurantsForm" name="restaurantsForm" action="">
@@ -177,7 +177,7 @@
                         </div>
                       </form>
                     </div>
-                  </div>
+                  </div> -->
                 </div>
               </div>
               <div class="col-xs-12 col-sm-8 col-md-9">
