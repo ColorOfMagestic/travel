@@ -15,7 +15,7 @@
                 <meta itemprop="position" content="2">
               </li>
               <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                Всесезонный курорт «Любогорье» (Горнолыжный клуб)
+                “柳博戈列”
                 <meta itemprop="position" content="3">
               </li>
             </ul>
@@ -31,9 +31,9 @@
                       <div class="page-header-top-valign">
                         <div class="page-header-top-valign-cont">
                           <ul class="page-header-tags">
-                            <li><a href="/cities/p-lyubytino/">Любытино</a></li>
+                            <li><a href="/cities/p-lyubytino/">柳比蒂诺</a></li>
                           </ul>
-                          <h1>Всесезонный курорт «Любогорье» (Горнолыжный клуб)</h1>
+                          <h1>全季节度假村（滑雪俱乐部）</h1>
                           <div class="page-header-lead">
                             <p></p>
                           </div>
@@ -57,7 +57,7 @@
 
                           <div class="ico ico-object-discount"></div>
                           <div class="cont">
-                            <div class="ttl">скидка по�&nbsp;карте гостя:</div>
+                            <div class="ttl">斯客人卡”的折扣。:</div>
                             <div class="val"><span>-5%</span></div>
                           </div>
 
