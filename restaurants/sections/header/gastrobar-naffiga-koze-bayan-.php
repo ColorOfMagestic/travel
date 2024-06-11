@@ -15,7 +15,7 @@
                 <meta itemprop="position" content="2">
               </li>
               <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                Гастробар «Наffига Козе баян?!»
+                “为什么山羊需要手风琴？！”美食酒吧
                 <meta itemprop="position" content="3">
               </li>
             </ul>
@@ -32,9 +32,9 @@
                         <div class="page-header-top-valign-cont">
                           <ul class="page-header-tags">
                             <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
-                            <li>Бары и пабы</li>
+                            <li>酒吧和酒馆</li>
                           </ul>
-                          <h1>Гастробар «Наffига Козе баян?!»</h1>
+                          <h1>“为什么山羊需要手风琴？！”美食酒吧</h1>
                           <div class="page-header-lead">
                             <p>Гастробар авторской кухни из эко продуктов от местных фермеров - неповторимая атмосфера
                               бара и гастрономические удовольствия!</p>
@@ -55,7 +55,7 @@
                         <div class="object-info-item">
                           <div class="ico ico-object-discount"></div>
                           <div class="cont">
-                            <div class="ttl">скидка по�&nbsp;карте гостя</div>
+                            <div class="ttl">斯客人卡”的折扣。</div>
                             <div class="val"><span>-10%</span></div>
                           </div>
                         </div>

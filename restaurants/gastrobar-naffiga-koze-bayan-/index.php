@@ -13,7 +13,7 @@
               <div class="col-xs-12 col-sm-4 pull-right">
                 <div class="sidebar-object-info sticky-sidebar">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -80,12 +80,13 @@
                         </tr>
                         <tr>
                           <td class="name">地址:</td>
-                          <td class="val">大诺夫哥罗德 , ул. Великая, д.3</td>
+                          <td class="val">大诺夫哥罗德市 维利卡亚街3号</td>
                         </tr>
                         <tr>
-                          <td class="name">Время работы:</td>
-                          <td class="val">вс-чт с 10:00 до 23.00
-                            пт-сб с 10.00 до 00.00</td>
+                          <td class="name">工作时间:</td>
+                          <td class="val">星期日 至 星期四 10:00 - 23.00
+                            星期五 - 星期六 10.00 - 00.00
+                          </td>
                         </tr>
                         <tr>
                           <td class="name">GPS坐标: </td>
@@ -109,91 +110,63 @@
 
                   <div class="photo-slider-wrapper">
                     <div class="photo-slider">
-                      <div class="slide"><img
-                          data-lazy="images/97224b3de9f3ba75c2fd4c34c14f68e2.jpg">
+                      <div class="slide"><img data-lazy="images/97224b3de9f3ba75c2fd4c34c14f68e2.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/50bda80f77f81065dc3061e8d847554e.jpg">
+                      <div class="slide"><img data-lazy="images/50bda80f77f81065dc3061e8d847554e.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/e4bc46fbf57739264237e0cd153c0cf7.jpg">
+                      <div class="slide"><img data-lazy="images/e4bc46fbf57739264237e0cd153c0cf7.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/5dbb907e118f1a6aca689d086ca56c9b.jpg">
+                      <div class="slide"><img data-lazy="images/5dbb907e118f1a6aca689d086ca56c9b.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/0ae03974d789c7c916785f14e203228f.jpg">
+                      <div class="slide"><img data-lazy="images/0ae03974d789c7c916785f14e203228f.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/3c2dce287861dfbb41fb06808af84c34.jpg">
+                      <div class="slide"><img data-lazy="images/3c2dce287861dfbb41fb06808af84c34.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/f47325a623126e89951f4fbcd6a392f7.jpg">
+                      <div class="slide"><img data-lazy="images/f47325a623126e89951f4fbcd6a392f7.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/50e618446211786fb63697b38819e356.jpg">
+                      <div class="slide"><img data-lazy="images/50e618446211786fb63697b38819e356.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/f30d79aa4c921e269dff3c9db9aed31b.jpg">
+                      <div class="slide"><img data-lazy="images/f30d79aa4c921e269dff3c9db9aed31b.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/b1f6656979a76a72de049d307301ad14.jpg">
+                      <div class="slide"><img data-lazy="images/b1f6656979a76a72de049d307301ad14.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/511d8f6cca7063be39c0ed019a404f97.jpg">
+                      <div class="slide"><img data-lazy="images/511d8f6cca7063be39c0ed019a404f97.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/1ed2da1e4640638a5f7fb9e915245d33.jpg">
+                      <div class="slide"><img data-lazy="images/1ed2da1e4640638a5f7fb9e915245d33.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/a009e1d44e330d62bf2d80513037c14f.jpg">
+                      <div class="slide"><img data-lazy="images/a009e1d44e330d62bf2d80513037c14f.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/e489f5ba66fe73c43814cbf645199aa4.jpg">
+                      <div class="slide"><img data-lazy="images/e489f5ba66fe73c43814cbf645199aa4.jpg">
                       </div>
                     </div>
                     <div class="photo-slider-thumbs">
-                      <div class="slide"><img
-                          data-lazy="images/97224b3de9f3ba75c2fd4c34c14f68e2.jpg">
+                      <div class="slide"><img data-lazy="images/97224b3de9f3ba75c2fd4c34c14f68e2.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/50bda80f77f81065dc3061e8d847554e.jpg">
+                      <div class="slide"><img data-lazy="images/50bda80f77f81065dc3061e8d847554e.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/e4bc46fbf57739264237e0cd153c0cf7.jpg">
+                      <div class="slide"><img data-lazy="images/e4bc46fbf57739264237e0cd153c0cf7.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/5dbb907e118f1a6aca689d086ca56c9b.jpg">
+                      <div class="slide"><img data-lazy="images/5dbb907e118f1a6aca689d086ca56c9b.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/0ae03974d789c7c916785f14e203228f.jpg">
+                      <div class="slide"><img data-lazy="images/0ae03974d789c7c916785f14e203228f.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/3c2dce287861dfbb41fb06808af84c34.jpg">
+                      <div class="slide"><img data-lazy="images/3c2dce287861dfbb41fb06808af84c34.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/f47325a623126e89951f4fbcd6a392f7.jpg">
+                      <div class="slide"><img data-lazy="images/f47325a623126e89951f4fbcd6a392f7.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/50e618446211786fb63697b38819e356.jpg">
+                      <div class="slide"><img data-lazy="images/50e618446211786fb63697b38819e356.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/f30d79aa4c921e269dff3c9db9aed31b.jpg">
+                      <div class="slide"><img data-lazy="images/f30d79aa4c921e269dff3c9db9aed31b.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/b1f6656979a76a72de049d307301ad14.jpg">
+                      <div class="slide"><img data-lazy="images/b1f6656979a76a72de049d307301ad14.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/511d8f6cca7063be39c0ed019a404f97.jpg">
+                      <div class="slide"><img data-lazy="images/511d8f6cca7063be39c0ed019a404f97.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/1ed2da1e4640638a5f7fb9e915245d33.jpg">
+                      <div class="slide"><img data-lazy="images/1ed2da1e4640638a5f7fb9e915245d33.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/a009e1d44e330d62bf2d80513037c14f.jpg">
+                      <div class="slide"><img data-lazy="images/a009e1d44e330d62bf2d80513037c14f.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/e489f5ba66fe73c43814cbf645199aa4.jpg">
+                      <div class="slide"><img data-lazy="images/e489f5ba66fe73c43814cbf645199aa4.jpg">
                       </div>
                     </div>
                   </div>
@@ -203,42 +176,29 @@
                     <div class="section-expandable-content">
                       <p></p>
                       <p>
-                        Изюминка гастробара -�&nbsp;использование сезонных эко продуктов от фермеров, благодаря которым
-                        можно совершить гастрономическое путешествие по временам года.
+                      美食吧的亮点是使用了来自农民的时令生态产品。因此，您可以进行四季美食之旅。
                       </p>
                       <p>
-                        Гастробар авторской кухни из эко продуктов от местных фермеров - неповторимая атмосфера бара и
-                        гастрономические удовольствия!<br>
-                        Попадая в гастробар, ощущаешь невесомость и какую-то невероятную легкость бытия. Время здесь
-                        пролетит незаметно, а уходить, совсем не захочется.
+                        作者的美食吧，由当地农民的生态产品烹制而成，是独特的酒吧氛围和美食乐趣。<br>
+                        在这里，你会感到失重和某种令人难以置信的轻松。时间会在这里悄然流逝。我不想离开。
                       </p>
                       <p>
-                        Знакомство с кухней дарит нам новой ощущение - поистине земное удовольствие.
+                      熟悉美食会给人一种新的感觉——一种真正的世俗乐趣。
                       </p>
                       <p>
-                        В распоряжении гостей <b>три зала</b>, каждый из которых выполнен в уникальном дизайне.
+                      有三个大厅供客人使用。每个大厅都采用独特的设计。
                       </p>
                       <p>
-                        <b>Зал «Лаванда»</b> выполнен в светлых цветах, украшен кухонной утварью и напомнит о теплом
-                        ожидании обеда на кухне у любимой бабушки. Придется по вкусу женским компаниям и семьям с
-                        детьми.<br>
+                      <b>“薰衣草”</b>大厅采用浅色设计。用厨房用具装饰。他会回忆起他心爱的祖母在厨房里温暖地等待午餐。这将是女性公司和有孩子的家庭的口味。<br>
                         <br>
-                        <b>Зал «Тимьян»</b> мы сделали строгим и брутальным. Самое крутое место в городе для того чтобы
-                        собраться мальчишками за кружкой пенного.<br>
+                        我们让<b>“百里香”</b>大厅变得严格而残酷。镇上最酷的地方，在一杯泡沫后面开会。<br>
                         <br>
-                        <b>Зал «Гостиная»</b> - банкетный зал, выполненный в сдержанном стиле дома деревенского
-                        аристократа.
+                        <b>“客厅”</b>大厅是宴会厅。采用乡村贵族住宅的低调风格。
                       </p>
                       <p>
-                        Известно, что современные художники часто заимствуют идеи для своих работ из академической
-                        живописи, но выбирают для их выполнения новые формы. У нас же классическая форма приобретает
-                        новое содержание. Что касается основных блюд - это как финал фильма, с неожиданной развязкой
-                        сюжета.
+                      配料的搭配令人着迷。表演很耐人寻味。这里使用当地产品。喜欢用低温慢煮的菜肴方法(Vide)。这种方法可以保留产品中的风味特性和有用物质。
                       </p>
                       <p>
-                        Сочетание ингредиентов завораживает, а исполнение интригует. Мы используем локальные продукты и
-                        предпочитаем метод низкотемпературного медленного приготовления блюд- Sous Vide, который
-                        позволяет сохранить вкусовые свойства и полезные вещества в продукте.
                       </p>
                       <p>
                         <br>
@@ -252,7 +212,7 @@
 
 
                   <div class="share-links">
-                    <div class="share-links-ttl">Поделиться:</div>
+                    <div class="share-links-ttl">分享:</div>
                     <div class="share-links-cont">
                       <script src="../js/share.js"></script>
                       <div class="ya-share2" style="margin-top:12px;" data-curtain=""
@@ -282,7 +242,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_email">E-mail</label>
+                                  <label for="feedback_email">电子邮件：</label>
                                   <input type="text" name="email" id="feedback_email" required="">
                                 </div>
                               </div>
