@@ -13,7 +13,7 @@
 
                 <div class="sidebar-object-info sticky-sidebar">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -82,7 +82,7 @@
                         </tr>
                         <tr>
                           <td class="name">地址:</td>
-                          <td class="val">г. 大诺夫哥罗德 , ул. �&nbsp;огатица, д. 14 </td>
+                          <td class="val">大诺夫哥罗德市罗加蒂萨街14号 </td>
                         </tr>
                         <tr>
                           <td class="name">GPS坐标: </td>
@@ -106,7 +106,7 @@
               <div class="col-xs-12 col-sm-8">
                 <div class="page-content">
                   <div class="section-expandable">
-                    <div class="h2">Фотогалерея</div>
+                    <div class="h2">照片廊</div>
                     <div class="section-expandable-content">
                       <div class="photo-slider-wrapper">
                         <div class="photo-slider">
@@ -147,7 +147,7 @@
                     </div>
                   </div>
                   <div class="section-expandable">
-                    <div class="h2">Об отеле</div>
+                    <div class="h2">关于酒店</div>
                     <div class="section-expandable-content">
                       <p></p>
                       <div>
@@ -157,28 +157,21 @@
                         <br>
                       </div>
                       <div>
-                        Отель был открыт 15 декабря 2020 года. Подарком же под 2022 Новый Год стало повышение категории
-                        отеля до 4 звёзд после года успешной работы.
+                      酒店于2020年12月15日开业，2022年新年的礼物是酒店在成功运营一年后升级为4星级。
                       </div>
                       <br>
-                      Собственник – компания «Арсенал» - приобрёл здание, являющееся памятником архитектуры XIX века, на
-                      торгах в 2017 году, когда оно находилось в плачевном состоянии и требовало срочной реконструкции.
-                      В течение трёх лет велись ремонтно - восстановительные и реставрационные работы, результатом
-                      которых стали восторженные отзывы Гостей города, останавливавшихся в новом отеле, хранящем
-                      атмосферу старинного особняка. <br>
+                      所有者是阿森纳公司。这座建筑是19世纪建筑的纪念碑。在2017年的拍卖中，它处于糟糕的状态，需要紧急重建。三年来，我们进行了翻修，修复和修复工作，结果是新酒店的客人对我们的评价很高。酒店保留了古老豪宅的氛围。 <br>
                       <br>
-                      Надо отметить, что Отель «БИАНКИ» удерживает лидирующую позицию по отзывам путешественников на
-                      самых популярных сайтах бронирования.
+                      值得注意的是，“比安奇”酒店在最受欢迎的预订网站上的旅客评论方面保持领先地位。
                       <p>
-                        *Скидка по программе "Карта гостя Новгородской области" предоставляется только при бронировании
-                        непосредственно через отель.
+                        *只有通过酒店直接预订时，才会享受诺夫哥罗德地区客人卡计划的折扣。
                       </p>
                       <p></p>
                     </div>
                   </div>
 
                   <div class="share-links">
-                    <div class="share-links-ttl">Поделиться:</div>
+                    <div class="share-links-ttl">分享:</div>
                     <div class="share-links-cont">
                       <script src="../js/share.js"></script>
                       <div class="ya-share2" style="margin-top:12px;" data-curtain=""
@@ -207,7 +200,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_email">E-mail</label>
+                                  <label for="feedback_email">电子邮件：</label>
                                   <input type="text" name="email" id="feedback_email" required="">
                                 </div>
                               </div>

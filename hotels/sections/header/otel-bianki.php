@@ -15,7 +15,7 @@
                 <meta itemprop="position" content="2">
               </li>
               <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                Отель "БИАНКИ"
+                "比安奇"酒店
                 <meta itemprop="position" content="3">
               </li>
             </ul>
@@ -33,9 +33,9 @@
                           <ul class="page-header-tags">
                             <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
                           </ul>
-                          <h1>Отель "БИАНКИ"</h1>
+                          <h1>"比安奇"酒店</h1>
                           <div class="page-header-lead">
-                            <p>Отель «Бианки» – несетевой комфортабельный отель в особняке XIX века. </p>
+                            <p>四星级酒店“比安奇”是一家19世纪豪宅中的非连锁舒适酒店。 </p>
                           </div>
                         </div>
                       </div>
@@ -67,7 +67,7 @@
 
                           <div class="ico ico-object-discount"></div>
                           <div class="cont">
-                            <div class="ttl">скидка по�&nbsp;карте гостя:</div>
+                            <div class="ttl">斯客人卡”的折扣。:</div>
                             <div class="val"><span>-10%</span></div>
                           </div>
 
