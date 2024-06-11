@@ -82,7 +82,7 @@
                         </tr>
                         <tr>
                           <td class="name">地址:</td>
-                          <td class="val">大诺夫哥罗德 , ул. Великая, 16</td>
+                          <td class="val">地址: 大诺夫哥罗德市维利卡亚街 16号</td>
                         </tr>
                         <tr>
                           <td class="name">GPS坐标: </td>
@@ -106,7 +106,7 @@
               <div class="col-xs-12 col-sm-8">
                 <div class="page-content">
                   <div class="section-expandable">
-                    <div class="h2">Фотогалерея</div>
+                    <div class="h2">照片廊</div>
                     <div class="section-expandable-content">
                       <div class="photo-slider-wrapper">
                         <div class="photo-slider">
@@ -153,45 +153,41 @@
                     </div>
                   </div>
                   <div class="section-expandable">
-                    <div class="h2">О гостинице </div>
+                    <div class="h2">关于酒店 </div>
                     <div class="section-expandable-content">
                       <p></p>
                       <p>
-                        В гостинице Интурист 115 номеров разных категорий, (стандарт, комфорт, бизнес). Есть также свой
-                        ресторан, лобби-бар, конференц-зал на 60 мест, бизнес-центр. Предоставляется бесплатный Wi-Fi и
-                        удобная парковка. Из преимуществ отеля – экскурсионное обслуживание.
+                      “国际旅行”酒店拥有115间不同类别的客房（标准、舒适、商务）。还有自己的餐厅，大堂酒吧，60个座位的会议室，商务中心。提供免费Wi-Fi和便利的停车场。酒店的优势之一是观光服务。
                       </p>
                       <p>
-                        Недалеко располагается новая современная набережная вдоль реки Волхов. <br>
+                      附近是沃尔霍夫河沿岸的一条新的现代堤防。<br>
                       </p>
                       <p>
-                        Туристам, отдыхающим с детьми, понравится большая и безопасная детская площадка, выполненная из
-                        экологичных материалов.�&nbsp;
+                      带着孩子的游客会喜欢一个大而安全的游乐场。该场地由环保材料制成。
                       </p>
                       <p>
                       </p>
                       <p>
-                        Контакты:
+                      联络人:
                       </p>
                       <p>
-                        +7 (8162) 280-100�&nbsp;
+                        +7 (8162) 280-100;
                       </p>
                       <p>
-                        +7 (8162) 280-400�&nbsp;
+                        +7 (8162) 280-400;
                       </p>
                       <p>
                         +7 (8162) 280-300<br>
                       </p>
                       <div>
-                        *Скидка по программе "Карта гостя Новгородской области" предоставляется только при бронировании
-                        непосредственно через отель.
+                      *只有通过酒店直接预订时，才会享受“诺夫哥罗德俄
                       </div>
                       <p></p>
                     </div>
                   </div>
 
                   <div class="share-links">
-                    <div class="share-links-ttl">Поделиться:</div>
+                    <div class="share-links-ttl">分享:</div>
                     <div class="share-links-cont">
                       <script src="../js/share.js"></script>
                       <div class="ya-share2" style="margin-top:12px;" data-curtain=""

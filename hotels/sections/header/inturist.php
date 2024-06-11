@@ -15,7 +15,7 @@
                 <meta itemprop="position" content="2">
               </li>
               <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                Интурист гостиница
+                “国际旅行”酒店
                 <meta itemprop="position" content="3">
               </li>
             </ul>
@@ -33,9 +33,9 @@
                           <ul class="page-header-tags">
                             <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
                           </ul>
-                          <h1>Интурист гостиница</h1>
+                          <h1>“国际旅行”酒店</h1>
                           <div class="page-header-lead">
-                            <p>Удобный отель для туристов и деловых людей в историческом центре Великого Новгорода.</p>
+                            <p>位于大诺夫哥罗德历史中心的游客和商务人士的舒适酒店。</p>
                           </div>
                         </div>
                       </div>
@@ -57,7 +57,7 @@
 
                           <div class="ico ico-object-discount"></div>
                           <div class="cont">
-                            <div class="ttl">скидка по�&nbsp;карте гостя:</div>
+                            <div class="ttl">斯客人卡”的折扣。:</div>
                             <div class="val"><span>-15%</span></div>
                           </div>
 
