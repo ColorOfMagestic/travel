@@ -88,8 +88,8 @@
                           </td>
                         </tr>
                         <tr>
-                          <td class="name">Время работы:</td>
-                          <td class="val">Круглосуточно</td>
+                          <td class="name">工作时间:</td>
+                          <td class="val">24小时</td>
                         </tr>
                         <tr>
                           <td class="name">GPS坐标: </td>

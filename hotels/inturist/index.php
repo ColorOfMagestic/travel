@@ -13,7 +13,7 @@
 
                 <div class="sidebar-object-info sticky-sidebar">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -82,7 +82,7 @@
                         </tr>
                         <tr>
                           <td class="name">地址:</td>
-                          <td class="val">地址: 大诺夫哥罗德市维利卡亚街 16号</td>
+                          <td class="val">大诺夫哥罗德市维利卡亚街 16号</td>
                         </tr>
                         <tr>
                           <td class="name">GPS坐标: </td>
@@ -216,7 +216,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_email">E-mail</label>
+                                  <label for="feedback_email">电子邮件：</label>
                                   <input type="text" name="email" id="feedback_email" required="">
                                 </div>
                               </div>
