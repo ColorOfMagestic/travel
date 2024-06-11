@@ -11,7 +11,7 @@
               <div class="col-xs-12 col-sm-4 pull-right">
                 <div class="sidebar-object-info sticky-sidebar">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -79,12 +79,13 @@
                         </tr>
                         <tr>
                           <td class="name">地址:</td>
-                          <td class="val">大诺夫哥罗德 , ул. Мерецкова-Волосова 1/1</td>
+                          <td class="val">大诺夫哥罗德市梅列茨科夫-沃洛索夫街 1/1号/td>
                         </tr>
                         <tr>
-                          <td class="name">Время работы:</td>
-                          <td class="val">ВС-ЧТ с 12:00 до 23:00
-                            ПТ,СБ с 12:00 до 00:00</td>
+                          <td class="name">工作时间:</td>
+                          <td class="val">星期日 至 星期四： 12:00 - 23:00
+                            星期五, 星期六: 12:00 - 00:00
+                          </td>
                         </tr>
                         <tr>
                           <td class="name">GPS坐标: </td>
@@ -108,55 +109,39 @@
 
                   <div class="photo-slider-wrapper">
                     <div class="photo-slider">
-                      <div class="slide"><img
-                          data-lazy="images/71c166da8cba9e55caaa46aaefb9aff7.jpg">
+                      <div class="slide"><img data-lazy="images/71c166da8cba9e55caaa46aaefb9aff7.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/4987b81eef4a591bc60f955845bc18d9.jpg">
+                      <div class="slide"><img data-lazy="images/4987b81eef4a591bc60f955845bc18d9.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/e1d323a3f5976e8771eccee29667a29e.jpg">
+                      <div class="slide"><img data-lazy="images/e1d323a3f5976e8771eccee29667a29e.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/98916731a8ba8dea7cabb0ec7772183d.jpg">
+                      <div class="slide"><img data-lazy="images/98916731a8ba8dea7cabb0ec7772183d.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/22b1aa28aff9c59b8f18afa48901971f.jpg">
+                      <div class="slide"><img data-lazy="images/22b1aa28aff9c59b8f18afa48901971f.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/c9d55465764ae594d8757a287abfa840.jpg">
+                      <div class="slide"><img data-lazy="images/c9d55465764ae594d8757a287abfa840.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/c60926e093a17dfd2306ab34e2529ece.jpg">
+                      <div class="slide"><img data-lazy="images/c60926e093a17dfd2306ab34e2529ece.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/710f61a5cf610146eb3bc2aea5935ff5.jpg">
+                      <div class="slide"><img data-lazy="images/710f61a5cf610146eb3bc2aea5935ff5.jpg">
                       </div>
                     </div>
                     <div class="photo-slider-thumbs">
-                      <div class="slide"><img
-                          data-lazy="images/71c166da8cba9e55caaa46aaefb9aff7.jpg">
+                      <div class="slide"><img data-lazy="images/71c166da8cba9e55caaa46aaefb9aff7.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/4987b81eef4a591bc60f955845bc18d9.jpg">
+                      <div class="slide"><img data-lazy="images/4987b81eef4a591bc60f955845bc18d9.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/e1d323a3f5976e8771eccee29667a29e.jpg">
+                      <div class="slide"><img data-lazy="images/e1d323a3f5976e8771eccee29667a29e.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/98916731a8ba8dea7cabb0ec7772183d.jpg">
+                      <div class="slide"><img data-lazy="images/98916731a8ba8dea7cabb0ec7772183d.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/22b1aa28aff9c59b8f18afa48901971f.jpg">
+                      <div class="slide"><img data-lazy="images/22b1aa28aff9c59b8f18afa48901971f.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/c9d55465764ae594d8757a287abfa840.jpg">
+                      <div class="slide"><img data-lazy="images/c9d55465764ae594d8757a287abfa840.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/c60926e093a17dfd2306ab34e2529ece.jpg">
+                      <div class="slide"><img data-lazy="images/c60926e093a17dfd2306ab34e2529ece.jpg">
                       </div>
-                      <div class="slide"><img
-                          data-lazy="images/710f61a5cf610146eb3bc2aea5935ff5.jpg">
+                      <div class="slide"><img data-lazy="images/710f61a5cf610146eb3bc2aea5935ff5.jpg">
                       </div>
                     </div>
                   </div>
@@ -166,29 +151,22 @@
                     <div class="section-expandable-content">
                       <p>Второй проект с концепцией ZAVOD-бар в Великом Новгороде.<br>
                         <br>
-                        Чародейка-бар�&nbsp;и ZAVOD -бар – это интеллигентные бары с русской кухней, настойками и
-                        купеческой лавкой, заполненной памятными сувенирами и русскими напитками.<br>
+                        «巫婆»酒吧和«工厂»(ZAVOD)酒吧-是智能酒吧，配有俄罗斯美食、酊剂和商人商店。装满了令人难忘的纪念品和俄罗斯饮料。<br>
                         <br>
-                        Чародейка-бар — это уникальное место вне времени с душевным сервисом и гастрономией, где можно
-                        не только сытно поесть, но и насладиться видом из окна.<br>
-                        Сюда приходят гости за русской домотканной кухней, аутентичными блюдами из локальных продуктов и
-                        дружественной атмосферой. Запоминающимся сопровождением в гастрономическом визите послужит
-                        богатый выбор крафтовых настоек по восстановленным традиционным рецептурам.<br>
+                        “巫师”酒吧是一个独特的超时空场所，提供热情的服务和美食。在这里，你可以吃饱饭，欣赏窗外的景色。<br>
+                        客人来到这里是为了俄罗斯家常菜、地道的当地食品菜肴和友好的气氛。丰富的工艺酊剂选择将令人难忘。酊剂是根据恢复的传统配方制备的。<br>
                         <br>
-                        Купеческая лавка «Чародейка» богата на известные в �&nbsp;оссии водки, джины и настойки
-                        ликеро-водочного завода «Алкон», натуральный чай и мёд, чайные наборы с подстаканниками, стопки
-                        ручной работы, и памятные открытки с авторскими иллюстрациями видов Великого Новгорода.<br>
+                        商人商店“巫婆”富含俄罗斯著名的“阿尔孔”白酒厂的伏特加、杜松子酒和酊剂。天然茶和蜂蜜，带杯架的茶具，手工制作的成堆的。带有作者插图的大诺夫哥罗德景观的纪念明信片。<br>
                         <br>
                       </p>
                       <div>
-                        Бар, бронь�&nbsp;столика: 601-409 | Лавка: 601-509
+                        Бар, бронь столика: 601-409 | Лавка: 601-509
                       </div>
                       <div>
                         <br>
                       </div>
                       <div>
-                        *По Карте гостя при покупке любого товара от 500 рублей фирменный магнит или варенье из сосновых
-                        шишек в подарок (в зависимости от наличия)<br>
+                      *使用俄罗斯诺夫哥罗德客人卡购买500卢布起的任何商品时，品牌磁铁或松果果酱作为礼物（视情况而定）<br>
                       </div>
                       <p></p>
                     </div>
@@ -198,7 +176,7 @@
 
 
                   <div class="share-links">
-                    <div class="share-links-ttl">Поделиться:</div>
+                    <div class="share-links-ttl">分享:</div>
                     <div class="share-links-cont">
                       <script src="../js/share.js"></script>
                       <div class="ya-share2" style="margin-top:12px;" data-curtain=""
@@ -227,7 +205,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_email">E-mail</label>
+                                  <label for="feedback_email">电子邮件：</label>
                                   <input type="text" name="email" id="feedback_email" required="">
                                 </div>
                               </div>

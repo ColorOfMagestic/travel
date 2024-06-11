@@ -15,7 +15,7 @@
         <meta itemprop="position" content="2">
       </li>
       <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-        Чародейка-бар
+        «巫婆» 酒吧
         <meta itemprop="position" content="3">
       </li>
     </ul>
@@ -32,9 +32,9 @@
                 <div class="page-header-top-valign-cont">
                   <ul class="page-header-tags">
                     <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
-                    <li>Бары и пабы</li>
+                    <li>酒吧和酒馆</li>
                   </ul>
-                  <h1>Чародейка-бар</h1>
+                  <h1>«巫婆» 酒吧</h1>
                   <div class="page-header-lead">
                     <p>уникальное место вне времени с душевным сервисом и гастрономией</p>
                   </div>
@@ -44,8 +44,8 @@
             <div class="page-header-info">
               <div class="page-header-info-item">
                 <div class="ico ico-cuisine"></div>
-                <div class="text">Кухня <span>
-                    Русская </span></div>
+                <div class="text">饭菜<span>
+                俄罗斯菜 </span></div>
               </div>
             </div>
             <div class="page-header-bottom page-header-bottom-object">
