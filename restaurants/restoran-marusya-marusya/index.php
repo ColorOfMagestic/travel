@@ -12,7 +12,7 @@
               <div class="col-xs-12 col-sm-4 pull-right">
                 <div class="sidebar-object-info sticky-sidebar">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -79,7 +79,7 @@
                         </tr>
                         <tr>
                           <td class="name">地址:</td>
-                          <td class="val">大诺夫哥罗德 , Предтеченская ул. 24, </td>
+                          <td class="val">大诺夫哥罗德市普雷德特琴斯卡亚街24号</td>
                         </tr>
                         <tr>
                           <td class="name">GPS坐标: </td>
@@ -257,37 +257,28 @@
                     <div class="section-expandable-content">
                       <p></p>
                       <p>
-                        �&nbsp;есторан MARUSYA — ресторан в самом сердце Великого Новгорода и гастро-проект, наполненный
-                        литературным вкусом, авторской кухней, театральными подачами, яркими событиями и душой, полной
-                        авантюризма и любви к еде и искусству, где каждый ужин имеет свой смысл и свою историю.
+                      ”马鲁西亚”餐厅是位于大诺夫哥罗德中心的餐厅。一个有文学气息、作者美食、戏剧表演、亮点活动的美食项目。带着一颗充满冒险精神的灵魂。对食物和艺术的热爱。每顿晚餐都有它的意义和它的故事。
                       </p>
                       <p>
-                        Авторская фьюжн-кухня, адаптированная под культуру Новгородской земли, вдохновлённая литературой
-                        и спектаклем у столика. Вас ждут интересные сочетания ингредиентов, обширная барная карта и
-                        разнообразное меню.
+                      作者的融合厨房。适应诺夫哥罗德土地的文化。灵感来自文学和餐桌表演。有趣的食材组合、丰富的酒吧地图和多样化的菜单等着你。
+
                       </p>
                       <p>
-                        В программе ресторана интересные гастрономические мероприятия:
+                      餐厅的节目包括有趣的美食活动：
                       </p>
                       <p>
                       </p>
                       <ul>
-                        <li>Театрально-гастрономические представления;</li>
-                        <li>
-                          Гастрономические представления и батлы;</li>
-                        <li>
-                          Интеллектуальные вечера на разные актуальные темы;</li>
-                        <li>
-                          Музыкальные вечера с артистами и музыкантами;</li>
-                        <li>
-                          Вечера кухонь мира;</li>
-                        <li>
-                          Ужины с сомелье;</li>
-                        <li>
-                          Детские мастер-классы: творческие, кулинарные (каждое воскресенье). </li>
+                      <li>戏剧和美食表演；</li>
+                      <li>美食表演和战斗；</li>
+                      <li>关于不同热点主题的智力晚会；</li>
+                      <li>与艺术家和音乐家的音乐之夜；</li>
+                      <li>晚上，世界厨房；</li>
+                      <li>与侍酒师共进晚餐；</li>
+                      <li>儿童大师班：创意、烹饪（每周日）。</li>
                       </ul>
                       <div>
-                        <b>*Скидка 10%</b><b> по Карте гостя</b> на основное меню ресторана "Marusya"<br>
+                      *俄罗斯诺夫哥罗德客人卡可享受“马鲁西亚”餐厅主菜单10%的折扣<br>
                       </div>
                       <ul>
                       </ul>
@@ -301,7 +292,7 @@
 
 
                   <div class="share-links">
-                    <div class="share-links-ttl">Поделиться:</div>
+                    <div class="share-links-ttl">分享:</div>
                     <div class="share-links-cont">
                       <script src="../js/share.js"></script>
                       <div class="ya-share2" style="margin-top:12px;" data-curtain=""
@@ -330,7 +321,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_email">E-mail</label>
+                                  <label for="feedback_email">电子邮件：</label>
                                   <input type="text" name="email" id="feedback_email" required="">
                                 </div>
                               </div>
@@ -389,7 +380,7 @@
 
                   <div class="section-expandable">
                     <div class="h2">Отзывы</div>
-                    <div class="section-expandable-content">
+                    <!-- <div class="section-expandable-content">
 
 
                       <div class="review-block">
@@ -470,7 +461,7 @@
 
 
 
-                    </div>
+                    </div> -->
                   </div>
 
 

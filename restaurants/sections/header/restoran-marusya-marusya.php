@@ -15,7 +15,7 @@
                 <meta itemprop="position" content="2">
               </li>
               <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                �&nbsp;есторан «Маруся» Marusya
+                ”马鲁西亚”(MARUSYA)餐厅
                 <meta itemprop="position" content="3">
               </li>
             </ul>
@@ -32,9 +32,9 @@
                         <div class="page-header-top-valign-cont">
                           <ul class="page-header-tags">
                             <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
-                            <li>�&nbsp;естораны</li>
+                            <li>餐厅</li>
                           </ul>
-                          <h1>�&nbsp;есторан «Маруся» Marusya</h1>
+                          <h1>”马鲁西亚”(MARUSYA)餐厅</h1>
                           <div class="page-header-lead">
                             <p>Скидка 10% на посещение ресторана "Marusya" по Карте гостя.</p>
                           </div>
@@ -44,8 +44,8 @@
                     <div class="page-header-info">
                       <div class="page-header-info-item">
                         <div class="ico ico-cuisine"></div>
-                        <div class="text">Кухня <span>
-                            Европейская, �&nbsp;усская </span></div>
+                        <div class="text">饭菜<span>
+                            欧洲菜, 俄罗斯菜 </span></div>
                       </div>
                     </div>
                     <div class="page-header-bottom page-header-bottom-object">
@@ -61,7 +61,7 @@
                         <div class="object-info-item">
                           <div class="ico ico-object-discount"></div>
                           <div class="cont">
-                            <div class="ttl">скидка по�&nbsp;карте гостя</div>
+                            <div class="ttl">斯客人卡”的折扣。</div>
                             <div class="val"><span>-10%</span></div>
                           </div>
                         </div>
