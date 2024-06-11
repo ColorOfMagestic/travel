@@ -5,14 +5,14 @@
     <?php require_once ('../template/header-inner.php') ?>
     <!-- main -->
     <div class="main">
-      <div class="page-wrapper" style="background-image: url(images/page-wrapper-bg.jpg);">
+      <div class="page-wrapper" style="background-image: url(../images/page-wrapper-bg.jpg);">
         <div class="container">
           <div class="page-wrapper-top">
             <div class="row">
               <div class="col-xs-12 col-sm-4 pull-right">
                 <div class="sidebar-object-info sticky-sidebar">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -34,7 +34,7 @@
                               // Необходимо указать данный 类型 макета.
                               iconLayout: 'default#image',
                               // Своё изображение иконки метки.
-                              iconImageHref: '/layout/images/map-pin.png',
+                              iconImageHref: '../images/map-pin.png',
                               // Размеры метки.
                               iconImageSize: [43, 60],
                               // Смещение левого верхнего угла иконки относительно
@@ -78,11 +78,11 @@
                         </tr>
                         <tr>
                           <td class="name">地址:</td>
-                          <td class="val">Юрьевское шоссе, 15, 大诺夫哥罗德 , 173007</td>
+                          <td class="val">173007大诺夫哥罗德市尤里耶夫斯科耶大街 15号</td>
                         </tr>
                         <tr>
-                          <td class="name">Время работы:</td>
-                          <td class="val">Ежедневно с 11:00 до 23:00</td>
+                          <td class="name">工作时间:</td>
+                          <td class="val">每天 с 11:00 до 23:00</td>
                         </tr>
                         <tr>
                           <td class="name">GPS坐标: </td>
@@ -151,27 +151,20 @@
                     <div class="section-expandable-content">
                       <p></p>
                       <p>
-                        Кафе-ресторан «Сытый Гусь» - это блюда крестьянской, деревенской, дворянской кухни, с
-                        традиционными вкусами, приготовленные в условиях современных кулинарных технологий.
-                        �&nbsp;азнообразие меню не оставит равнодушным даже настоящих гурманов: горячие блюда из печи,
-                        закуски, медовуха, блюда в авторском исполнении шеф-повара.
+                      “饱鹅”咖啡馆餐厅是具有传统风味的农民、乡村、贵族菜肴。在现代烹饪技术的条件下烹制。菜单的多样性不会让即使是真正的美食家无动于衷。热烤箱菜，小吃，蜂蜜酒，作者厨师表演的菜肴。
                       </p>
                       <p>
                       </p>
                       <p>
-                        Заведение открыто в рамках комплексной реставрации Музея народного деревянного зодчества
-                        «Витославлицы».
+                      该机构是在“维托斯拉夫利茨”民间木制建筑博物馆全面修复的框架内开放的。
                       </p>
                       <p>
                       </p>
                       <p>
-                        Приглашаем вас в гости к Сытому Гусю! �&nbsp;� Вы можете почувствовать себя в долгожданном
-                        отпуске, при этом не выезжая за пределы Великого Новгорода. �&nbsp;екомендуем крем-суп из белых
-                        грибов, который мы подаем с жареными лисичками и трюфельным маслом.
+                      欢迎您来吃“饱鹅”！你可能会觉得自己在期待已久的假期里。同时，您无需离开大诺夫哥罗德。推荐奶油银耳汤。我们配上烤狐狸和松露油。
                       </p>
                       <p>
-                        *<b>По Карте гостя</b> �&nbsp;уси Новгородской приветственный бокал домашнего кваса или
-                        Новгородской медовухи в подарок. <br>
+                      *根据俄罗斯客人诺夫哥罗德的卡片，赠送一杯自制格瓦斯或诺夫哥罗德蜂蜜酒。 <br>
                       </p>
                       <p>
                         <br>
@@ -245,7 +238,7 @@
 
 
                   <div class="share-links">
-                    <div class="share-links-ttl">Поделиться:</div>
+                    <div class="share-links-ttl">分享:</div>
                     <div class="share-links-cont">
                       <script src="../js/share.js"></script>
                       <div class="ya-share2" style="margin-top:12px;" data-curtain=""
@@ -275,7 +268,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_email">E-mail</label>
+                                  <label for="feedback_email">电子邮件：</label>
                                   <input type="text" name="email" id="feedback_email" required="">
                                 </div>
                               </div>

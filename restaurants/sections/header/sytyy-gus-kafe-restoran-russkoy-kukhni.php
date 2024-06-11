@@ -15,7 +15,7 @@
                 <meta itemprop="position" content="2">
               </li>
               <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                Кафе-ресторан русской кухни "Сытый Гусь"
+                "饱鹅" 俄式咖啡餐厅
                 <meta itemprop="position" content="3">
               </li>
             </ul>
@@ -32,10 +32,10 @@
                         <div class="page-header-top-valign-cont">
                           <ul class="page-header-tags">
                             <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
-                            <li>�&nbsp;естораны</li>
-                            <li>Кафе и кофейни</li>
+                            <li>餐厅</li>
+                            <li>咖啡厅和咖啡店</li>
                           </ul>
-                          <h1>Кафе-ресторан русской кухни "Сытый Гусь"</h1>
+                          <h1>"饱鹅" 俄式咖啡餐厅</h1>
                           <div class="page-header-lead">
                             <p></p>
                           </div>
@@ -45,8 +45,8 @@
                     <div class="page-header-info">
                       <div class="page-header-info-item">
                         <div class="ico ico-cuisine"></div>
-                        <div class="text">Кухня <span>
-                            �&nbsp;усская </span></div>
+                        <div class="text">饭菜<span>
+                            俄罗斯菜 </span></div>
                       </div>
                     </div>
                     <div class="page-header-bottom page-header-bottom-object">

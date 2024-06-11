@@ -5,7 +5,7 @@
     <?php require_once ('../template/header-inner.php') ?>
     <!-- main -->
     <div class="main">
-      <div class="page-wrapper" style="background-image: url(images/page-wrapper-bg.jpg);">
+      <div class="page-wrapper" style="background-image: url(../images/page-wrapper-bg.jpg);">
         <div class="container">
           <div class="page-wrapper-top">
             <div class="row">
