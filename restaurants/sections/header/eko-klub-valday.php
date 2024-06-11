@@ -15,7 +15,7 @@
                 <meta itemprop="position" content="2">
               </li>
               <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                �&nbsp;есторан «Эко-клуб 瓦尔代»
+                 «瓦尔代生态俱乐部» 餐厅
                 <meta itemprop="position" content="3">
               </li>
             </ul>
@@ -32,9 +32,9 @@
                         <div class="page-header-top-valign-cont">
                           <ul class="page-header-tags">
                             <li><a href="/cities/valda/">瓦尔代</a></li>
-                            <li>�&nbsp;естораны</li>
+                            <li>餐厅</li>
                           </ul>
-                          <h1>�&nbsp;есторан «Эко-клуб 瓦尔代»</h1>
+                          <h1> «瓦尔代生态俱乐部» 餐厅</h1>
                           <div class="page-header-lead">
                             <p></p>
                           </div>
@@ -44,8 +44,8 @@
                     <div class="page-header-info">
                       <div class="page-header-info-item">
                         <div class="ico ico-cuisine"></div>
-                        <div class="text">Кухня <span>
-                            �&nbsp;усская </span></div>
+                        <div class="text">饭菜<span>
+                            俄罗斯菜 </span></div>
                       </div>
                     </div>
                     <div class="page-header-bottom page-header-bottom-object">

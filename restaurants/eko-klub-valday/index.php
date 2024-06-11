@@ -12,7 +12,7 @@
               <div class="col-xs-12 col-sm-4 pull-right">
                 <div class="sidebar-object-info sticky-sidebar">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -80,7 +80,7 @@
                         </tr>
                         <tr>
                           <td class="name">地址:</td>
-                          <td class="val">瓦尔代ский район, д. Короцко, Зелёная ул., 1</td>
+                          <td class="val">瓦尔代区科洛茨科村泽廖那雅街1号</td>
                         </tr>
                         <tr>
                           <td class="name">GPS坐标: </td>
@@ -123,12 +123,7 @@
                   <div class="section-expandable">
                     <div class="h2">О ресторане</div>
                     <div class="section-expandable-content">
-                      <p>酒店 «Эко Клуб 瓦尔代» - уютный отель на берегу озера посреди чудесной природы Валдая.
-                        酒店, отель, коттеджи, ресторан, SPA центр, озеро, баня, музей ретро авто, экофема. «Эко
-                        Клуб 瓦尔代» не только повсеместно использует эко-продукцию для приготовления блюд в ресторане,
-                        но и предоставляет возможность гостям попробовать весь ассортимент в формате деревенских
-                        посиделок и приобрести понравившиеся продукты при возвращении домой. Заказать продукты
-                        подсобного хозяйства можно на стойке администратора или у работников экофермы. Телефоны
+                      <p>“瓦尔代生态俱乐部”不仅在各地使用生态产品在餐厅烹饪菜肴。它为客人提供了以乡村聚会的形式尝试所有品种的机会。回家后买你喜欢的食物。您可以在管理员柜台或生态农场的员工那里订购附属农场的产品。 Телефоны
                         гостиницы «Эко Клуб 瓦尔代»: +7 (499) 136-35-36 +7 (81666) 3-24-44 +7 (903) 004-59-76 +7 (964)
                         694-64-62 <br>
 
@@ -140,7 +135,7 @@
 
 
                   <div class="share-links">
-                    <div class="share-links-ttl">Поделиться:</div>
+                    <div class="share-links-ttl">分享:</div>
                     <div class="share-links-cont">
                       <script src="../js/share.js"></script>
                       <div class="ya-share2" style="margin-top:12px;" data-curtain=""
@@ -169,7 +164,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_email">E-mail</label>
+                                  <label for="feedback_email">电子邮件：</label>
                                   <input type="text" name="email" id="feedback_email" required="">
                                 </div>
                               </div>
