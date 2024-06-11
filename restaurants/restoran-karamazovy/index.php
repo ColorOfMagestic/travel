@@ -333,20 +333,6 @@
                   <script>
                     let reviewComponentName = "kuratovru:web.form.review";
                   </script>
-
-
-
-                  <div class="section-expandable">
-                    <div class="h2">Отзывы</div>
-                    <div class="section-expandable-content">
-
-                      <p>Для этого объекта еще нет отзывов.</p>
-
-                    </div>
-                  </div>
-
-
-
                 </div>
               </div>
 

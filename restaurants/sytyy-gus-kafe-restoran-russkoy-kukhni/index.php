@@ -322,32 +322,6 @@
                   <script>
                     let reviewComponentName = "kuratovru:web.form.review";
                   </script>
-
-
-
-                  <div class="section-expandable">
-                    <div class="h2">Отзывы</div>
-                    <div class="section-expandable-content">
-
-
-                      <div class="review-block">
-                        <p class="review-smalltext">20.02.2023 21:56:34</p>
-                        <span class="review-smalltext">Надежда Олейникова</span>
-                        <span class="rateit" data-rateit-value="5" data-rateit-ispreset="true"
-                          data-rateit-readonly="true"></span>
-                        <p>Здравствуйте! Спасибо за обед в прошедшую пятницу. Всей семье понравились выбранные блюда.
-                          Внук заказал бабушке молочный коктейль- он красиво оформлен цветком из мороженного,.
-                          Питательно, вкусно. Честно скажу только десерт долго не приносили. Пожелание быть всегда на
-                          этом уровне.</p>
-                      </div>
-
-
-
-                    </div>
-                  </div>
-
-
-
                 </div>
               </div>
 

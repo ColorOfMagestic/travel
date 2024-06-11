@@ -225,28 +225,6 @@
                     let reviewComponentName = "kuratovru:web.form.review";
                   </script>
 
-
-
-                  <div class="section-expandable">
-                    <div class="h2">Отзывы</div>
-                    <div class="section-expandable-content">
-
-
-                      <div class="review-block">
-                        <p class="review-smalltext">02.11.2021 14:34:58</p>
-                        <span class="review-smalltext">Морозова Анна Ивановна</span>
-                        <span class="rateit" data-rateit-value="5" data-rateit-ispreset="true"
-                          data-rateit-readonly="true"></span>
-                        <p>Очень вкусно! Вежливое, деликатное обслуживание. Спасибо большое!)</p>
-                      </div>
-
-
-
-                    </div>
-                  </div>
-
-
-
                 </div>
               </div>
 

@@ -259,33 +259,6 @@
                   <script>
                     let reviewComponentName = "kuratovru:web.form.review";
                   </script>
-
-
-
-                  <div class="section-expandable">
-                    <div class="h2">Отзывы</div>
-                    <div class="section-expandable-content">
-
-
-                      <div class="review-block">
-                        <p class="review-smalltext">02.09.2021 12:18:38</p>
-                        <span class="review-smalltext">Виктор Анатольевич Чужакин</span>
-                        <span class="rateit" data-rateit-value="5" data-rateit-ispreset="true"
-                          data-rateit-readonly="true"></span>
-                        <p>Паштет с брусничным соусом под 80,0 хреновухи - отлично ! �&nbsp;екомендую ! </p>
-                        <a class="fancy-review" href="/upload/iblock/98e/98ef4f2ef27814bb1f089861a9290368.jpg">
-                          <img src="images/98ef4f2ef27814bb1f089861a9290368.jpg" alt="review image">
-                        </a>
-
-                      </div>
-
-
-
-                    </div>
-                  </div>
-
-
-
                 </div>
               </div>
 
