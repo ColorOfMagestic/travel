@@ -293,7 +293,7 @@
 
                   <div class="section-expandable">
                     <div class="h2">Отзывы</div>
-                    <div class="section-expandable-content">
+                    <!-- <div class="section-expandable-content">
 
 
                       <div class="review-block">
@@ -373,7 +373,7 @@
 
 
 
-                    </div>
+                    </div> -->
                   </div>
 
 

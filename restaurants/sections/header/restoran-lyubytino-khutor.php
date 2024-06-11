@@ -31,7 +31,7 @@
               <div class="page-header-top-valign">
                 <div class="page-header-top-valign-cont">
                   <ul class="page-header-tags">
-                    <li><a href="/cities/p-lyubytino/">Любытино</a></li>
+                    <li><a href="/cities/p-lyubytino/">柳比蒂诺</a></li>
                     <li>餐厅</li>
                   </ul>
                   <h1>«柳比蒂诺-农场» 餐厅</h1>
