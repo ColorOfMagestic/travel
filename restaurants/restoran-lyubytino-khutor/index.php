@@ -13,7 +13,7 @@
               <div class="col-xs-12 col-sm-4 pull-right">
                 <div class="sidebar-object-info sticky-sidebar">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -86,7 +86,7 @@
                         </tr>
                         <tr>
                           <td class="name">地址:</td>
-                          <td class="val">Любытинский район, дер. Бор, 129</td>
+                          <td class="val">柳比蒂诺区博尔村129号</td>
                         </tr>
                         <tr>
                           <td class="name">GPS坐标: </td>
@@ -196,9 +196,8 @@
                   <div class="section-expandable">
                     <div class="h2">О ресторане</div>
                     <div class="section-expandable-content">
-                      <p>В кафе готовят вкуснейшие домашние блюда русской кухни из натуральных фермерских продуктов. В
-                        меню – наваристая солянка и щаницы, большое разнообразие блюд, приготовленных на мангале,
-                        пельмени и вареники ручной работы. <br></p>
+                      <p>餐厅用天然农产品烹制美味的俄罗斯家常菜。菜单上有大杂烩和卷心菜。种类繁多的菜肴。在烧烤上煮的。手工饺子和饺子。
+ <br></p>
                     </div>
                   </div>
 
@@ -206,7 +205,7 @@
 
 
                   <div class="share-links">
-                    <div class="share-links-ttl">Поделиться:</div>
+                    <div class="share-links-ttl">分享:</div>
                     <div class="share-links-cont">
                       <script src="../js/share.js"></script>
                       <div class="ya-share2" style="margin-top:12px;" data-curtain=""
@@ -235,7 +234,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_email">E-mail</label>
+                                  <label for="feedback_email">电子邮件：</label>
                                   <input type="text" name="email" id="feedback_email" required="">
                                 </div>
                               </div>
@@ -346,7 +345,7 @@
                         <span class="review-smalltext">Любо Елена Владимировна </span>
                         <span class="rateit" data-rateit-value="5" data-rateit-ispreset="true"
                           data-rateit-readonly="true"></span>
-                        <p>Кухня на высоте! Блюда безумно вкусные!!! Очень уютное мето, Очень приветливые
+                        <p>饭菜на высоте! Блюда безумно вкусные!!! Очень уютное мето, Очень приветливые
                           ребята-официанты.Причем ВСЕ!!!!! Удачи и процветания)))</p>
                       </div>
 
