@@ -13,7 +13,7 @@
 
                 <div class="sidebar-object-info sticky-sidebar">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -83,7 +83,7 @@
                         </tr>
                         <tr>
                           <td class="name">地址:</td>
-                          <td class="val">大诺夫哥罗德 , ул. Дворцовая, 2/1</td>
+                          <td class="val">大诺夫哥罗德市德沃尔佐瓦亚街 2/1号</td>
                         </tr>
                         <tr>
                           <td class="name">GPS坐标: </td>
@@ -107,13 +107,11 @@
               <div class="col-xs-12 col-sm-8">
                 <div class="page-content">
                   <div class="section-expandable">
-                    <div class="h2">О бутик-отеле</div>
+                    <div class="h2">关于精品酒店</div>
                     <div class="section-expandable-content">
                       <p></p>
                       <div>
-                        Из окон – вид на Ярославово дворище, архитектурный комплекс XII–XVII веков. Каждый номер здесь
-                        отличает уникальный тематический дизайн: винтажные аксессуары, авторские картины, hand-made
-                        детали. <br>
+                      从窗户可以看到雅罗斯拉夫庭院，雅罗斯拉夫庭院是12-17世纪的建筑群。这里的每个房间都有独特的主题设计：复古配饰、作者画作、手工细节。 <br>
                       </div>
                       <div>
                         <br>
@@ -121,13 +119,12 @@
                       <div>
                         <br>
                       </div>
-                      *Скидка по программе "Карта гостя Новгородской области" предоставляется только при бронировании
-                      непосредственно через отель.<p></p>
+                      *只有通过酒店直接预订时，才会享受“诺夫哥罗德俄罗斯客人卡”的折扣。<p></p>
                     </div>
                   </div>
 
                   <div class="share-links">
-                    <div class="share-links-ttl">Поделиться:</div>
+                    <div class="share-links-ttl">分享:</div>
                     <div class="share-links-cont">
                       <script src="../js/share.js"></script>
                       <div class="ya-share2" style="margin-top:12px;" data-curtain=""

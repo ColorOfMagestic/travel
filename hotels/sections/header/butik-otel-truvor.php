@@ -15,7 +15,7 @@
                 <meta itemprop="position" content="2">
               </li>
               <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                Бутик-отель «Truvor»
+                “特鲁沃”精品酒店（«Truvor»）
                 <meta itemprop="position" content="3">
               </li>
             </ul>
@@ -33,9 +33,9 @@
                           <ul class="page-header-tags">
                             <li><a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a></li>
                           </ul>
-                          <h1>Бутик-отель «Truvor»</h1>
+                          <h1>“特鲁沃”精品酒店（«Truvor»）</h1>
                           <div class="page-header-lead">
-                            <p>Современный отель, расположенный в историческом центре Великого Новгорода.
+                            <p>现代酒店。位于大诺夫哥罗德的历史中心。
                             </p>
                           </div>
                         </div>
@@ -58,7 +58,7 @@
 
                           <div class="ico ico-object-discount"></div>
                           <div class="cont">
-                            <div class="ttl">скидка по�&nbsp;карте гостя:</div>
+                            <div class="ttl">斯客人卡”的折扣。:</div>
                             <div class="val"><span>-15%</span></div>
                           </div>
 
