@@ -15,7 +15,7 @@
                 <meta itemprop="position" content="2">
               </li>
               <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                Truvor glamping Глэмпинг Трувор
+                 “特鲁沃尔”豪华露营(Truvor glamping)
                 <meta itemprop="position" content="3">
               </li>
             </ul>
@@ -33,7 +33,7 @@
                           <ul class="page-header-tags">
                             <li><a href="/cities/valda/">瓦尔代</a></li>
                           </ul>
-                          <h1>Truvor glamping Глэмпинг Трувор</h1>
+                          <h1> “特鲁沃尔”豪华露营(Truvor glamping)</h1>
                           <div class="page-header-lead">
                             <p></p>
                           </div>
@@ -57,7 +57,7 @@
 
                           <div class="ico ico-object-discount"></div>
                           <div class="cont">
-                            <div class="ttl">скидка по�&nbsp;карте гостя:</div>
+                            <div class="ttl">斯客人卡”的折扣。:</div>
                             <div class="val"><span>-15%</span></div>
                           </div>
 

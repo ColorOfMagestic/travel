@@ -14,7 +14,7 @@
 
                 <div class="sidebar-object-info sticky-sidebar">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -84,7 +84,7 @@
                         </tr>
                         <tr>
                           <td class="name">地址:</td>
-                          <td class="val">Новгородская область, 瓦尔代ский район, Короцкое поселение 70 (д.Полосы)</td>
+                          <td class="val">诺夫哥罗德州瓦尔代区科洛茨科定居点 70号 (波洛西村)</td>
                         </tr>
                         <tr>
                           <td class="name">GPS坐标: </td>
@@ -108,7 +108,7 @@
               <div class="col-xs-12 col-sm-8">
                 <div class="page-content">
                   <div class="section-expandable">
-                    <div class="h2">Фотогалерея</div>
+                    <div class="h2">照片廊</div>
                     <div class="section-expandable-content">
                       <div class="photo-slider-wrapper">
                         <div class="photo-slider">
@@ -214,47 +214,39 @@
                       <p></p>
                       <div>
                         <br>
-                        Truvor Glamping - это не только живописное место, это индивидуальный стиль, эстетика в окружении
-                        реликтового соснового леса.
+                        “特鲁沃尔”豪华露营不仅仅是一个风景优美的地方。这是一种个性的风格，一种被遗迹松林包围的美学。
                       </div>
                       <div>
                         <br>
                       </div>
                       <div>
-                        Уютный и стильный дом на берегу Середейского озера, свежий воздух, пение птиц и абсолютная
-                        тишина. Здесь есть все удобства для комфортного отдыха: места для сна, мангальная зона,
-                        тент-хаусы и, конечно же, реликтовый сосновый лес, который завораживает своей сказочной
-                        красотой! <br>
+                      谢列代斯基湖畔舒适时尚的房子。新鲜空气，鸟儿的歌声和绝对的寂静。这里有舒适度假的所有设施。睡眠区，烧烤区，帐篷屋，遗迹松林。森林以其童话般的美丽而迷人！ <br>
                       </div>
                       <div>
                         <br>
                       </div>
                       <div>
-                        Дома с панорамным остеклением оснащены всем необходимым для комфортного проживания. В них
-                        создается ощущение единения с природой и абсолютного комфорта.
-                      </div>
-                      �&nbsp;�<br>
-                      <div>
-                        Глэмпинг находится на территории Национального парка «瓦尔代ский», поэтому отсюда можно начать
-                        свое путешествие по самому протяженному пешеходному экомаршруту <a target="_blank"
-                          href="https://novgorod.travel/guides/priroda/valdayskiy-kray/">«Большая 瓦尔代ская Тропа»</a>.
+                      有全景玻璃的房子。配备舒适住宿所需的一切。它们营造出与自然统一和绝对舒适的感觉。
                       </div>
                       <br>
                       <div>
-                        <b>Как добраться </b><br>
+                      露营地位于瓦尔代国家公园的领土上。从这里开始您的旅程，沿着最长的步行生态路线<a target="_blank"
+                          href="https://novgorod.travel/guides/priroda/valdayskiy-kray/">“大瓦尔代小径”。</a>.
+                      </div>
+                      <br>
+                      <div>
+                        <b>如何到达 </b><br>
                       </div>
                       <div>
                         <br>
                       </div>
                       <div>
-                        Двигаясь по трассе м10 из Москвы в сторону Санкт-Петербурга, повернуть налево на 388 км.
+                      沿着M10高速公路从莫斯科向圣彼得堡行驶。在388公里处左转。
                         <p>
-                          Двигаясь из Санкт-Петербурга в Москву, повернуть направо на 313 к
+                        从圣彼得堡搬到莫斯科。在313公里处右转。
                         </p>
                         <p>
-                          Ориентир - деревня Короцко. Ехать 5,9 км до поворота на д. Середея и на нем повернуть направо,
-                          продолжать движение 3,6 км и снова повернуть направо, на д. Полосы, проехать ещё 1,3 км и
-                          повернуть налево по указателю оз. Середейское.
+                        地标是科洛茨科定居点。行驶5.9公里，直到在塞雷德亚村转弯，然后右转。继续行驶3.6公里。再右转，到波洛西村。再走1.3公里。沿着谢列戴斯科湖的标志左转。
                         </p>
                       </div>
                       <p></p>
@@ -262,7 +254,7 @@
                   </div>
 
                   <div class="share-links">
-                    <div class="share-links-ttl">Поделиться:</div>
+                    <div class="share-links-ttl">分享:</div>
                     <div class="share-links-cont">
                       <script src="../js/share.js"></script>
                       <div class="ya-share2" style="margin-top:12px;" data-curtain=""
@@ -291,7 +283,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_email">E-mail</label>
+                                  <label for="feedback_email">电子邮件：</label>
                                   <input type="text" name="email" id="feedback_email" required="">
                                 </div>
                               </div>
