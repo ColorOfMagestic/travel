@@ -33,4 +33,7 @@ switch ($name) {
   case 'iverskiy-bogoroditskiy-svyatoozerskiy-monastyr':
     require_once ('header/iverskiy-bogoroditskiy-svyatoozerskiy-monastyr.php');
     break;
+  case 'muzey-narodnogo-derevyannogo-zodchestva-vitoslavlitsy':
+    require_once ('header/muzey-narodnogo-derevyannogo-zodchestva-vitoslavlitsy.php');
+    break;
 }

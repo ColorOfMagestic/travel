@@ -29,5 +29,8 @@ switch ($name) {
   case 'iverskiy-bogoroditskiy-svyatoozerskiy-monastyr':
     require_once ('title/iverskiy-bogoroditskiy-svyatoozerskiy-monastyr.php');
     break;
+  case 'muzey-narodnogo-derevyannogo-zodchestva-vitoslavlitsy':
+    require_once ('title/muzey-narodnogo-derevyannogo-zodchestva-vitoslavlitsy.php');
+    break;
 
 }
