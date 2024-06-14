@@ -27,4 +27,7 @@ switch ($name) {
   case 'muzey-zapovednik-a-v-suvorova':
     require_once ('header/muzey-zapovednik-a-v-suvorova.php');
     break;
+  case 'ryurikovo-gorodishche':
+    require_once ('header/ryurikovo-gorodishche.php');
+    break;
 }

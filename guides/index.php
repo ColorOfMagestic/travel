@@ -200,7 +200,7 @@
                     </div>
                     <div class="tr">
                       <div class="object-tmb">
-                        <a href="../guides/neobychnye-mesta/ryurikovo-gorodishche/">
+                        <a href="../guides/ryurikovo-gorodishche/">
                           <div class="object-tmb-pic"
                             style="background-image:url(images/e218fdadd81dc37ea881d55e4d09e40c.jpg);">
                           </div>
@@ -214,7 +214,7 @@
                               <a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a>
                             </li>
                           </ul>
-                          <a href="../guides/neobychnye-mesta/ryurikovo-gorodishche/">
+                          <a href="../guides/ryurikovo-gorodishche/">
                             <div class="h3"><span>留里克古城遗迹</span></div>
                             <div class="object-tmb-text">
                               <!-- <p>Церковь Благовещения стала вторым каменным храмом, построенным после Софийского собора
