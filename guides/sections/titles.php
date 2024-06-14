@@ -11,4 +11,8 @@ switch ($name) {
   case 'vladychnaya-granovitaya-palata':
     require_once ('title/vladychnaya-granovitaya-palata.php');
     break;
+  case 'kreml':
+    require_once ('title/kreml.php');
+    break;
+
 }

@@ -12,4 +12,7 @@ switch ($name) {
   case 'vladychnaya-granovitaya-palata':
     require_once ('header/vladychnaya-granovitaya-palata.php');
     break;
+  case 'kreml':
+    require_once ('header/kreml.php');
+    break;
 }
