@@ -15,4 +15,7 @@ switch ($name) {
   case 'kreml':
     require_once ('header/kreml.php');
     break;
+  case 'dom-muzey-f-m-dostoevskogo':
+    require_once ('header/dom-muzey-f-m-dostoevskogo.php');
+    break;
 }
