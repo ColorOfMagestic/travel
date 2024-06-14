@@ -139,7 +139,7 @@
                     </div>
                     <div class="tr">
                       <div class="object-tmb">
-                        <a href="../guides/muzei/muzey-kolokolov/">
+                        <a href="../guides/muzey-kolokolov/">
                           <div class="object-tmb-pic"
                             style="background-image:url(images/53cd92d6113f26dfd21232f31321ca41.jpg);">
                             <div class="object-tmb-info">
@@ -162,7 +162,7 @@
                               <a href="/cities/valda/">瓦尔代</a>
                             </li>
                           </ul>
-                          <a href="../guides/muzei/muzey-kolokolov/">
+                          <a href="../guides/muzey-kolokolov/">
                             <div class="h3"><span>钟声博物馆</span></div>
                             <div class="object-tmb-text">
                               <p></p>
