@@ -226,7 +226,7 @@
 
                       </div>
                       <div class="object-tmb">
-                        <a href="../guides/khramy-i-monastyri/iverskiy-bogoroditskiy-svyatoozerskiy-monastyr/">
+                        <a href="../guides/iverskiy-bogoroditskiy-svyatoozerskiy-monastyr/">
                           <div class="object-tmb-pic"
                             style="background-image:url(images/fd319c8247c71184a4cc77a544dc0d31.jpg);">
                           </div>
@@ -240,7 +240,7 @@
                               <a href="/cities/valda/">瓦尔代</a>
                             </li>
                           </ul>
-                          <a href="../guides/khramy-i-monastyri/iverskiy-bogoroditskiy-svyatoozerskiy-monastyr/">
+                          <a href="../guides/iverskiy-bogoroditskiy-svyatoozerskiy-monastyr/">
                             <div class="h3"><span>伊维尔斯基·博戈罗季茨基·斯维亚托泽尔斯基修道院</span></div>
                             <div class="object-tmb-text">
                               <p></p>

@@ -30,4 +30,7 @@ switch ($name) {
   case 'ryurikovo-gorodishche':
     require_once ('header/ryurikovo-gorodishche.php');
     break;
+  case 'iverskiy-bogoroditskiy-svyatoozerskiy-monastyr':
+    require_once ('header/iverskiy-bogoroditskiy-svyatoozerskiy-monastyr.php');
+    break;
 }
