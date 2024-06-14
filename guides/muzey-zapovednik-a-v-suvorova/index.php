@@ -66,25 +66,25 @@
                     <table class="object-info-table">
                       <tbody>
                         <tr>
-                          <td class="name">Телефон:</td>
+                          <td class="name">电话:</td>
                           <td class="val">
                             <a class="no-ul" href="tel:+7 (921) 737-13-75">+7 (921) 737-13-75</a>
                           </td>
                         </tr>
                         <tr>
-                          <td class="name">Сайт:</td>
+                          <td class="name">网站:</td>
                           <td class="val">
                             <a href="https://novgorodmuseum.ru/muzei/muzej-usadba-a.v.-suvorova-v-s.-konchanskoe"
                               target="_blank">novgorodmuseum.ru/muzei/muzej-usadba-a.v.-suvorova-v-s.-konchanskoe</a><br>
                           </td>
                         </tr>
                         <tr>
-                          <td class="name">Адрес:</td>
+                          <td class="name">地址:</td>
                           <td class="val">Новгородская область, Боровичский район, с. Кончанско-Суворовское ул.
                             Центральная, 19</td>
                         </tr>
                         <tr>
-                          <td class="name">GPS-координаты:</td>
+                          <td class="name">GPS坐标:</td>
                           <td class="val">
                             <a href="javascript:void(0)" data-copy="58.654385,34.06841" class="gps-block">
                               <span> 58.654385,34.06841 </span>
@@ -108,7 +108,7 @@
 
 
                 <div class="section-expandable">
-                  <div class="h2">Описание</div>
+                  <div class="h2">资料描述</div>
                   <div class="section-expandable-content">
                     <p>
                       诺夫哥罗德省博罗维奇区孔昌斯科耶村的庄园由亚历山大·瓦西里耶维奇·苏沃洛夫继承。指挥官生命的最后几年主要与村庄有关。1797-1799年，他在这里流亡。
@@ -123,7 +123,7 @@
                 </div>
 
                 <div class="section-expandable">
-                  <div class="h2">Фотогалерея</div>
+                  <div class="h2">照片廊</div>
                   <div class="section-expandable-content">
                     <div class="photo-slider-wrapper">
                       <div class="photo-slider">
@@ -140,7 +140,7 @@
                 </div>
 
                 <div class="section-expandable">
-                  <div class="h2">Что еще посмотреть</div>
+                  <div class="h2">还有什么可看的</div>
                   <div class="section-expandable-content">
                     <div class="objects-list-wrapper">
                       <div class="objects-list">
@@ -339,7 +339,7 @@
 
 
                 <div class="share-links">
-                  <div class="share-links-ttl">Поделиться:</div>
+                  <div class="share-links-ttl">分享:</div>
                   <div class="share-links-cont">
                     <script src="../js/share.js"></script>
                     <div class="ya-share2" style="margin-top:12px;" data-curtain=""
@@ -374,7 +374,7 @@
                             </div>
                             <div class="col-xs-12 col-sm-4">
                               <div class="form-group">
-                                <label for="feedback_phone">Телефон:</label>
+                                <label for="feedback_phone">电话:</label>
                                 <input class="input-phone" type="text" name="phone" id="feedback_phone" required="">
                               </div>
                             </div>

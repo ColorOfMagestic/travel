@@ -67,25 +67,25 @@
                       <table class="object-info-table">
                         <tbody>
                           <tr>
-                            <td class="name">Телефон:</td>
+                            <td class="name">电话:</td>
                             <td class="val">
                               <a class="no-ul" href="tel:(816-52) 514-77">(816-52) 514-77</a>
                             </td>
                           </tr>
                           <tr>
-                            <td class="name">Сайт:</td>
+                            <td class="name">网站:</td>
                             <td class="val">
                               <a href="https://novgorodmuseum.ru/muzei/dom-muzej-f.m.-dostoevskogo"
                                 target="_blank">novgorodmuseum.ru/muzei/dom-muzej-f.m.-dostoevskogo</a><br>
                             </td>
                           </tr>
                           <tr>
-                            <td class="name">Адрес:</td>
+                            <td class="name">地址:</td>
                             <td class="val">Новгородская обл., г. Старая�&nbsp;усса, наб. Достоевского, 42/2
                             </td>
                           </tr>
                           <tr>
-                            <td class="name">Время работы:</td>
+                            <td class="name">工作时间:</td>
                             <td class="val">10.00 – 18.00
                               <br>Выходные: понедельник, последний четверг месяца.
                               <br>
@@ -95,7 +95,7 @@
                             </td>
                           </tr>
                           <tr>
-                            <td class="name">GPS-координаты:</td>
+                            <td class="name">GPS坐标:</td>
                             <td class="val">
                               <a href="javascript:void(0)" data-copy="57.981254,31.357361" class="gps-block">
                                 <span> 57.981254,31.357361 </span>
@@ -119,7 +119,7 @@
 
 
                   <div class="section-expandable">
-                    <div class="h2">Описание</div>
+                    <div class="h2">资料描述</div>
                     <div class="section-expandable-content">
                       <p>
                         陀思妥耶夫斯基家族自1873年以来一直在佩雷里蒂齐河堤上租用一座两层楼的木屋作为避暑别墅。主人亚历山大·卡洛维奇·格里贝上校去世后，作家于1876年从他的继承人手中买下了这所房子。陀思妥耶夫斯基在旧鲁萨市做了大量卓有成效的工作。在这里，他写了小说《群魔》、《少年》、《卡拉马佐夫兄弟》。作家去世后，他的遗孀安娜·格里戈里耶夫娜在房子里创建了一个纪念室。1918年，这座房子被收归国有。三年后，它成为旧鲁萨历史博物馆的所在地。这座木结构建筑奇迹般地在战争中幸存了下来。屋顶和阳台仍然被摧毁。在这座城市解放后的头几个月，这所房子已经修好了。1981年，它开设了一个家庭博物馆。现在它是诺夫哥罗德博物馆保护区的一个分支。
@@ -128,7 +128,7 @@
                   </div>
 
                   <div class="section-expandable">
-                    <div class="h2">Фотогалерея</div>
+                    <div class="h2">照片廊</div>
                     <div class="section-expandable-content">
                       <div class="photo-slider-wrapper">
                         <div class="photo-slider">
@@ -159,7 +159,7 @@
 
 
                   <div class="section-expandable">
-                    <div class="h2">Что еще посмотреть</div>
+                    <div class="h2">还有什么可看的</div>
                     <div class="section-expandable-content">
                       <div class="objects-list-wrapper">
                         <div class="objects-list">
@@ -415,7 +415,7 @@
 
 
                   <div class="share-links">
-                    <div class="share-links-ttl">Поделиться:</div>
+                    <div class="share-links-ttl">分享:</div>
                     <div class="share-links-cont">
                       <script src="../js/share.js"></script>
                       <div class="ya-share2" style="margin-top:12px;" data-curtain=""
@@ -450,7 +450,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_phone">Телефон:</label>
+                                  <label for="feedback_phone">电话:</label>
                                   <input class="input-phone" type="text" name="phone" id="feedback_phone" required="">
                                 </div>
                               </div>

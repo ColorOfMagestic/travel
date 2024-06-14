@@ -68,32 +68,32 @@
                       <table class="object-info-table">
                         <tbody>
                           <tr>
-                            <td class="name">Телефон:</td>
+                            <td class="name">电话:</td>
                             <td class="val">
                               <a class="no-ul" href="tel:+7-921-730-93-92">+7-921-730-93-92</a>
                             </td>
                           </tr>
                           <tr>
-                            <td class="name">Сайт:</td>
+                            <td class="name">网站:</td>
                             <td class="val">
                               <a href="https://novgorodmuseum.ru/muzei/vladychnaya-granovitaya-palata"
                                 target="_blank">novgorodmuseum.ru/muzei/vladychnaya-granovitaya-palata</a><br>
                             </td>
                           </tr>
                           <tr>
-                            <td class="name">Адрес:</td>
+                            <td class="name">地址:</td>
                             <td class="val">Новгородский Кремль, 14
                             </td>
                           </tr>
                           <tr>
-                            <td class="name">Время работы:</td>
+                            <td class="name">工作时间:</td>
                             <td class="val">вт.-вс.: 10.00 – 18.00,
                               <br>выходные: понедельник, первая среда месяца.
                               <br>
                             </td>
                           </tr>
                           <tr>
-                            <td class="name">GPS-координаты:</td>
+                            <td class="name">GPS坐标:</td>
                             <td class="val">
                               <a href="javascript:void(0)" data-copy="58.522791,31.276329" class="gps-block">
                                 <span> 58.522791,31.276329 </span>
@@ -431,7 +431,7 @@
 
 
                   <div class="share-links">
-                    <div class="share-links-ttl">Поделиться:</div>
+                    <div class="share-links-ttl">分享:</div>
                     <div class="share-links-cont">
                       <script src="../js/share.js"></script>
                       <div class="ya-share2" style="margin-top:12px;" data-curtain=""
@@ -467,7 +467,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_phone">Телефон:</label>
+                                  <label for="feedback_phone">电话:</label>
                                   <input class="input-phone" type="text" name="phone" id="feedback_phone" required="">
                                 </div>
                               </div>

@@ -67,13 +67,13 @@
                       <table class="object-info-table">
                         <tbody>
                           <tr>
-                            <td class="name">Телефон:</td>
+                            <td class="name">电话:</td>
                             <td class="val">
                               <a class="no-ul" href="tel:(816-66) 204-97">(816-66) 204-97</a>
                             </td>
                           </tr>
                           <tr>
-                            <td class="name">Сайт:</td>
+                            <td class="name">网站:</td>
                             <td class="val">
                               <a href="https://vk.com/muzei_valdaya" target="_blank">vk.com/muzei_valdaya</a><br>
                               <a href="https://novgorodmuseum.ru/muzei/muzej-kolokolov"
@@ -81,17 +81,17 @@
                             </td>
                           </tr>
                           <tr>
-                            <td class="name">Адрес:</td>
+                            <td class="name">地址:</td>
                             <td class="val">Новгородская обл., г. Валдай, ул. Труда, 2а</td>
                           </tr>
                           <tr>
-                            <td class="name">Время работы:</td>
+                            <td class="name">工作时间:</td>
                             <td class="val">пн., ср.-вс.: 10.00 – 18.00,
                               <br>выходные: вторник, последняя среда месяца
                             </td>
                           </tr>
                           <tr>
-                            <td class="name">GPS-координаты:</td>
+                            <td class="name">GPS坐标:</td>
                             <td class="val">
                               <a href="javascript:void(0)" data-copy="57.973911,33.255539" class="gps-block">
                                 <span> 57.973911,33.255539 </span>
@@ -115,7 +115,7 @@
 
 
                   <div class="section-expandable">
-                    <div class="h2">Описание</div>
+                    <div class="h2">资料描述</div>
                     <div class="section-expandable-content">
                       <p>
                         钟声博物馆是诺夫哥罗德博物馆保护区的一个分支。位于圣凯瑟琳旅行宫教堂。
@@ -129,7 +129,7 @@
                   </div>
 
                   <div class="section-expandable">
-                    <div class="h2">Фотогалерея</div>
+                    <div class="h2">照片廊</div>
                     <div class="section-expandable-content">
                       <div class="photo-slider-wrapper">
                         <div class="photo-slider">
@@ -202,7 +202,7 @@
 
 
                   <div class="section-expandable">
-                    <div class="h2">Что еще посмотреть</div>
+                    <div class="h2">还有什么可看的</div>
                     <div class="section-expandable-content">
                       <div class="objects-list-wrapper">
                         <div class="objects-list">
@@ -393,7 +393,7 @@
 
 
                   <div class="share-links">
-                    <div class="share-links-ttl">Поделиться:</div>
+                    <div class="share-links-ttl">分享:</div>
                     <div class="share-links-cont">
                       <script src="../js/share.js"></script>
                       <div class="ya-share2" style="margin-top:12px;" data-curtain=""
@@ -428,7 +428,7 @@
                               </div>
                               <div class="col-xs-12 col-sm-4">
                                 <div class="form-group">
-                                  <label for="feedback_phone">Телефон:</label>
+                                  <label for="feedback_phone">电话:</label>
                                   <input class="input-phone" type="text" name="phone" id="feedback_phone" required="">
                                 </div>
                               </div>
