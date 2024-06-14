@@ -112,7 +112,7 @@
 
                       </div>
                       <div class="object-tmb">
-                        <a href="../guides/khramy-i-monastyri/sofiyskiy-sobor/">
+                        <a href="../guides/sofiyskiy-sobor/">
                           <div class="object-tmb-pic"
                             style="background-image:url(images/b5adfb9489ebe62f39c24651ab78dd74.jpg);">
                           </div>
@@ -126,7 +126,7 @@
                               <a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a>
                             </li>
                           </ul>
-                          <a href="../guides/khramy-i-monastyri/sofiyskiy-sobor/">
+                          <a href="../guides/sofiyskiy-sobor/">
                             <div class="h3"><span>索非亚大教堂</span></div>
                             <div class="object-tmb-text">
                               <p></p>

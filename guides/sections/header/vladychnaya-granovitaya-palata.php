@@ -14,12 +14,6 @@
         </a>
         <meta itemprop="position" content="2">
       </li>
-      <li id="bx_breadcrumb_2" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-        <a href="/guides/muzei/" title="Музеи" itemprop="url">
-          Музеи
-        </a>
-        <meta itemprop="position" content="3">
-      </li>
       <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
       君主宫殿 (多棱宫)
         <meta itemprop="position" content="4">
@@ -37,7 +31,7 @@
               <div class="page-header-top-valign">
                 <div class="page-header-top-valign-cont">
                   <ul class="page-header-tags">
-                    <li>Музеи</li>
+                    <li>博物馆</li>
                     <li>
                       <a href="/cities/velikiy-novgorod/">大诺夫哥罗德</a>
                     </li>

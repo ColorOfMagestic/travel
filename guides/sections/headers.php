@@ -18,4 +18,7 @@ switch ($name) {
   case 'dom-muzey-f-m-dostoevskogo':
     require_once ('header/dom-muzey-f-m-dostoevskogo.php');
     break;
+  case 'sofiyskiy-sobor':
+    require_once ('header/sofiyskiy-sobor.php');
+    break;
 }
