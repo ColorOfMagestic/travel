@@ -1,1 +1,1 @@
-瓦尔代, 在哪里停留 — Truvor glamping Глэмпинг Трувор
+“特鲁沃尔”豪华露营(Truvor glamping)
