@@ -20,5 +20,8 @@ switch ($name) {
   case 'muzey-kolokolov':
     require_once ('title/muzey-kolokolov.php');
     break;
+  case 'muzey-zapovednik-a-v-suvorova':
+    require_once ('title/muzey-zapovednik-a-v-suvorova.php');
+    break;
 
 }

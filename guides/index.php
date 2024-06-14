@@ -173,7 +173,7 @@
 
                       </div>
                       <div class="object-tmb">
-                        <a href="../guides/muzei/muzey-zapovednik-a-v-suvorova/">
+                        <a href="../guides/muzey-zapovednik-a-v-suvorova/">
                           <div class="object-tmb-pic"
                             style="background-image:url(images/43d6fa9cf6170dadf271ad3d46100f33.jpg);">
                           </div>
@@ -187,7 +187,7 @@
                               <a href="/cities/borovichi/">博罗维奇</a>
                             </li>
                           </ul>
-                          <a href="../guides/muzei/muzey-zapovednik-a-v-suvorova/">
+                          <a href="../guides/muzey-zapovednik-a-v-suvorova/">
                             <div class="h3"><span>孔昌斯科耶-苏沃洛夫斯科耶农村
                                 亚历山大·瓦西里耶维奇·苏沃洛夫庄园博物馆
                               </span></div>
@@ -255,7 +255,7 @@
                     </div>
                     <div class="tr">
                       <div class="object-tmb">
-                        <a href="../guides/muzei/muzey-narodnogo-derevyannogo-zodchestva-vitoslavlitsy/">
+                        <a href="../guides/muzey-narodnogo-derevyannogo-zodchestva-vitoslavlitsy/">
                           <div class="object-tmb-pic"
                             style="background-image:url(images/5fd656cc751b38bc8c8b412ccaa5b153.jpg);">
                             <div class="object-tmb-info">
@@ -278,7 +278,7 @@
                               <a href="/cities/velikiy-novgorod/">大诺夫哥罗德 </a>
                             </li>
                           </ul>
-                          <a href="../guides/muzei/muzey-narodnogo-derevyannogo-zodchestva-vitoslavlitsy/">
+                          <a href="../guides/muzey-narodnogo-derevyannogo-zodchestva-vitoslavlitsy/">
                             <div class="h3"><span>《维托斯拉夫齐》
                                 民间木结构建筑博物馆
                               </span></div>
