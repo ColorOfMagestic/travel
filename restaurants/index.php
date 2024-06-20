@@ -580,4 +580,3 @@
         </div>
       </div>
     </div>
-    <?php require_once ('../template/footer-inner.php') ?>

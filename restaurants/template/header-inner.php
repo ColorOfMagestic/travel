@@ -4,7 +4,7 @@
     <div class="container">
       <div class="full-menu-logo">
         <a href="/">
-          <img style="width: 67px; height: auto" src="../images/logo_rus_desktop_new.svg">
+          <img style="width: 67px; height: auto" src="../images/logo_cn_desktop_new.svg">
         </a>
       </div>
       <div class="full-menu-content">
@@ -154,7 +154,7 @@
 
             <a href="/" class="travel-header-top-logo-block">
               <span class="travel-header-top-logo-title">诺夫哥罗德州旅游门户网站</span>
-              <img class="travel-header-top-logo-full" src="../images/logo_rus_desktop_new.svg" alt="novgorod.travel">
+              <img class="travel-header-top-logo-full" src="../images/logo_cn_desktop_new.svg" alt="novgorod.travel">
 
               <img class="travel-header-top-logo-short" src="../images/logo_mobile_new.svg" alt="novgorod.travel">
             </a>
