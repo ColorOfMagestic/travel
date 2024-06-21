@@ -22,4 +22,7 @@ switch ($name) {
   case 'areas':
     require_once ('header/areas.php');
     break;
+  case 'cities':
+    require_once ('header/cities.php');
+    break;
 }

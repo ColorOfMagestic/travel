@@ -20,5 +20,8 @@ switch ($name) {
   case 'areas':
     require_once ('title/areas.php');
     break;
+  case 'cities':
+    require_once ('title/cities.php');
+    break;
 
 }
