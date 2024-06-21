@@ -36,7 +36,7 @@
     type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "6b5e1ffd5d986bd1057cd9f05cdaa794"]); _ba.push(["host", "novgorod.travel"]); (function () { var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true; ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ba, s); })();</script>
 
 
-  <title>Официальный портал о туризме в Новгородской области и Великом Новгороде</title>
+  <title>诺夫哥罗德俄罗斯之旅</title>
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/bootstrap-select.min.css">
   <link rel="stylesheet" href="css/slick.css">
