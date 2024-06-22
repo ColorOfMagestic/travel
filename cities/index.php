@@ -10,7 +10,7 @@
             <div class="page-content">
               <div class="list-wrapper">
                 <div class="cities-list">
-                  <div class="tr"> <a class="city-tmb" href="..../cities/krasnyy-berezhok/"
+                  <div class="tr"> <a class="city-tmb" href="../cities/krasnyy-berezhok/"
                       style="background-image:url(images/6969ac4e90d2ca1b1b2159bad97e2981.jpg);"
                       id="bx_1454625752_2485">
                       <div class="city-tmb-inner">
@@ -629,7 +629,7 @@
                       </div>
                     </a>
                   </div>
-                  <div class="tr"> <a class="city-tmb" href="/cities/p-khvoynaya/"
+                  <div class="tr"> <a class="city-tmb" href="../cities/p-khvoynaya/"
                       style="background-image:url(images/d9f50cc71cdf1bca8930ec6d60b9313e.jpg);"
                       id="bx_3218110189_40">
                       <div class="city-tmb-inner">
