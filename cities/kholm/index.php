@@ -91,27 +91,20 @@
                       <div class="row">
                         <div class="col-xs-12">
                           <p>
-                            В�&nbsp;древности по�&nbsp;реке Ловать через территорию современного города проходил водный
-                            торговый путь «из�&nbsp;варяг в�&nbsp;греки». В�&nbsp;те�&nbsp;времена в�&nbsp;этом месте
-                            строили небольшие суда, торговали льном, телегами, прялками, посудой(деревянной
-                            и�&nbsp;глиняной).
+                          第一次提到在现代霍尔姆遗址上定居可以追溯到7世纪。当时，霍尔姆墓地就位于这里。
                           </p>
                           <p>
-                            В�&nbsp;<nobr>XVI–XVII</nobr> веках неоднократно подвергался нападениям литовцев, поляков,
-                            шведов. 3 августа 1777 года при рассмотрении вопроса о�&nbsp;переустройстве <nobr>
-                              административно-территориального</nobr> деления Новгородской губернии был издан Указ
-                            о�&nbsp;переименовании 霍尔姆ского посада в�&nbsp;город 霍尔姆 и�&nbsp;о�&nbsp;причислении его
-                            к�&nbsp;Псковской губернии. Так 霍尔姆 стал центром 霍尔姆ского уезда.
+                          到了6世纪，这个地方已经被称为霍尔姆城。8世纪，女皇叶卡捷琳娜二世授予当地城镇县城的地位。这霍尔姆成为霍尔姆区的中心。
                           </p>
                           <p>
-                            В�&nbsp;конце XIX века 霍尔姆 был известен кустарными промыслами, в�&nbsp;том числе
-                            изготовлением речных барок и�&nbsp;других лодок.
+                          19世纪初，亚历山大一世皇帝曾两次在这座城市停留。到19世纪末，这座山以其手工艺品而闻名。包括船只和平底木船的制造。
                           </p>
                           <p>
-                            Город очень сильно пострадал в�&nbsp;Великую Отечественную войну: в�&nbsp;1942 году
-                            он�&nbsp;был местом проведения <nobr>Торопецко-霍尔姆ской</nobr> операции, и�&nbsp;бо́льшая
-                            часть исторических зданий города была полностью разрушена.
+                          革命后，它是一个小镇。镇上有几家工厂。特别是皮革、砖和酿造。
                           </p>
+                          <p>卫国战争期间，这霍尔姆城市处于占领区。在托罗佩茨科-霍尔姆进攻行动中，它几乎被完全摧毁。</p>
+                          <p>这霍尔姆现在是一个小城。它是诺夫哥罗德州霍尔姆区的区域中心。</p>
+                          <p>其经济的基础是林业企业。采矿产正在进行中。</p>
                         </div>
                       </div>
                       <br>
@@ -121,198 +114,6 @@
               </div>
             </div>
           </div>
-
-          <input type="hidden" id="cityId" value="30">
-
-
-
-
-          <div class="city-section block-ext-parent">
-            <div class="grid-three-in-row block-ext-content">
-              <a class="guide-tmb" href="/guides/muzei/?TOWN=30"
-                style="background-image:url(images/3d086428f2f6d508469e64f0bfef55d8.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">7</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Музеи</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/khramy-i-monastyri/?TOWN=30"
-                style="background-image:url(images/ff783b0d8ccf2f03c4cf73397e6683ba.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">1</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Храмы и монастыри</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/priroda/?TOWN=30"
-                style="background-image:url(images/952aa577f0b8436d020018c5f300f0de.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">5</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Природа</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/voinskaya-slava/?TOWN=30"
-                style="background-image:url(images/95b8fdf0837fae883f3df65a3b293d8f.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">5</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Поклонный туризм</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/neobychnye-mesta/?TOWN=30"
-                style="background-image:url(images/a3f1dc60fd5b4848c25d23cb59bb1a95.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">4</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Необычные места</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/skulptury-i-byusty/?TOWN=30"
-                style="background-image:url(images/ce633d563d8cd431b32a7018a2393de9.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">3</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Скульптуры и бюсты</span></div>
-                </div>
-              </a>
-            </div>
-          </div>
-
-
-          <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Маршруты по 霍尔姆у</div>
-            <div class="block-ext-content">
-            </div>
-          </div>
-
-          <div class="city-section" data-ajax-loaded="4">
-            <div class="grid-three-in-row">
-              <div class="object-tmb route-tmb" style="width: 100%;">
-                <a href="/routes/dorogami-voinskoy-slavy/">
-                  <div class="object-tmb-pic" style="background-image: url();">
-                    <div class="object-tmb-info ">
-                      <div class="object-tmb-info-item">
-                        <div class="object-info-num">20�&nbsp;<span>р.</span></div>
-                        <div class="object-info-ttl">стоимость</div>
-                      </div>
-                    </div>
-                  </div>
-                </a>
-                <div class="object-tmb-descr">
-                  <div class="route-tmb-descr">
-                    <ul class="object-tmb-tags">
-                      <li>Воинская слава</li>
-                    </ul>
-                    <a href="/routes/dorogami-voinskoy-slavy/">
-                      <div class="h3"><span>«Дорогами воинской славы»</span></div>
-                    </a>
-                  </div>
-                  <div class="object-tmb-data">
-                    <div class="object-data-item">
-                      <div class="ico ico-object-time"></div>
-                      <div class="text">2 часа</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="object-tmb route-tmb" style="width: 100%;">
-                <a href="/routes/zdes-rodiny-moey-nachalo/">
-                  <div class="object-tmb-pic" style="background-image: url();">
-                    <div class="object-tmb-info ">
-                      <div class="object-tmb-info-item">
-                        <div class="object-info-num">30�&nbsp;<span>р.</span></div>
-                        <div class="object-info-ttl">стоимость</div>
-                      </div>
-                    </div>
-                  </div>
-                </a>
-                <div class="object-tmb-descr">
-                  <div class="route-tmb-descr">
-                    <ul class="object-tmb-tags">
-                      <li>Воинская слава</li>
-                    </ul>
-                    <a href="/routes/zdes-rodiny-moey-nachalo/">
-                      <div class="h3"><span>«Здесь родины моей начало»</span></div>
-                    </a>
-                  </div>
-                  <div class="object-tmb-data">
-                    <div class="object-data-item">
-                      <div class="ico ico-object-time"></div>
-                      <div class="text">1 день</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="object-tmb route-tmb" style="width: 100%;">
-                <a href="/routes/memorialnyy-kompleks-na-ploshchadi-pobedy-/">
-                  <div class="object-tmb-pic" style="background-image: url();">
-                  </div>
-                </a>
-                <div class="object-tmb-descr">
-                  <div class="route-tmb-descr">
-                    <ul class="object-tmb-tags">
-                      <li>Воинская слава</li>
-                    </ul>
-                    <a href="/routes/memorialnyy-kompleks-na-ploshchadi-pobedy-/">
-                      <div class="h3"><span>Мемориальный комплекс на площади Победы </span></div>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-
-          <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Куда сходить в 霍尔姆е</div>
-            <div class="block-ext-content">
-            </div>
-          </div>
-
-          <div class="city-section" data-ajax-loaded="6">
-            <div class="grid-three-in-row">
-              <a class="event-tmb" href="/events/mezhdunarodnyy-konkurs-pesni-serdtsem-prichastny-/"
-                style="width: 100%;">
-                <div class="event-tmb-inner clearfix">
-                  <div class="event-tmb-pic">
-                  </div>
-                  <div class="event-tmb-descr">
-                    <div class="event-tmb-date"><span>28 </span> июн — <span>30 </span> июн</div>
-                    <div class="h3"><span>Международный конкурс песни "Сердцем Причастны" </span></div>
-                    <div class="event-tmb-info">
-                      <div class="event-info-item">
-                        <div class="ico ico-event-location"></div>
-                        <div class="text">Новгородская область, г. 霍尔姆</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </a>
-            </div>
-          </div>
-
-
-
-
-
-
-
-
-
         </div>
       </div>
     </div>
