@@ -97,14 +97,7 @@
                         <div class="col-xs-12 col-sm-6">
                           <div class="intext-pic-descr">
                             <p>
-                              帕菲诺 район образован 13 декабря 1968 года. Несмотря на�&nbsp;свою молодость,
-                              он�&nbsp;имеет богатую историю. По�&nbsp;реке Ловать проходил древнейший путь
-                              «„из�&nbsp;варяг в�&nbsp;греки“». Благоприятное географическое положение, природные
-                              ресурсы издавна привлекали на�&nbsp;эти земли людей. Об�&nbsp;этом свидетельствуют
-                              многочисленные археологические памятники. Наибольший интерес представляют древнее городище
-                              у�&nbsp;д. Городок на�&nbsp;р. Маята с�&nbsp;культурным слоем 40�&nbsp;— 60�&nbsp;см,
-                              группа сопок у�&nbsp;д. �&nbsp;ябутки, состоящая из�&nbsp;12 насыпей различного размера
-                              и�&nbsp;диаметра.
+                            帕菲诺镇位于诺夫哥罗德州中部洛瓦特河畔。距其汇入伊尔门湖约30公里。
                             </p>
                           </div>
                         </div>
@@ -118,13 +111,7 @@
                         <div class="col-xs-12 col-sm-6 col-sm-pull-6">
                           <div class="intext-pic-descr">
                             <p>
-                              Деревни и�&nbsp;села Парфинского района имеют многовековую историю. Например, первое
-                              летописное упоминание о�&nbsp;селе Налючи относится к�&nbsp;1200 году. Это 村庄, как
-                              и�&nbsp;другие, расположенные на�&nbsp;реке Пола, известны по�&nbsp;так называемому
-                              Селигерскому пути из�&nbsp;Новгорода на�&nbsp;Волгу, в�&nbsp;«„низовые земли“». Здесь было
-                              расположено имение Екатерины Стройновской�&nbsp;— Зуровой, женщины, которая
-                              по�&nbsp;мнению многих пушкинистов являлась прототипом героини пушкинской поэмы «„Домик
-                              в�&nbsp;Коломне“» и, возможно, Татьяны Лариной из�&nbsp;«„Евгения Онегина“».
+                            帕菲诺镇第一次被提及是在15世纪晚期，是诺夫哥罗德土地舍隆州的一个小村庄。直到20世纪初，这个村庄与周围的定居点没有什么不同。1910年，圣彼得堡商人列别杰夫在洛瓦蒂右岸热雷斯洛村的土地上开始建造胶合板厂。渐渐地，工厂附近的一个新村庄正在发展。它因附近的火车站而得名帕菲诺。
                             </p>
                           </div>
                         </div>
@@ -138,16 +125,7 @@
                         <div class="col-xs-12 col-sm-6">
                           <div class="intext-pic-descr">
                             <p>
-                              Во�&nbsp;время войны усадьба Зуровых была разрушена и�&nbsp;только пруды, выполненные
-                              в�&nbsp;форме вензеля «„Е“» напоминают о�&nbsp;былом величии и�&nbsp;великолепии.
-                              Сенопрессовальное производство в�&nbsp;деревне Хмелево имел Карл Федорович Сименс.
-                              На�&nbsp;территории района в�&nbsp;д. Хмелево сохранились остатки барской усадьбы�&nbsp;—
-                              графские конюшни XIX века, фрагменты «красной» дороги, выложенной из�&nbsp;красного
-                              кирпича. В�&nbsp;1861 году Сименс открыл завод в�&nbsp;деревне Городок
-                              по�&nbsp;производству электрических изоляторов. 镇 Городок пересекается удивительно
-                              прямой, с�&nbsp;ровными берегами�&nbsp;— рекой Черёнкой, соединяющей судоходную реку
-                              Ловать со�&nbsp;старыми заводскими карьерами Сименса, где якобы добывали глину,
-                              а�&nbsp;теперь ловят огромных карасей, и�&nbsp;территорией бывшего завода.
+                            自1927年以来，帕菲诺一直是列宁格勒州旧鲁萨区的一部分。1938年，它获得了工人村的地位。
                             </p>
                           </div>
                         </div>
@@ -161,15 +139,7 @@
                         <div class="col-xs-12 col-sm-6 col-sm-pull-6">
                           <div class="intext-pic-descr">
                             <p>
-                              По�&nbsp;рассказам старожилов�&nbsp;— это рукотворный канал, по�&nbsp;которому баржи
-                              Сименса регулярно ходили через <nobr>Ильмень-озеро</nobr> и�&nbsp;Волхов, между заводом
-                              в�&nbsp;Городке и�&nbsp;<nobr>Санкт-Петербургом</nobr>, а�&nbsp;при необходимости шли
-                              и�&nbsp;далее в�&nbsp;Германию. Декларировалось, что оттуда доставлялось заводское
-                              оборудование, обратно отправлялись ящики с�&nbsp;заводской продукцией. 镇 Городок
-                              расположена в�&nbsp;географическом месте, подобных которому наберётся не�&nbsp;более
-                              десятка на�&nbsp;всей планете. В�&nbsp;километре от�&nbsp;неё три реки: Ловать, Пола
-                              и�&nbsp;Верготь образуют своими руслами водный крест на�&nbsp;ключевом выходе из�&nbsp;
-                              <nobr>Ильмень-озера</nobr>.
+                            卫国战争期间，帕菲诺发现自己处于德国占领区。1942年初，红军在进攻中解放了该村。在很长一段时间里，他成为了前线。1944年，帕菲诺被纳入新成立的诺夫哥罗德州。
                             </p>
                           </div>
                         </div>
@@ -183,12 +153,7 @@
                         <div class="col-xs-12 col-sm-6">
                           <div class="intext-pic-descr">
                             <p>
-                              Начиная с�&nbsp;<nobr>4-го</nobr> века, что подтверждают и�&nbsp;летописные документы, это
-                              место было перекрестком двух мощных международных торговых путей�&nbsp;— «Из�&nbsp;варяг
-                              в�&nbsp;греки» и�&nbsp;«Волжского серебряного», которые функционировали вплоть до�&nbsp;11
-                              века. Благоприятная экологическая обстановка, отсутствие вблизи вредных производств
-                              создают возможности для развития разных видов туризма (фермерского, этнографического,
-                              охота, рыбалка <nobr>и т. д.</nobr>).
+                            1968年，帕菲诺区从旧鲁萨区分离出来。它的中心是村庄。目前，该村的主要企业仍然是前胶合板厂。现在已经成长为一家大型胶合板厂。
                             </p>
                           </div>
                         </div>
@@ -202,13 +167,7 @@
                         <div class="col-xs-12 col-sm-6 col-sm-pull-6">
                           <div class="intext-pic-descr">
                             <p>
-                              Муниципальный район обладает богатым культурным наследием, которое включает в�&nbsp;себя
-                              памятники археологии, архитектуры. Всего в�&nbsp;районе 36 археологических памятников,
-                              занесенных в�&nbsp;государственный список и�&nbsp;находящихся под охраной как памятники
-                              местного значения. 地区 богат чистейшими подземными водными источниками.
-                              Сохранились остатки барских усадеб. У�&nbsp;района богатая военная история, на�&nbsp;его
-                              территории расположены 39 воинских захоронения, памятные знаки Героям Советского Союза,
-                              обелиски и�&nbsp;памятники…»
+                            景点包括苏联油轮纪念碑和两座教堂。圣塞拉芬·萨罗夫斯基教堂建于20世纪末，采用17世纪的传统风格。西奥多圣母圣像教堂建于21世纪初。
                             </p>
                           </div>
                         </div>
@@ -216,245 +175,6 @@
                       <br>
                     </div>
                   </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <input type="hidden" id="cityId" value="38">
-
-
-
-
-          <div class="city-section block-ext-parent">
-            <div class="grid-three-in-row block-ext-content">
-              <a class="guide-tmb" href="/guides/muzei/?TOWN=38"
-                style="background-image:url(images/3d086428f2f6d508469e64f0bfef55d8.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">3</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Музеи</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/khramy-i-monastyri/?TOWN=38"
-                style="background-image:url(images/ff783b0d8ccf2f03c4cf73397e6683ba.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">7</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Храмы и монастыри</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/priroda/?TOWN=38"
-                style="background-image:url(images/952aa577f0b8436d020018c5f300f0de.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">1</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Природа</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/voinskaya-slava/?TOWN=38"
-                style="background-image:url(images/95b8fdf0837fae883f3df65a3b293d8f.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">11</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Поклонный туризм</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/kultura/?TOWN=38"
-                style="background-image:url(images/04aa1de3cc41f94e3a35b197775156d9.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">3</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Культура</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/neobychnye-mesta/?TOWN=38"
-                style="background-image:url(images/a3f1dc60fd5b4848c25d23cb59bb1a95.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">4</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Необычные места</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/okhota-i-rybalka/?TOWN=38"
-                style="background-image:url(images/f8e1c1c8acb67c71173a62460c2aaaa6.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">5</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Охота и рыбалка</span></div>
-                </div>
-              </a>
-            </div>
-          </div>
-
-
-          <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Маршруты по 帕菲诺</div>
-            <div class="block-ext-content">
-            </div>
-          </div>
-
-          <div class="city-section" data-ajax-loaded="4">
-            <div class="grid-three-in-row">
-              <div class="object-tmb route-tmb" style="width: 100%;">
-                <a href="/routes/tam-gde-larinka-struitsya-/">
-                  <div class="object-tmb-pic"
-                    style="background-image: url(images/0b669889f43673a4c13f3debd2a2f708.jpg);">
-                    <div class="object-tmb-info ">
-                      <div class="object-tmb-info-item">
-                        <div class="object-info-num"> 200 рублей�&nbsp;<span>р.</span></div>
-                        <div class="object-info-ttl">стоимость</div>
-                      </div>
-                    </div>
-                  </div>
-                </a>
-                <div class="object-tmb-descr">
-                  <div class="route-tmb-descr">
-                    <ul class="object-tmb-tags">
-                      <li>Культура</li>
-                    </ul>
-                    <a href="/routes/tam-gde-larinka-struitsya-/">
-                      <div class="h3"><span>«Там, где Ларинка струится…» </span></div>
-                    </a>
-                  </div>
-                  <div class="object-tmb-data">
-                    <div class="object-data-item">
-                      <div class="ico ico-object-time"></div>
-                      <div class="text">3 часа 30 минут</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="object-tmb route-tmb" style="width: 100%;">
-                <a href="/routes/zhemchuzhina-provintsii-derevnya-gorodok-/">
-                  <div class="object-tmb-pic"
-                    style="background-image: url(images/abb5de8476c9208c4fb5b4d497eafaf5.jpg);">
-                    <div class="object-tmb-info ">
-                      <div class="object-tmb-info-item">
-                        <div class="object-info-num">10�&nbsp;<span>р.</span></div>
-                        <div class="object-info-ttl">стоимость</div>
-                      </div>
-                    </div>
-                  </div>
-                </a>
-                <div class="object-tmb-descr">
-                  <div class="route-tmb-descr">
-                    <ul class="object-tmb-tags">
-                      <li>Культура</li>
-                    </ul>
-                    <a href="/routes/zhemchuzhina-provintsii-derevnya-gorodok-/">
-                      <div class="h3"><span>«Жемчужина провинции - 镇 Городок» </span></div>
-                    </a>
-                  </div>
-                  <div class="object-tmb-data">
-                    <div class="object-data-item">
-                      <div class="ico ico-object-time"></div>
-                      <div class="text">2 часа 30 минут </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="object-tmb route-tmb" style="width: 100%;">
-                <a href="/routes/-u-istokov-reki-volkhov/">
-                  <div class="object-tmb-pic"
-                    style="background-image: url(images/6cd76cdd9bc225de4e35e30eae185526.jpg);">
-                    <div class="object-tmb-info ">
-                      <div class="object-tmb-info-item">
-                        <div class="object-info-num">50 до 170�&nbsp;<span>р.</span></div>
-                        <div class="object-info-ttl">стоимость</div>
-                      </div>
-                    </div>
-                  </div>
-                </a>
-                <div class="object-tmb-descr">
-                  <div class="route-tmb-descr">
-                    <ul class="object-tmb-tags">
-                      <li>Детский отдых</li>
-                    </ul>
-                    <a href="/routes/-u-istokov-reki-volkhov/">
-                      <div class="h3"><span> «У истоков реки Волхов»</span></div>
-                    </a>
-                  </div>
-                  <div class="object-tmb-data">
-                    <div class="object-data-item">
-                      <div class="ico ico-object-time"></div>
-                      <div class="text">1 день</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-
-          <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Куда сходить в 帕菲诺</div>
-            <div class="block-ext-content">
-            </div>
-          </div>
-
-          <div class="city-section" data-ajax-loaded="6">
-            <div class="grid-three-in-row">
-              <a class="event-tmb" href="/events/festival-narodnogo-tvorchestva-senoval/" style="width: 100%;">
-                <div class="event-tmb-inner clearfix">
-                  <div class="event-tmb-pic">
-                  </div>
-                  <div class="event-tmb-descr">
-                    <div class="event-tmb-date"><span>29 </span> июн</div>
-                    <div class="h3"><span>Фестиваль народного творчества «Сеновал»</span></div>
-                    <div class="event-tmb-info">
-                      <div class="event-info-item">
-                        <div class="ico ico-event-location"></div>
-                        <div class="text">帕菲诺 район, 帕菲诺, берег реки Ловать</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </a>
-            </div>
-          </div>
-
-
-
-
-
-
-
-          <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Что привезти из 帕菲诺</div>
-            <div class="block-ext-content">
-            </div>
-          </div>
-
-          <div class="city-section" data-ajax-loaded="65">
-            <div class="grid-three-in-row">
-              <div class="object-tmb" style="width: 100%">
-                <a href="/bring/polavskie-kovry/">
-                  <div class="object-tmb-pic"
-                    style="background-image: url(images/f5ec81082f5560595bd96e097f896793.png);">
-                  </div>
-                </a>
-                <div class="object-tmb-descr" style="min-height: 453px;">
-                  <a href="/bring/polavskie-kovry/">
-                    <div class="h3">Полавские ковры</div>
-                    <p>Ковры, сотканные в поселке Пола Парфинского района в ручную получали самые высокие оценки на
-                      фестивале в Каннах!
-                    </p>
-                  </a>
                 </div>
               </div>
             </div>
