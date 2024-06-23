@@ -1,0 +1,31 @@
+.review-message {
+  font-size: 14px;
+  line-height: 19px;
+  margin-bottom: 20px;
+}
+
+.review-message.error {
+  color: red;
+}
+
+.review-message.success {
+  color: green;
+}
+
+.review-block {
+  margin-bottom: 20px;
+  border-bottom: 2px solid #124285;
+  padding-bottom: 20px;
+}
+
+.review-block .review-smalltext {
+  font-size: 12px;
+  line-height: 15px;
+  color: #8B919E;
+}
+
+.review-block .rateit {
+  padding-left: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */
