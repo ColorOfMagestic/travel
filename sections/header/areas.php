@@ -8,7 +8,7 @@
 				<meta itemprop="position" content="1">
 			</li>
 			<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-				Районы
+				地区
 				<meta itemprop="position" content="2">
 			</li></ul>		<div class="row">
 	  <div class="col-xs-12 col-sm-8 col-md-7 col-lg-6">

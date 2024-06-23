@@ -68,7 +68,7 @@
                         </p>
                       </div>
                       <br>
-                      <div class="all-link-wrapper"><a class="all-link" href="/cities/">所有城市和定居点</a></div>
+                      <div class="all-link-wrapper"><a class="all-link" href="cities/">所有城市和定居点</a></div>
                     </div>
                   </div>
                   <div class="col-xs-12 col-sm-8">
@@ -76,7 +76,7 @@
                       <!--	-->
                       <div class="home-cities-list-wrapper">
                         <div class="cities-list home-cities-list">
-                          <div class="tr"> <a class="city-tmb" href="/cities/p-demyansk/"
+                          <div class="tr"> <a class="city-tmb" href="cities/p-demyansk/"
                               style="background-image:url(images/6fcb76e65c6b3d9bfcb8a11d0b057da1.jpg);">
                               <div class="city-tmb-inner">
                                 <div class="h3"><span>杰缅斯克</span></div>
@@ -96,7 +96,7 @@
                                 </div>
                               </div>
                             </a>
-                            <a class="city-tmb" href="/cities/p-volot/"
+                            <a class="city-tmb" href="cities/p-volot/"
                               style="background-image:url(images/58f8562a86f71f4d1defa4eb12ba4e56.jpg);">
                               <div class="city-tmb-inner">
                                 <div class="h3"><span>沃洛特</span></div>
@@ -117,7 +117,7 @@
                               </div>
                             </a>
                           </div>
-                          <div class="tr"> <a class="city-tmb" href="/cities/okulovka/"
+                          <div class="tr"> <a class="city-tmb" href="cities/okulovka/"
                               style="background-image:url(images/6061b68800611ad63ca9c1e37cf71f6f.jpg);">
                               <div class="city-tmb-inner">
                                 <div class="h3"><span>奥库洛夫卡</span></div>
@@ -137,7 +137,7 @@
                                 </div>
                               </div>
                             </a>
-                            <a class="city-tmb" href="/cities/chudovo/"
+                            <a class="city-tmb" href="cities/chudovo/"
                               style="background-image:url(images/3a8b84a1d226903998a2fb312f4650fd.jpg);">
                               <div class="city-tmb-inner">
                                 <div class="h3"><span>丘多沃</span></div>
@@ -158,7 +158,7 @@
                               </div>
                             </a>
                           </div>
-                          <div class="tr"> <a class="city-tmb" href="/cities/staraya-russa/"
+                          <div class="tr"> <a class="city-tmb" href="cities/staraya-russa/"
                               style="background-image:url(images/0cf0f4a3c96d0e32f1be13caa3fe4cf1.jpg);">
                               <div class="city-tmb-inner">
                                 <div class="h3"><span>旧鲁萨</span></div>
@@ -178,7 +178,7 @@
                                 </div>
                               </div>
                             </a>
-                            <a class="city-tmb" href="/cities/velikiy-novgorod/"
+                            <a class="city-tmb" href="cities/velikiy-novgorod/"
                               style="background-image:url(images/9fff07851708157d2bfc2464090f5be5.jpg);">
                               <div class="city-tmb-inner">
                                 <div class="h3"><span>大诺夫哥罗德</span></div>
@@ -203,7 +203,7 @@
                       </div>
                       <div class="mob-all-link-home visible-xs">
 
-                        <div class="all-link-wrapper"><a class="all-link" href="/cities/">所有城市和定居点</a></div>
+                        <div class="all-link-wrapper"><a class="all-link" href="cities/">所有城市和定居点</a></div>
                       </div>
 
 

@@ -12,7 +12,7 @@
               <div class="col-xs-12 col-sm-4 pull-right">
                 <div class="sidebar-object-info">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -67,16 +67,16 @@
                     <table class="object-info-table">
                       <tbody>
                         <tr>
-                          <td class="name">�&nbsp;айон:</td>
-                          <td class="val">Любытинский</td>
+                          <td class="name">地区:</td>
+                          <td class="val">柳比蒂诺</td>
                         </tr>
                         <tr>
-                          <td class="name">Население:</td>
-                          <td class="val">8 чел </td>
+                          <td class="name">人口:</td>
+                          <td class="val">8 人 </td>
                         </tr>
                         <tr>
-                          <td class="name">Тип::</td>
-                          <td class="val">Деревня</td>
+                          <td class="name">类型::</td>
+                          <td class="val">镇</td>
                         </tr>
                       </tbody>
                     </table>
@@ -86,10 +86,10 @@
               <div class="col-xs-12 col-sm-8">
                 <div class="page-content">
                   <div class="block-ext-parent">
-                    <div class="h2" style="margin-top: 0;">О населенном пункте</div>
+                    <div class="h2" style="margin-top: 0;">关于地方</div>
                     <div class="block-ext-content">
                       <p>
-                        Деревня Галица расположена в Любытинском районе на севере Новгородской области, на левом берегу
+                        镇 Галица расположена в Любытинском районе на севере Новгородской области, на левом берегу
                         реки Прикша. Поселение именно ею и славится. У одного берега есть завораживающие водопады.
                         Спуститься к ним можно по деревянной лестнице. Там есть большая зона для пикника, оснащенная
                         большим мангалом, лавочками, столами. На другом берегу рядом с водопадами в реку стекают

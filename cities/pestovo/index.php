@@ -12,7 +12,7 @@
               <div class="col-xs-12 col-sm-4 pull-right">
                 <div class="sidebar-object-info">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -67,16 +67,16 @@
                     <table class="object-info-table">
                       <tbody>
                         <tr>
-                          <td class="name">�&nbsp;айон:</td>
-                          <td class="val">Пестовский</td>
+                          <td class="name">地区:</td>
+                          <td class="val">佩斯托沃周围</td>
                         </tr>
                         <tr>
-                          <td class="name">Население:</td>
-                          <td class="val">15 461 чел </td>
+                          <td class="name">人口:</td>
+                          <td class="val">15 461 人 </td>
                         </tr>
                         <tr>
-                          <td class="name">Тип::</td>
-                          <td class="val">Город</td>
+                          <td class="name">类型::</td>
+                          <td class="val">城市</td>
                         </tr>
                       </tbody>
                     </table>
@@ -86,22 +86,22 @@
               <div class="col-xs-12 col-sm-8">
                 <div class="page-content">
                   <div class="block-ext-parent">
-                    <div class="h2" style="margin-top: 0;">О населенном пункте</div>
+                    <div class="h2" style="margin-top: 0;">关于地方</div>
                     <div class="block-ext-content">
                       <div class="row">
                         <div class="col-xs-12">
                           <p>
-                            Город Пестово один из�&nbsp;самых молодых в�&nbsp;Новгородской области, хотя история
+                            Город 佩斯托沃 один из�&nbsp;самых молодых в�&nbsp;Новгородской области, хотя история
                             возникших здесь поселений корнями уходит в�&nbsp;далекое прошлое. Он�&nbsp;является
                             административным центром Пестовского муниципального округа Новгородской области. Город
-                            раскинулся на�&nbsp;реке Молога на�&nbsp;восточных отрогах Валдайской возвышенности.
+                            раскинулся на�&nbsp;реке Молога на�&nbsp;восточных отрогах 瓦尔代ской возвышенности.
                             Находится на�&nbsp;расстоянии 320�&nbsp;км от�&nbsp;областного центра, г.�&nbsp;Великого
                             Новгорода.
                           </p>
                           <p>
-                            Первый поезд прошёл через станцию Пестово в�&nbsp;1919 году. Станция получила своё название
-                            от�&nbsp;села �&nbsp;усское Пестово, расположенного в�&nbsp;двух верстах от�&nbsp;неё.
-                            Вблизи станции находилась деревня русское Пестово�&nbsp;— старое поселение
+                            Первый поезд прошёл через станцию 佩斯托沃 в�&nbsp;1919 году. Станция получила своё название
+                            от�&nbsp;села �&nbsp;усское 佩斯托沃, расположенного в�&nbsp;двух верстах от�&nbsp;неё.
+                            Вблизи станции находилась 镇 русское 佩斯托沃�&nbsp;— старое поселение
                             с�&nbsp;многовековой историей. Отбросив первое слово, вторым назвали новую железнодорожную
                             станцию. О�&nbsp;самом происхождении названия имеется две версии. Более века назад
                             в�&nbsp;здешних нетронутых местах водилось много <nobr>медведей-пестунов</nobr>. Отсюда, как
@@ -117,18 +117,18 @@
                             �&nbsp;ыбинского водохранилища. Устюженская верфь поставляла грузовой транспорт.
                           </p>
                           <p>
-                            В�&nbsp;суровые годы Великой Отечественной войны Пестово и�&nbsp;его округ стали
-                            прифронтовыми. Летом 1941 года из�&nbsp;Ленинграда в�&nbsp;Пестово пришли эшелоны
+                            В�&nbsp;суровые годы Великой Отечественной войны 佩斯托沃 и�&nbsp;его округ стали
+                            прифронтовыми. Летом 1941 года из�&nbsp;Ленинграда в�&nbsp;佩斯托沃 пришли эшелоны
                             с�&nbsp;оборудованием швейных предприятий. Вместе с�&nbsp;ними прибыли те, кто не�&nbsp;мог
                             с�&nbsp;оружием в�&nbsp;руках громить врага. А�&nbsp;в�&nbsp;марте следующего года швейная
                             фабрика имени 8�&nbsp;марта выпустила первую продукцию для нужд армии.
                           </p>
                           <p>
-                            12 января 1965 года Указом Президиума Верховного Совета �&nbsp;СФС�&nbsp; посёлок Пестово
+                            12 января 1965 года Указом Президиума Верховного Совета �&nbsp;СФС�&nbsp; посёлок 佩斯托沃
                             стал городом районного подчинения.
                           </p>
                           <p>
-                            В�&nbsp;настоящее время (с�&nbsp;22 декабря 2004 года) город Пестово является
+                            В�&nbsp;настоящее время (с�&nbsp;22 декабря 2004 года) город 佩斯托沃 является
                             административным центром Пестовского городского поселения.
                           </p>
                         </div>
@@ -173,7 +173,7 @@
 
 
           <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Маршруты по Пестово</div>
+            <div class="h2" style="margin-top: 0;">Маршруты по 佩斯托沃</div>
             <div class="block-ext-content">
             </div>
           </div>
@@ -254,7 +254,7 @@
                       <li>Необычные места</li>
                     </ul>
                     <a href="/routes/ekskursiya-po-gorodu-pestovo-s-poseshcheniem-turisticheskikh-obektov/">
-                      <div class="h3"><span>Экскурсия по городу Пестово с посещением туристических объектов</span></div>
+                      <div class="h3"><span>Экскурсия по городу 佩斯托沃 с посещением туристических объектов</span></div>
                     </a>
                   </div>
                   <div class="object-tmb-data">
@@ -276,7 +276,7 @@
 
 
           <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Где остановиться в Пестово</div>
+            <div class="h2" style="margin-top: 0;">Где остановиться в 佩斯托沃</div>
             <div class="block-ext-content">
             </div>
           </div>
@@ -292,7 +292,7 @@
                 <div class="object-tmb-descr">
                   <div class="hotel-tmb-descr">
                     <ul class="object-tmb-tags">
-                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">Пестово</a></li>
+                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">佩斯托沃</a></li>
                     </ul>
                     <a href="/hotels/otel-vokrug-sveta/">
                       <div class="h3"><span>Отель «Вокруг света»</span></div>
@@ -317,7 +317,7 @@
                 <div class="object-tmb-descr">
                   <div class="hotel-tmb-descr">
                     <ul class="object-tmb-tags">
-                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">Пестово</a></li>
+                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">佩斯托沃</a></li>
                     </ul>
                     <a href="/hotels/baza-otdykha-rublevo-teterino/">
                       <div class="h3"><span>База отдыха «�&nbsp;ублево-Тетерино»</span></div>

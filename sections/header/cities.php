@@ -3,13 +3,13 @@
               <ul class="breadcrumb" itemprop="http://schema.org/breadcrumb" itemscope=""
                 itemtype="http://schema.org/BreadcrumbList">
                 <li id="bx_breadcrumb_0" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                  <a href="/" title="Главная" itemprop="url">
-                    Главная
+                  <a href="/" title="主页" itemprop="url">
+                    主页
                   </a>
                   <meta itemprop="position" content="1">
                 </li>
                 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                  Города и населенные пункты
+                  城市和定居点
                   <meta itemprop="position" content="2">
                 </li>
               </ul>
@@ -24,7 +24,7 @@
                         <div class="page-header-obj-4"></div>
                         <div class="page-header-top-valign">
                           <div class="page-header-top-valign-cont">
-                            <h1>Города<br>и�&nbsp;населенные пункты</h1>
+                            <h1> 城市和定居点</h1>
                             <div class="page-header-lead">
                               <p>Знакомство с первозданной природой <br>и историческим прошлым малых городов и поселков
                                 Новгородской области</p>

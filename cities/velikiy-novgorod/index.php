@@ -12,7 +12,7 @@
               <div class="col-xs-12 col-sm-4 pull-right">
                 <div class="sidebar-object-info">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -67,16 +67,16 @@
                     <table class="object-info-table">
                       <tbody>
                         <tr>
-                          <td class="name">�&nbsp;айон:</td>
-                          <td class="val">Великий Новгород</td>
+                          <td class="name">地区:</td>
+                          <td class="val">大诺夫哥罗德</td>
                         </tr>
                         <tr>
-                          <td class="name">Население:</td>
-                          <td class="val">222 868 чел </td>
+                          <td class="name">人口:</td>
+                          <td class="val">222 868 人 </td>
                         </tr>
                         <tr>
-                          <td class="name">Тип::</td>
-                          <td class="val">Город</td>
+                          <td class="name">类型::</td>
+                          <td class="val">城市</td>
                         </tr>
                       </tbody>
                     </table>
@@ -86,7 +86,7 @@
               <div class="col-xs-12 col-sm-8">
                 <div class="page-content">
                   <div class="block-ext-parent">
-                    <div class="h2" style="margin-top: 0;">О населенном пункте</div>
+                    <div class="h2" style="margin-top: 0;">关于地方</div>
                     <div class="block-ext-content">
                       <div class="row">
                         <div class="col-xs-12 col-sm-6">
@@ -138,7 +138,7 @@
                               В�&nbsp;X�&nbsp;в. город был перенесен на�&nbsp;новое место и�&nbsp;назван Новгородом.
                               Археологические следы жизни здесь датируются 930 годами. Город возник в�&nbsp;низменной
                               местности, которая после таяния ледников была дном моря. Толщина слоя глины, оседавшей
-                              тысячелетиями, местами достигает десяти и�&nbsp;более метров. На�&nbsp;поверхности этой
+                              тыся人етиями, местами достигает десяти и�&nbsp;более метров. На�&nbsp;поверхности этой
                               глины и�&nbsp;появились дворы первых переселенцев Новгорода. К�&nbsp;953 г. относится
                               регулярное мощение улиц и�&nbsp;стабилизация дворовых наделов.
                             </p>
@@ -251,7 +251,7 @@
                 В Великом Новгороде насчитывается 37 памятников ЮНЭСКО. Исторические памятники Великого Новгорода и
                 окрестностей включены в список всемирного культурного наследия ЮНЕСКО в декабре 1992 года, что
                 подтверждает их выдающуюся универсальную ценность, которая заслуживает сохранение на благо всего
-                человечества. Здесь точно есть что посмотреть.
+                人овечества. Здесь точно есть что посмотреть.
               </p>
               <p>
                 <b>Новгородский кремль (Детинец)</b> – крепость Великого Новгорода. Детинец расположен на левом берегу
@@ -267,8 +267,8 @@
               <p>
               </p>
               <p>
-                <b>Памятник Тысячелетия �&nbsp;оссии</b> - монумент, воздвигнутый в Великом Новгороде в 1862 году в
-                честь тысячелетнего юбилея легендарного призвания варягов на �&nbsp;усь. Авторами проекта памятника
+                <b>Памятник Тыся人етия �&nbsp;оссии</b> - монумент, воздвигнутый в Великом Новгороде в 1862 году в
+                честь тыся人етнего юбилея легендарного призвания варягов на �&nbsp;усь. Авторами проекта памятника
                 являются скульпторы Михаил Микешин, Иван Шредер и архитектор Виктор Гартман. Памятник находится в
                 новгородском детинце, напротив Софийского собора и бывшего здания Присутственных мест.
               </p>
@@ -513,7 +513,7 @@
           <div class="city-section block-ext-parent">
             <div class="h2" style="margin-top: 0;">Маршруты по Великому Новгороду</div>
             <div class="block-ext-content">
-              <b>Великий Новгород имеет множество маршрутов, которые удивят даже самого искушенного путешественника. Вам
+              <b>大诺夫哥罗德 имеет множество маршрутов, которые удивят даже самого искушенного путешественника. Вам
                 лишь нужно определиться со своим интересом и отправиться в путь.<br>
               </b><br>
               <a href="https://novgorod.travel/routes/vodnye-puti-velikogo-novgoroda/">Водные пути Великого
@@ -559,7 +559,7 @@
               </p>
               <p>
                 Всё, что вы хотели бы узнать о Великом Новгороде в первую очередь, ответы на самые популярные вопросы.
-                Классическая прогулка по Детинцу, которая познакомит вас с тысячелетней историей Великого Новгорода,
+                Классическая прогулка по Детинцу, которая познакомит вас с тыся人етней историей Великого Новгорода,
                 укладом жизни древних новгородцев, обычаями, традициями, легендами, сказаниями.
               </p>
               <p>
@@ -587,7 +587,7 @@
               <p>
                 Вы увидите - Кремлевский комплекс - древний Детинец; Софийский собор XI в. звонница Софийского собора
                 XVIв, древние колокола Великого Новгорода XVI – XVIIвв., Владычный двор, бронзовые Магдебургские врата
-                XII в. памятник «Тысячелетие �&nbsp;оссии». Выйдете на Боевой ход Новгородского Кремля. Затем сходите на
+                XII в. памятник «Тыся人етие �&nbsp;оссии». Выйдете на Боевой ход Новгородского Кремля. Затем сходите на
                 Ярославово Дворище и древний Торг – комплекс ценнейших памятников архитектуры XII-XVIII вв., и «Белая
                 аркада Гостиного двора».
               </p>
@@ -710,7 +710,7 @@
               </p>
               <p>
                 <b>Новгородский музей Заповедник</b> – основан в 1865 году. Он является одним из старейших музеев
-                �&nbsp;оссии. Основание Новгородского музея было связано с празднованием тысячелетия российской
+                �&nbsp;оссии. Основание Новгородского музея было связано с празднованием тыся人етия российской
                 государственности. <a href="https://novgorodmuseum.ru/">https://novgorodmuseum.ru/</a>
               </p>
               <p>
@@ -743,7 +743,7 @@
                     <div class="event-tmb-info">
                       <div class="event-info-item">
                         <div class="ico ico-event-location"></div>
-                        <div class="text">Великий Новгород, Юрьевское шоссе, 15</div>
+                        <div class="text">大诺夫哥罗德, Юрьевское шоссе, 15</div>
                       </div>
                     </div>
                   </div>
@@ -759,7 +759,7 @@
                     <div class="event-tmb-info">
                       <div class="event-info-item">
                         <div class="ico ico-event-location"></div>
-                        <div class="text">Великий Новгород, Победы-Софийская площадь, 2</div>
+                        <div class="text">大诺夫哥罗德, Победы-Софийская площадь, 2</div>
                       </div>
                     </div>
                   </div>
@@ -776,7 +776,7 @@
                     <div class="event-tmb-info">
                       <div class="event-info-item">
                         <div class="ico ico-event-location"></div>
-                        <div class="text">Великий Новгород, Кремлёвский парк</div>
+                        <div class="text">大诺夫哥罗德, Кремлёвский парк</div>
                       </div>
                     </div>
                   </div>
@@ -837,7 +837,7 @@
                 <div class="object-tmb-descr">
                   <div class="rest-tmb-descr">
                     <ul class="object-tmb-tags">
-                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">Великий Новгород</a></li>
+                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">大诺夫哥罗德</a></li>
                     </ul>
                     <a href="/restaurants/restoran-amaks-rossiya/">
                       <div class="h3"><span>�&nbsp;есторан АМАКС «�&nbsp;оссия»</span></div>
@@ -871,7 +871,7 @@
                 <div class="object-tmb-descr">
                   <div class="rest-tmb-descr">
                     <ul class="object-tmb-tags">
-                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">Великий Новгород</a></li>
+                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">大诺夫哥罗德</a></li>
                     </ul>
                     <a href="/restaurants/maykroft-pab/">
                       <div class="h3"><span>Майкрофт паб</span></div>
@@ -904,7 +904,7 @@
                 <div class="object-tmb-descr">
                   <div class="rest-tmb-descr">
                     <ul class="object-tmb-tags">
-                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">Великий Новгород</a></li>
+                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">大诺夫哥罗德</a></li>
                     </ul>
                     <a href="/restaurants/kokteyl-bar-vandam/">
                       <div class="h3"><span>Коктейль-бар «Вандам»</span></div>
@@ -996,7 +996,7 @@
                 <div class="object-tmb-descr">
                   <div class="hotel-tmb-descr">
                     <ul class="object-tmb-tags">
-                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">Великий Новгород</a></li>
+                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">大诺夫哥罗德</a></li>
                     </ul>
                     <a href="/hotels/inturist-apartamenty/">
                       <div class="h3"><span>Интурист Апартаменты</span></div>
@@ -1021,7 +1021,7 @@
                 <div class="object-tmb-descr">
                   <div class="hotel-tmb-descr">
                     <ul class="object-tmb-tags">
-                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">Великий Новгород</a></li>
+                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">大诺夫哥罗德</a></li>
                     </ul>
                     <a href="/hotels/inturist/">
                       <div class="h3"><span>Интурист гостиница</span></div>
@@ -1043,7 +1043,7 @@
                 <div class="object-tmb-descr">
                   <div class="hotel-tmb-descr">
                     <ul class="object-tmb-tags">
-                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">Великий Новгород</a></li>
+                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">大诺夫哥罗德</a></li>
                     </ul>
                     <a href="/hotels/rakhmaninov-otel/">
                       <div class="h3"><span>�&nbsp;ахманинов. Отель</span></div>

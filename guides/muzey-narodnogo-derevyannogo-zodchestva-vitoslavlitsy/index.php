@@ -13,7 +13,7 @@
                 <div class="page-sidebar page-sidebar-r">
                   <div class="sidebar-object-info sticky-sidebar">
                     <div class="visible-xs">
-                      <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                      <div class="btn-object-map"><span>在地图上查看</span></div>
                     </div>
                     <div class="sidebar-object-map">
                       <div class="close"></div>
@@ -83,7 +83,7 @@
                           </tr>
                           <tr>
                             <td class="name">地址:</td>
-                            <td class="val">Великий Новгород, Юрьевское шоссе, проезд авт. № 7, 7а от вокзала.
+                            <td class="val">大诺夫哥罗德, Юрьевское шоссе, проезд авт. № 7, 7а от вокзала.
                             </td>
                           </tr>
                           <tr>

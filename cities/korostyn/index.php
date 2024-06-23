@@ -12,7 +12,7 @@
               <div class="col-xs-12 col-sm-4 pull-right">
                 <div class="sidebar-object-info">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -67,16 +67,16 @@
                     <table class="object-info-table">
                       <tbody>
                         <tr>
-                          <td class="name">�&nbsp;айон:</td>
-                          <td class="val">Шимский</td>
+                          <td class="name">地区:</td>
+                          <td class="val">希姆斯克</td>
                         </tr>
                         <tr>
-                          <td class="name">Население:</td>
-                          <td class="val">403 чел </td>
+                          <td class="name">人口:</td>
+                          <td class="val">403 人 </td>
                         </tr>
                         <tr>
-                          <td class="name">Тип::</td>
-                          <td class="val">Деревня</td>
+                          <td class="name">类型::</td>
+                          <td class="val">镇</td>
                         </tr>
                       </tbody>
                     </table>
@@ -86,14 +86,14 @@
               <div class="col-xs-12 col-sm-8">
                 <div class="page-content">
                   <div class="block-ext-parent">
-                    <div class="h2" style="margin-top: 0;">О населенном пункте</div>
+                    <div class="h2" style="margin-top: 0;">关于地方</div>
                     <div class="block-ext-content">
                       <p style="color: #383838;">
                         «Ильмень-озеро» – услышав эти слова, воображение рисует героев русских былин и сказок, а
                         исторические факты подтверждают сказания далеких предков.
                       </p>
                       <p style="color: #383838;">
-                        На берегу этого водоема раскинулась деревня�&nbsp;Коростынь, известная своей исконно русской
+                        На берегу этого водоема раскинулась 镇�&nbsp;Коростынь, известная своей исконно русской
                         красотой и древними достопримечательностями.
                       </p>
                       <p style="color: #383838;">
@@ -107,9 +107,9 @@
                         сумевшего прекратить междоусобицу в �&nbsp;усском государстве.
                       </p>
                       <p style="color: #383838;">
-                        Сейчас деревня входит в Шимский район Новгородской области. В населенном пункте есть школа,
+                        Сейчас 镇 входит в 希姆斯克 район Новгородской области. В населенном пункте есть школа,
                         почта, магазин. А названия улиц отражают неспешный образ жизни: Вишневая, Озерная, Зеленая,
-                        Садовая... На одной из этих улиц и находится главная
+                        Садовая... На одной из этих улиц и находится 主页
                         достопримечательность:�&nbsp;<strong>Путевой дворец</strong>, построенный в 1825/27 г. по
                         проекту основоположника русского ампира, архитектора�&nbsp;Стасова.
                       </p>

@@ -12,7 +12,7 @@
               <div class="col-xs-12 col-sm-4 pull-right">
                 <div class="sidebar-object-info">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -67,16 +67,16 @@
                     <table class="object-info-table">
                       <tbody>
                         <tr>
-                          <td class="name">�&nbsp;айон:</td>
-                          <td class="val">Холмский</td>
+                          <td class="name">地区:</td>
+                          <td class="val">霍尔姆周围</td>
                         </tr>
                         <tr>
-                          <td class="name">Население:</td>
-                          <td class="val">3 445 чел </td>
+                          <td class="name">人口:</td>
+                          <td class="val">3 445 人 </td>
                         </tr>
                         <tr>
-                          <td class="name">Тип::</td>
-                          <td class="val">Город</td>
+                          <td class="name">类型::</td>
+                          <td class="val">城市</td>
                         </tr>
                       </tbody>
                     </table>
@@ -86,7 +86,7 @@
               <div class="col-xs-12 col-sm-8">
                 <div class="page-content">
                   <div class="block-ext-parent">
-                    <div class="h2" style="margin-top: 0;">О населенном пункте</div>
+                    <div class="h2" style="margin-top: 0;">关于地方</div>
                     <div class="block-ext-content">
                       <div class="row">
                         <div class="col-xs-12">
@@ -100,16 +100,16 @@
                             В�&nbsp;<nobr>XVI–XVII</nobr> веках неоднократно подвергался нападениям литовцев, поляков,
                             шведов. 3 августа 1777 года при рассмотрении вопроса о�&nbsp;переустройстве <nobr>
                               административно-территориального</nobr> деления Новгородской губернии был издан Указ
-                            о�&nbsp;переименовании Холмского посада в�&nbsp;город Холм и�&nbsp;о�&nbsp;причислении его
-                            к�&nbsp;Псковской губернии. Так Холм стал центром Холмского уезда.
+                            о�&nbsp;переименовании 霍尔姆ского посада в�&nbsp;город 霍尔姆 и�&nbsp;о�&nbsp;причислении его
+                            к�&nbsp;Псковской губернии. Так 霍尔姆 стал центром 霍尔姆ского уезда.
                           </p>
                           <p>
-                            В�&nbsp;конце XIX века Холм был известен кустарными промыслами, в�&nbsp;том числе
+                            В�&nbsp;конце XIX века 霍尔姆 был известен кустарными промыслами, в�&nbsp;том числе
                             изготовлением речных барок и�&nbsp;других лодок.
                           </p>
                           <p>
                             Город очень сильно пострадал в�&nbsp;Великую Отечественную войну: в�&nbsp;1942 году
-                            он�&nbsp;был местом проведения <nobr>Торопецко-Холмской</nobr> операции, и�&nbsp;бо́льшая
+                            он�&nbsp;был местом проведения <nobr>Торопецко-霍尔姆ской</nobr> операции, и�&nbsp;бо́льшая
                             часть исторических зданий города была полностью разрушена.
                           </p>
                         </div>
@@ -194,7 +194,7 @@
 
 
           <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Маршруты по Холму</div>
+            <div class="h2" style="margin-top: 0;">Маршруты по 霍尔姆у</div>
             <div class="block-ext-content">
             </div>
           </div>
@@ -278,7 +278,7 @@
 
 
           <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Куда сходить в Холме</div>
+            <div class="h2" style="margin-top: 0;">Куда сходить в 霍尔姆е</div>
             <div class="block-ext-content">
             </div>
           </div>
@@ -296,7 +296,7 @@
                     <div class="event-tmb-info">
                       <div class="event-info-item">
                         <div class="ico ico-event-location"></div>
-                        <div class="text">Новгородская область, г. Холм</div>
+                        <div class="text">Новгородская область, г. 霍尔姆</div>
                       </div>
                     </div>
                   </div>

@@ -12,7 +12,7 @@
               <div class="col-xs-12 col-sm-4 pull-right">
                 <div class="sidebar-object-info">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -67,16 +67,16 @@
                     <table class="object-info-table">
                       <tbody>
                         <tr>
-                          <td class="name">�&nbsp;айон:</td>
-                          <td class="val">Старорусский</td>
+                          <td class="name">地区:</td>
+                          <td class="val">旧鲁萨</td>
                         </tr>
                         <tr>
-                          <td class="name">Население:</td>
-                          <td class="val">29 019 чел </td>
+                          <td class="name">人口:</td>
+                          <td class="val">29 019 人 </td>
                         </tr>
                         <tr>
-                          <td class="name">Тип::</td>
-                          <td class="val">Город</td>
+                          <td class="name">类型::</td>
+                          <td class="val">城市</td>
                         </tr>
                       </tbody>
                     </table>
@@ -86,7 +86,7 @@
               <div class="col-xs-12 col-sm-8">
                 <div class="page-content">
                   <div class="block-ext-parent">
-                    <div class="h2" style="margin-top: 0;">О населенном пункте</div>
+                    <div class="h2" style="margin-top: 0;">关于地方</div>
                     <div class="block-ext-content">
                       <div class="row">
                         <div class="col-xs-12 col-sm-6">
@@ -223,7 +223,7 @@
                 конусообразной кровлей. Сейчас внутри башни открыт музей современный музей.
               </p>
               <p>
-                Подъем на смотровую площадку разрешен небольшими группами по 5-6 человек. На первом этаже расположен
+                Подъем на смотровую площадку разрешен небольшими группами по 5-6 人овек. На первом этаже расположен
                 туристско–информационный центр «Башня» с сувенирами и информацией о городе и достопримечательностях. На
                 втором и третьем этажах – экспозиции и выставки старорусских художников и мастеров. На четвертом –
                 смотровая площадка.
@@ -518,7 +518,7 @@
                       <li>Культура</li>
                     </ul>
                     <a href="/routes/gorod-s-1000-letney-istoriey/">
-                      <div class="h3"><span>Город с 1000-летней историей</span></div>
+                      <div class="h3"><span>城市 с 1000-летней историей</span></div>
                     </a>
                   </div>
                   <div class="object-tmb-data">
@@ -862,11 +862,11 @@
           <div class="city-section block-ext-parent">
             <div class="h2" style="margin-top: 0;">Что привезти из Старой �&nbsp;уссы</div>
             <div class="block-ext-content">
-              <h3>Старорусский пряник</h3>
+              <h3>旧鲁萨 пряник</h3>
               <p>
                 Приятный, а главное, вкусный сувенир из города, история которого насчитывает более 1000 лет.
               </p>
-              <h3>Старорусский мёд</h3>
+              <h3>旧鲁萨 мёд</h3>
               <p>
                 Мёд из Старой �&nbsp;уссы - одно из самых полезных лакомств, которое придётся по душе всем сладкоежкам.
               </p>

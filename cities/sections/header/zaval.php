@@ -3,14 +3,14 @@
             <ul class="breadcrumb" itemprop="http://schema.org/breadcrumb" itemscope=""
               itemtype="http://schema.org/BreadcrumbList">
               <li id="bx_breadcrumb_0" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                <a href="/" title="Главная" itemprop="url">
-                  Главная
+                <a href="/" title="主页" itemprop="url">
+                  主页
                 </a>
                 <meta itemprop="position" content="1">
               </li>
               <li id="bx_breadcrumb_1" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                <a href="/cities/" title="Города и населенные пункты" itemprop="url">
-                  Города и населенные пункты
+                <a href="../" title="城市和定居点" itemprop="url">
+                  城市和定居点
                 </a>
                 <meta itemprop="position" content="2">
               </li>
@@ -41,11 +41,11 @@
                     <div class="page-header-info">
                       <div class="page-header-info-item">
                         <div class="ico ico-population"></div>
-                        <div class="text">Население: <span>84 чел </span></div>
+                        <div class="text">人口: <span>84 人 </span></div>
                       </div>
                       <div class="page-header-info-item">
                         <div class="ico ico-type-city"></div>
-                        <div class="text">Тип:: <span>Деревня</span></div>
+                        <div class="text">类型:: <span>镇</span></div>
                       </div>
 
                     </div>

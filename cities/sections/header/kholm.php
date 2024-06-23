@@ -3,19 +3,19 @@
             <ul class="breadcrumb" itemprop="http://schema.org/breadcrumb" itemscope=""
               itemtype="http://schema.org/BreadcrumbList">
               <li id="bx_breadcrumb_0" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                <a href="/" title="Главная" itemprop="url">
-                  Главная
+                <a href="/" title="主页" itemprop="url">
+                  主页
                 </a>
                 <meta itemprop="position" content="1">
               </li>
               <li id="bx_breadcrumb_1" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                <a href="/cities/" title="Города и населенные пункты" itemprop="url">
-                  Города и населенные пункты
+                <a href="../" title="城市和定居点" itemprop="url">
+                  城市和定居点
                 </a>
                 <meta itemprop="position" content="2">
               </li>
               <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                Холм
+                霍尔姆
                 <meta itemprop="position" content="3">
               </li>
             </ul>
@@ -31,9 +31,9 @@
                       <div class="page-header-obj-4"></div>
                       <div class="page-header-top-valign">
                         <div class="page-header-top-valign-cont">
-                          <h1>Холм</h1>
+                          <h1>霍尔姆</h1>
                           <div class="page-header-lead">
-                            <p>Самый южный район Новгородской области. Граничит с Псковской и Тверской областями.</p>
+                            <p>诺夫哥罗德州最南端的地区。 它与普斯科夫和特维尔州接壤。</p>
                           </div>
                         </div>
                       </div>
@@ -41,11 +41,11 @@
                     <div class="page-header-info">
                       <div class="page-header-info-item">
                         <div class="ico ico-population"></div>
-                        <div class="text">Население: <span>3 445 чел </span></div>
+                        <div class="text">人口: <span>3 445 人 </span></div>
                       </div>
                       <div class="page-header-info-item">
                         <div class="ico ico-type-city"></div>
-                        <div class="text">Тип:: <span>Город</span></div>
+                        <div class="text">类型:: <span>城市</span></div>
                       </div>
 
                     </div>

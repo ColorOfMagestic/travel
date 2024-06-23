@@ -12,7 +12,7 @@
               <div class="col-xs-12 col-sm-4 pull-right">
                 <div class="sidebar-object-info">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -67,16 +67,16 @@
                     <table class="object-info-table">
                       <tbody>
                         <tr>
-                          <td class="name">�&nbsp;айон:</td>
+                          <td class="name">地区:</td>
                           <td class="val">Боровичский</td>
                         </tr>
                         <tr>
-                          <td class="name">Население:</td>
-                          <td class="val">29 чел </td>
+                          <td class="name">人口:</td>
+                          <td class="val">29 人 </td>
                         </tr>
                         <tr>
-                          <td class="name">Тип::</td>
-                          <td class="val">Деревня</td>
+                          <td class="name">类型::</td>
+                          <td class="val">镇</td>
                         </tr>
                       </tbody>
                     </table>
@@ -86,10 +86,10 @@
               <div class="col-xs-12 col-sm-8">
                 <div class="page-content">
                   <div class="block-ext-parent">
-                    <div class="h2" style="margin-top: 0;">О населенном пункте</div>
+                    <div class="h2" style="margin-top: 0;">关于地方</div>
                     <div class="block-ext-content">
                       <p>
-                        Деревня Сопины находится в Боровичской районе на восточном берегу Сопинского озера. В 16 веке у
+                        镇 Сопины находится в Боровичской районе на восточном берегу Сопинского озера. В 16 веке у
                         его берегов был Богородицкий погост и небольшой Никольский монастырь с одним храмом во имя
                         Святого Николая Чудотворца. И служебными постройками. В 18 веке Никольский монастырь был
                         упразднен. На его месте была построена часовня.

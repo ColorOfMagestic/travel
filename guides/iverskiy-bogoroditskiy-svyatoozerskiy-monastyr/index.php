@@ -13,7 +13,7 @@
                 <div class="page-sidebar page-sidebar-r">
                   <div class="sidebar-object-info sticky-sidebar">
                     <div class="visible-xs">
-                      <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                      <div class="btn-object-map"><span>在地图上查看</span></div>
                     </div>
                     <div class="sidebar-object-map">
                       <div class="close"></div>
@@ -80,7 +80,7 @@
                           </tr>
                           <tr>
                             <td class="name">地址:</td>
-                            <td class="val">Новгородский район, Валдай, Сельвицкий остров</td>
+                            <td class="val">Новгородский район, 瓦尔代, Сельвицкий остров</td>
                           </tr>
                           <tr>
                             <td class="name">GPS坐标:</td>

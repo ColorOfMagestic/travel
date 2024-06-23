@@ -12,7 +12,7 @@
               <div class="col-xs-12 col-sm-4 pull-right">
                 <div class="sidebar-object-info">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -67,16 +67,16 @@
                     <table class="object-info-table">
                       <tbody>
                         <tr>
-                          <td class="name">�&nbsp;айон:</td>
-                          <td class="val">Окуловский</td>
+                          <td class="name">地区:</td>
+                          <td class="val">奥库洛夫卡</td>
                         </tr>
                         <tr>
-                          <td class="name">Население:</td>
-                          <td class="val">10 470 чел </td>
+                          <td class="name">人口:</td>
+                          <td class="val">10 470 人 </td>
                         </tr>
                         <tr>
-                          <td class="name">Тип::</td>
-                          <td class="val">Город</td>
+                          <td class="name">类型::</td>
+                          <td class="val">城市</td>
                         </tr>
                       </tbody>
                     </table>
@@ -86,13 +86,13 @@
               <div class="col-xs-12 col-sm-8">
                 <div class="page-content">
                   <div class="block-ext-parent">
-                    <div class="h2" style="margin-top: 0;">О населенном пункте</div>
+                    <div class="h2" style="margin-top: 0;">关于地方</div>
                     <div class="block-ext-content">
                       <div class="row">
                         <div class="col-xs-12">
                           <p>
                             Впервые об�&nbsp;Окуловке упоминается в�&nbsp;Писцовой книге Деревской пятины Новгородской
-                            земли в�&nbsp;1495 году. С�&nbsp;1851 года�&nbsp;— Окуловка становится станцией Николаевской
+                            земли в�&nbsp;1495 году. С�&nbsp;1851 года�&nbsp;— 奥库洛夫卡 становится станцией Николаевской
                             железной дороги.<br>
                             В�&nbsp;середине XIX века в�&nbsp;д. Парахино на�&nbsp;своей земле в�&nbsp;четырех верстах
                             от�&nbsp;Окуловской станции промышленник <nobr>В. И. Пасбург</nobr> основал писчебумажную
@@ -102,7 +102,7 @@
                             Н. Бардашевичем.
                           </p>
                           <p>
-                            Пристанционный поселок Окуловка начал быстро расти. В�&nbsp;кратчайшие сроки был построен
+                            Пристанционный 镇 奥库洛夫卡 начал быстро расти. В�&nbsp;кратчайшие сроки был построен
                             небольшой кирпичный завод. В�&nbsp;поселке построили усадьбы и�&nbsp;дома восемь помещиков,
                             пять подрядчиков, двадцать купцов, пять священников, пятнадцать полицейских. Появился
                             купеческий клуб, железнодорожная четырехлетка и�&nbsp;<nobr>церковно-приходская</nobr>
@@ -117,7 +117,7 @@
                             Указом Президиума Верховного Совета �&nbsp;СФС�&nbsp; от�&nbsp;12 января 1965 года Окуловке
                             был присвоен статус города, он�&nbsp;был образован в�&nbsp;результате <nobr>
                               формально-административного</nobr> слияния поселков <nobr>Парахино-Поддубье</nobr>
-                            и�&nbsp;<nobr>Окуловка-1</nobr>.
+                            и�&nbsp;<nobr>奥库洛夫卡-1</nobr>.
                           </p>
                         </div>
                       </div>
@@ -285,7 +285,7 @@
                       <li>Культура</li>
                     </ul>
                     <a href="/routes/okulovka-iz-proshlogo-v-nastoyashchee/">
-                      <div class="h3"><span>«Окуловка: из прошлого в настоящее»</span></div>
+                      <div class="h3"><span>«奥库洛夫卡: из прошлого в настоящее»</span></div>
                     </a>
                   </div>
                   <div class="object-tmb-data">
@@ -350,7 +350,7 @@
                     <div class="event-tmb-info">
                       <div class="event-info-item">
                         <div class="ico ico-event-location"></div>
-                        <div class="text">Окуловский р-он, местечко Приволье, территория Кулотинского сельского
+                        <div class="text">奥库洛夫卡 р-он, местечко Приволье, территория Кулотинского сельского
                           поселения в приусадебном парке усадьбы Граве</div>
                       </div>
                     </div>
@@ -379,7 +379,7 @@
                 <div class="object-tmb-descr">
                   <div class="rest-tmb-descr">
                     <ul class="object-tmb-tags">
-                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">Окуловка</a></li>
+                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">奥库洛夫卡</a></li>
                     </ul>
                     <a href="/restaurants/restoran-relaks/">
                       <div class="h3"><span>�&nbsp;есторан «�&nbsp;елакс»</span></div>
@@ -406,7 +406,7 @@
                 <div class="object-tmb-descr">
                   <div class="rest-tmb-descr">
                     <ul class="object-tmb-tags">
-                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">Окуловка</a></li>
+                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">奥库洛夫卡</a></li>
                     </ul>
                     <a href="/restaurants/bistro-relaks/">
                       <div class="h3"><span>Бистро «�&nbsp;елакс»</span></div>
@@ -433,7 +433,7 @@
                 <div class="object-tmb-descr">
                   <div class="rest-tmb-descr">
                     <ul class="object-tmb-tags">
-                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">Окуловка</a></li>
+                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">奥库洛夫卡</a></li>
                     </ul>
                     <a href="/restaurants/kafe-karavan/">
                       <div class="h3"><span>Кафе «Караван»</span></div>
@@ -471,10 +471,10 @@
                 <div class="object-tmb-descr">
                   <div class="hotel-tmb-descr">
                     <ul class="object-tmb-tags">
-                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">Окуловка</a></li>
+                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">奥库洛夫卡</a></li>
                     </ul>
                     <a href="/hotels/gostevoy-dom-okulovka-lyuks/">
-                      <div class="h3"><span>Гостевой дом «Окуловка Люкс»</span></div>
+                      <div class="h3"><span>Гостевой дом «奥库洛夫卡 Люкс»</span></div>
                     </a>
                   </div>
                   <div class="object-tmb-data">
@@ -493,7 +493,7 @@
                 <div class="object-tmb-descr">
                   <div class="hotel-tmb-descr">
                     <ul class="object-tmb-tags">
-                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">Окуловка</a></li>
+                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">奥库洛夫卡</a></li>
                     </ul>
                     <a href="/hotels/gostinitsa-relaks/">
                       <div class="h3"><span>Гостиница «�&nbsp;елакс»</span></div>
@@ -515,7 +515,7 @@
                 <div class="object-tmb-descr">
                   <div class="hotel-tmb-descr">
                     <ul class="object-tmb-tags">
-                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">Окуловка</a></li>
+                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">奥库洛夫卡</a></li>
                     </ul>
                     <a href="/hotels/gostinitsa-ip-aliev-chingiz-aydyn-ogly/">
                       <div class="h3"><span>Гостиница ИП Алиев Чингиз Айдын-Оглы</span></div>

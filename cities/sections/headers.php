@@ -65,6 +65,7 @@ switch ($name) {
     break;
   case 'p-lyubytino':
     require_once ('header/p-lyubytino.php');
+    break;
   case 'p-parfino':
     require_once ('header/p-parfino.php');
     break;

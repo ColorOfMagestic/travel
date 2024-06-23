@@ -12,7 +12,7 @@
               <div class="col-xs-12 col-sm-4 pull-right">
                 <div class="sidebar-object-info">
                   <div class="visible-xs">
-                    <div class="btn-object-map"><span>Смотреть на карте</span></div>
+                    <div class="btn-object-map"><span>在地图上查看</span></div>
                   </div>
                   <div class="sidebar-object-map">
                     <div class="close"></div>
@@ -67,16 +67,16 @@
                     <table class="object-info-table">
                       <tbody>
                         <tr>
-                          <td class="name">�&nbsp;айон:</td>
-                          <td class="val">Чудовский</td>
+                          <td class="name">地区:</td>
+                          <td class="val">丘多沃</td>
                         </tr>
                         <tr>
-                          <td class="name">Население:</td>
-                          <td class="val">815 чел </td>
+                          <td class="name">人口:</td>
+                          <td class="val">815 人 </td>
                         </tr>
                         <tr>
-                          <td class="name">Тип::</td>
-                          <td class="val">Село</td>
+                          <td class="name">类型::</td>
+                          <td class="val">村庄</td>
                         </tr>
                       </tbody>
                     </table>
@@ -86,7 +86,7 @@
               <div class="col-xs-12 col-sm-8">
                 <div class="page-content">
                   <div class="block-ext-parent">
-                    <div class="h2" style="margin-top: 0;">О населенном пункте</div>
+                    <div class="h2" style="margin-top: 0;">关于地方</div>
                     <div class="block-ext-content">
                       <p>
                         Согласно легенде, основателем Грузина был сам апостол Андрей. Придя на�&nbsp;берега Волхова,
@@ -95,7 +95,7 @@
                         Андрея Первозванного.
                       </p>
                       <p>
-                        По�&nbsp;другой версии село являлось собственность новгородского боярина Офонасия Груза
+                        По�&nbsp;другой версии 村庄 являлось собственность новгородского боярина Офонасия Груза
                         и�&nbsp;от�&nbsp;его имени и�&nbsp;пошло название деревни. Наконец, есть точка зрения, что мимо
                         деревни проходили важные торговые пути и�&nbsp;около Грузино через Волхов переправляли различные
                         грузы. Ну, а�&nbsp;слово «Грузино» произошло от�&nbsp;глагола «грузить».
@@ -107,7 +107,7 @@
                       </p>
                       <p>
                         Новый хозяин развернул в�&nbsp;своих новых владениях масштабное строительство. На�&nbsp;берегу
-                        реки Волхов был насыпан высокий холм, на�&nbsp;котором был построен господский дом,
+                        реки Волхов был насыпан высокий 霍尔姆, на�&nbsp;котором был построен господский дом,
                         с�&nbsp;балкона которого открывался вид на�&nbsp;аракчеевские владения. Для создания <nobr>
                           дворцово-паркового</nobr> ансамбля из�&nbsp;Петербурга были выписаны лучшие мастера того
                         времени, среди них <nobr>В. П. Стасов</nobr>, создатель здания Биржи Тома де�&nbsp;Томон, <nobr>
