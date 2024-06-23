@@ -184,7 +184,7 @@
 
 
           <div class="city-section">
-            <div class="h2" style="margin-top: 0;">Где поесть в Великом Новгороде</div>
+            <div class="h2" style="margin-top: 0;">在哪吃饭</div>
             <div class="objects-list">
               <div class="tr">
                 <div class="object-tmb rest-tmb">
@@ -351,7 +351,7 @@
             </div>
           </div>
           <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Где остановиться в Великом Новгороде</div>
+            <div class="h2" style="margin-top: 0;">在哪里停留</div>
             <div class="objects-list">
               <div class="tr">
                 <div class="object-tmb hotel-tmb">
