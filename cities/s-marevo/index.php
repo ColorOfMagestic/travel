@@ -97,12 +97,7 @@
                         <div class="col-xs-12 col-sm-6">
                           <div class="intext-pic-descr">
                             <p>
-                              村庄 马廖沃 является административным центром Марёвского сельского поселения
-                              и�&nbsp;Марёвского муниципального округа Новгородской области. �&nbsp;асположен
-                              на�&nbsp;реке Марёвка, автодороге 霍尔姆�&nbsp;— 杰缅斯克. С�&nbsp;областным центром
-                              г.�&nbsp;大诺夫哥罗德 с. 马廖沃 связано дорогой общего назначения. �&nbsp;асстояние
-                              до�&nbsp;ближайшей железнодорожной станции�&nbsp;— Лычково (杰缅斯克周围 район)�&nbsp;—
-                              94�&nbsp;км.
+                            现代马廖沃遗址上的第一个定居点出现在10世纪。考古学家在马廖夫卡河附近的一座小山上发现了一个大型定居点。村庄附近有几个11-12世纪的土丘。
                             </p>
                           </div>
                         </div>
@@ -116,16 +111,7 @@
                         <div class="col-xs-12 col-sm-6 col-sm-pull-6">
                           <div class="intext-pic-descr">
                             <p>
-                              马廖沃 является древним поселением на�&nbsp;территории Новгородской области. Некоторые
-                              краеведы полагают, что 马廖沃周围 погост был основан еще в�&nbsp;947 году, когда киевская
-                              княгиня Ольга побывала в�&nbsp;этих местах, чтобы навести порядок во�&nbsp;взимании дани
-                              с�&nbsp;подвластных Киеву территорий. Именно она разделила землю на�&nbsp;погосты.
-                            </p>
-                            <p>
-                              马廖沃�&nbsp;— это название впервые встречается в�&nbsp;летописях, повествующих
-                              о�&nbsp;ХII веке. В�&nbsp;списке городов дальних и�&nbsp;ближних, составленному
-                              в�&nbsp;ХV�&nbsp;веке перечислены 35 новгородских и�&nbsp;псковских городов: среди них
-                              Демяна, Велиль, Морёва.
+                            自古以来，马廖沃居民的主要职业是制盐、毛皮捕捞和养蜂。
                             </p>
                           </div>
                         </div>
@@ -139,12 +125,7 @@
                         <div class="col-xs-12 col-sm-6">
                           <div class="intext-pic-descr">
                             <p>
-                              В�&nbsp;новгородских писцовых книгах, в�&nbsp;части, относящейся к�&nbsp;описи Деревской
-                              пятины, за�&nbsp;1495 год есть новгородская волость Морёва. Впервые 马廖沃 упоминается
-                              в�&nbsp;XIII веке как волость великого князя Морёва. Волость делилась на�&nbsp;10
-                              десятков, в�&nbsp;которых было в�&nbsp;среднем по�&nbsp;20 деревень. Всего в�&nbsp;волости
-                              было 209 деревень, в�&nbsp;которых насчитывалось 314 дворов и�&nbsp;734 оброчных
-                              крестьянина.
+                            卫国战争期间，该村在杰缅斯克方向的战斗中遭受重创。战后逐渐恢复。农业，特别是亚麻种植开始发展。
                             </p>
                           </div>
                         </div>
@@ -158,81 +139,7 @@
                         <div class="col-xs-12 col-sm-6 col-sm-pull-6">
                           <div class="intext-pic-descr">
                             <p>
-                              Волость была довольно богатая. Жители занимались кузнечным делом, славились пушным
-                              промыслом и�&nbsp;сбором меда диких п人. Но�&nbsp;места эти были довольно глухими,
-                              лесными, болотистыми. Об�&nbsp;этом говорят и�&nbsp;нынешние названия�&nbsp;— Заборовье,
-                              镇 Красный Бор, осин хутор и�&nbsp;др.
-                            </p>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="row">
-                        <div class="col-xs-12">
-                          <div class="intext-pic-descr">
-                            <p>
-                              Так как земля на�&nbsp;�&nbsp;уси была главным богатством, ее�&nbsp;часто переписывали,
-                              учитывая все возможности для увеличения сбора дани. Московские писцы провели опись волости
-                              Морёва в�&nbsp;1495 году. Центром волости был погост Морёва, со�&nbsp;временем ставший
-                              马廖沃м.
-                            </p>
-                            <p>
-                              В�&nbsp;конце ХV�&nbsp;века Морёво подвергалось неоднократному нападению литовских войск,
-                              а�&nbsp;в�&nbsp;1612–1617 году находилось под <nobr>литовско-шведской</nobr> оккупацией.
-                              По�&nbsp;дозору от�&nbsp;1620 года волость Морева была почти пуста и�&nbsp;жильцов
-                              в�&nbsp;ней не�&nbsp;было. Они стали возвращаться из�&nbsp;Московских мест
-                              в�&nbsp;1620–1622 годах.
-                            </p>
-                            <p>
-                              Марёвская волость известна и�&nbsp;в�&nbsp;1678, и�&nbsp;1710 годах. С�&nbsp;1702 года
-                              территория входила в�&nbsp;состав Ингерманландской губернии, c�&nbsp;1727 года
-                              в�&nbsp;состав Новгородской губернии. С�&nbsp;XIX века волость стала называться
-                              Моисеевской и�&nbsp;входила в�&nbsp;杰缅斯克周围 уезд.
-                            </p>
-                            <p>
-                              Центральное положение в�&nbsp;крае занимала типичная здесь Моисеевская волость,
-                              с�&nbsp;центром в�&nbsp;с. Морёва. В�&nbsp;дореформенный период в�&nbsp;волости в�&nbsp;72
-                              镇х проживало 1477 крепостных крестьянина мужского пола. Они принадлежали 31
-                              владельцу. Состоятельность помещиков колебалась от�&nbsp;2 до�&nbsp;737 душ.
-                            </p>
-                            <p>
-                              После реформы 1861 года в�&nbsp;Марёвской деревне произошли значительные изменения:
-                              крестьяне в�&nbsp;быту стали расторопнее, образованнее, чаще отлучались из�&nbsp;деревни
-                              на�&nbsp;заработки в�&nbsp;Петербург и�&nbsp;другие города.
-                            </p>
-                            <p>
-                              村庄 马廖沃 являлось центром Моисеевской волости 杰缅斯克ого уезда. �&nbsp;аскинулось оно
-                              на�&nbsp;дороге <nobr>杰缅斯克-霍尔姆</nobr>. В�&nbsp;1882 году в�&nbsp;границах Велильской,
-                              Моисеевской и�&nbsp;Молвотицкой волостей было 347 деревень и�&nbsp;проживало 18 тысяч
-                              人овек. Частная собственность, нажива, личная выгода, спекулятивная торговля были
-                              движущей силой тогдашней деревни.
-                            </p>
-                            <p>
-                              Населенные пункты района, в�&nbsp;том числе и�&nbsp;村庄 马廖沃, очень сильно пострадали
-                              во�&nbsp;время 杰缅斯克ой операции в�&nbsp;Великую Отечественную войну.
-                            </p>
-                            <p>
-                              Указом Президиума Верховного Совета �&nbsp;СФС�&nbsp; от�&nbsp;19 февраля 1944 года
-                              районный центр Молвотицкого района перенесён из�&nbsp;села Молвотицы в�&nbsp;村庄 马廖沃.
-                              С�&nbsp;5 июля 1944 года район входит в�&nbsp;Новгородскую область. В�&nbsp;1963 году
-                              Молвотицкий район был упразднён, а�&nbsp;территория вошла в�&nbsp;состав 杰缅斯克ого
-                              сельского района.
-                            </p>
-                            <p>
-                              1968 год�&nbsp;— открылась музыкальная школа в�&nbsp;с. 马廖沃.
-                            </p>
-                            <p>
-                              1972�&nbsp;— открыты рейсы самолета <nobr>ЯК-40</nobr>, по�&nbsp;маршруту <nobr>
-                                马廖沃-Ленинград</nobr>.
-                            </p>
-                            <p>
-                              В�&nbsp;1975 году была открыта гостиница со�&nbsp;столовой в�&nbsp;с. 马廖沃.
-                              В�&nbsp;следующем году введена в�&nbsp;строй Марёвская АТС и�&nbsp;первых зрителей принял
-                              кинотеатр «Победа».
-                            </p>
-                            <p>
-                              В�&nbsp;наши дни 村庄 马廖沃 приобрело черты поселка городского типа. Вместе с�&nbsp;тем
-                              в�&nbsp;застройке села сохраняются и�&nbsp;исторические памятники, в�&nbsp;частности,
-                              церковь Успения Пресвятой Богородицы (19 в.).
+                            目前，马廖沃是一个小村庄。诺夫哥罗德州马廖沃区的中心。在景点中，您可以特别区分圣母升天教堂和当地传说博物馆。这座教堂建于19世纪。当地传说博物馆在2018年全俄比赛中获得了“最佳农村定居点博物馆”提名。
                             </p>
                           </div>
                         </div>
@@ -244,212 +151,6 @@
               </div>
             </div>
           </div>
-
-          <input type="hidden" id="cityId" value="36">
-
-
-
-
-          <div class="city-section block-ext-parent">
-            <div class="grid-three-in-row block-ext-content">
-              <a class="guide-tmb" href="/guides/muzei/?TOWN=36"
-                style="background-image:url(images/3d086428f2f6d508469e64f0bfef55d8.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">3</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Музеи</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/khramy-i-monastyri/?TOWN=36"
-                style="background-image:url(images/ff783b0d8ccf2f03c4cf73397e6683ba.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">2</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Храмы и монастыри</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/priroda/?TOWN=36"
-                style="background-image:url(images/952aa577f0b8436d020018c5f300f0de.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">1</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Природа</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/voinskaya-slava/?TOWN=36"
-                style="background-image:url(images/95b8fdf0837fae883f3df65a3b293d8f.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">2</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Поклонный туризм</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/skulptury-i-byusty/?TOWN=36"
-                style="background-image:url(images/ce633d563d8cd431b32a7018a2393de9.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">1</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Скульптуры и бюсты</span></div>
-                </div>
-              </a>
-            </div>
-          </div>
-
-
-          <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Маршруты по 马廖沃</div>
-            <div class="block-ext-content">
-              <h3><a href="https://novgorod.travel/routes/ekskursiya-po-selu-maryevo-/">Экскурсия по селу 马廖沃</a><a
-                  href="https://novgorod.travel/routes/ekskursiya-po-selu-maryevo-/"></a></h3>
-              <div>
-                Маршрут позволит туристам познакомиться с историей Марёвского края начиная с ХII века и проследить его
-                путь развития до настоящего времени.<br>
-              </div>
-              <div>
-                <br>
-              </div>
-              <div>
-                Продолжительность: 1 день<br>
-              </div>
-              <div>
-                <br>
-              </div>
-              <div>
-                Объекты маршрута:<br>
-                <ul>
-                  <li>Муниципальное учреждение культуры «Централизованная библиотечная система»;</li>
-                  <li>Церковь Успения Пресвятой Богородицы;</li>
-                  <li>Муниципальное учреждение культуры «Музей краеведения»;</li>
-                  <li>«Дом народного творчества» (ткацкая мастерская).</li>
-                </ul>
-              </div>
-            </div>
-          </div>
-
-          <div class="city-section" data-ajax-loaded="4">
-            <div class="grid-three-in-row">
-              <div class="object-tmb route-tmb" style="width: 100%;">
-                <a href="/routes/ekskursiya-po-selu-maryevo-/">
-                  <div class="object-tmb-pic" style="background-image: url();">
-                  </div>
-                </a>
-                <div class="object-tmb-descr">
-                  <div class="route-tmb-descr">
-                    <ul class="object-tmb-tags">
-                      <li>Культура</li>
-                    </ul>
-                    <a href="/routes/ekskursiya-po-selu-maryevo-/">
-                      <div class="h3"><span>Экскурсия по селу 马廖沃 </span></div>
-                    </a>
-                  </div>
-                  <div class="object-tmb-data">
-                    <div class="object-data-item">
-                      <div class="ico ico-object-time"></div>
-                      <div class="text">1 день</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-
-          <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Куда сходить в 马廖沃</div>
-            <div class="block-ext-content">
-            </div>
-          </div>
-
-          <div class="city-section" data-ajax-loaded="6">
-            <div class="grid-three-in-row">
-              <a class="event-tmb" href="/events/den-maryevskogo-okruga/" style="width: 100%;">
-                <div class="event-tmb-inner clearfix">
-                  <div class="event-tmb-pic">
-                  </div>
-                  <div class="event-tmb-descr">
-                    <div class="event-tmb-date"><span>29 </span> июн</div>
-                    <div class="h3"><span>День Марёвского округа</span></div>
-                    <div class="event-tmb-info">
-                      <div class="event-info-item">
-                        <div class="ico ico-event-location"></div>
-                        <div class="text">Новгородская область, с. 马廖沃, стадион</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </a>
-            </div>
-          </div>
-
-
-          <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Где поесть в 马廖沃</div>
-            <div class="block-ext-content">
-              <div>
-                <h3><a href="https://novgorod.travel/restaurants/pitstseriya-v-s-maryevo/">Пиццерия в с. 马廖沃</a></h3>
-              </div>
-              <div>
-                <br>
-              </div>
-              <div>
-                Пиццерия располагается на рыночной площади с. 马廖沃 в шаговой доступности от гостиницы «Ивушка».
-              </div>
-              Гостям и жителям села предлагается большой выбор блюд русской и дагестанской кухни. <br>
-              <div>
-                <br>
-              </div>
-              <div>
-                В уютном зале пиццерии можно с комфортом расположиться, покушать и послушать приятную музыку.
-              </div>
-            </div>
-          </div>
-
-
-          <div class="city-section" data-ajax-loaded="8">
-            <div class="grid-three-in-row">
-              <div class="object-tmb rest-tmb" style="width: 100%;">
-                <a href="/restaurants/pitstseriya-v-s-maryevo/">
-                  <div class="object-tmb-pic" style="background-image: url();">
-                  </div>
-                </a>
-                <div class="object-tmb-descr">
-                  <div class="rest-tmb-descr">
-                    <ul class="object-tmb-tags">
-                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">马廖沃</a></li>
-                    </ul>
-                    <a href="/restaurants/pitstseriya-v-s-maryevo/">
-                      <div class="h3"><span>Пиццерия в с. 马廖沃</span></div>
-                    </a>
-                  </div>
-                  <div class="object-tmb-data">
-                    <div class="object-data-item">
-                      <div class="ico ico-cuisine"></div>
-                      <div class="text">
-                        <ul class="object-tmb-tags">
-                          <li>�&nbsp;усская</li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-
-
-
-
         </div>
       </div>
     </div>

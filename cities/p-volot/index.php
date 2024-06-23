@@ -91,39 +91,16 @@
                       <div class="row">
                         <div class="col-xs-12">
                           <p>
-                            沃洛特周围 муниципальный округ — земля с�&nbsp;древней историей, традициями
-                            и�&nbsp;обычаями. 地区 расположен в�&nbsp;<nobr>юго-западной</nobr> части
-                            Новгородской области на�&nbsp;водоразделе трёх групп рек Ильменского бассейна: Псижы
-                            и�&nbsp;Переходы, непосредственно впадающих в�&nbsp;озеро Ильмень; Снежи и�&nbsp;Каменки,
-                            впадающих в�&nbsp;реку Полисть; Северки и�&nbsp;Колоши, впадающих в�&nbsp;реку Шелонь.
+                          沃洛特镇是诺夫哥罗德州的一个小村庄。它是沃洛特区的中心。它出现在19世纪晚期，是一个火车站附近的村庄。
                           </p>
                           <p>
-                            В�&nbsp;южной части МО недалеко от�&nbsp;озера Должинское существовало поселение Кривичи,
-                            人口 которого, вероятнее всего, составляли представители племени «кривичей», миграция
-                            которых шла из�&nbsp;районов Белоруссии и�&nbsp;Украины.
+                          卫国战争期间，该村位于占领区。那时候沃洛特镇地下组织在其领土上活动。它的情报活动在德米扬斯克附近包围侵略者的大部队和红军向旧鲁萨的进攻中发挥了重要作用。
                           </p>
                           <p>
-                            Всего�&nbsp;же на�&nbsp;территории округа сохранилось около 40 археологических памятников,
-                            имеющих многовековую, а�&nbsp;возможно и�&nbsp;тыся人етнюю историю.
+                          村里没有历史景点。在苏联时期，竖立了一座解放者士兵纪念碑和一座被枪杀的地下工作者纪念碑。
                           </p>
                           <p>
-                            Основным занятием населения в�&nbsp;то�&nbsp;время были рыболовство и�&nbsp;земледелие.
-                            Почвы в�&nbsp;значительной степени пригодны для выращивания культурных растений, что
-                            поселенцы заметили давно.<br>
-                            У�&nbsp;деревни, станции и�&nbsp;села с�&nbsp;одним названием 沃洛特 активно развивалось
-                            льноводство, в�&nbsp;связи с�&nbsp;этим часто происхождение названия центра 沃洛特 связывают,
-                            со�&nbsp;словом «沃洛特ь»�&nbsp;— нить, волокно. Но�&nbsp;допустимы и�&nbsp;другие версии
-                            происхождения этого имени.
-                          </p>
-                          <p>
-                            Окончание в�&nbsp;названии 沃洛特 твердое и�&nbsp;даже используется форма «沃洛特ы»,
-                            (великаны, могучие, рослые), что свидетельствует о�&nbsp;связи с�&nbsp;древними богатырями.
-                            В�&nbsp;沃洛特е могла исчезнуть последняя из�&nbsp;общин этого племени.
-                          </p>
-                          <p>
-                            沃洛特周围 муниципальный округ впервые, как <nobr>административно-территориальная</nobr>
-                            единица был образован в�&nbsp;1927 году. В�&nbsp;нынешних границах�&nbsp; восстановлен
-                            в�&nbsp;1965 году.
+                          目前，沃洛特以其面包店的产品而闻名。这里还组织亚麻生产。有一家泥炭开采和加工企业。
                           </p>
                         </div>
                       </div>
@@ -134,194 +111,6 @@
               </div>
             </div>
           </div>
-
-          <input type="hidden" id="cityId" value="32">
-
-
-
-
-          <div class="city-section block-ext-parent">
-            <div class="grid-three-in-row block-ext-content">
-              <a class="guide-tmb" href="/guides/muzei/?TOWN=32"
-                style="background-image:url(images/3d086428f2f6d508469e64f0bfef55d8.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">4</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Музеи</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/khramy-i-monastyri/?TOWN=32"
-                style="background-image:url(images/ff783b0d8ccf2f03c4cf73397e6683ba.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">7</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Храмы и монастыри</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/priroda/?TOWN=32"
-                style="background-image:url(images/952aa577f0b8436d020018c5f300f0de.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">1</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Природа</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/voinskaya-slava/?TOWN=32"
-                style="background-image:url(images/95b8fdf0837fae883f3df65a3b293d8f.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">3</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Поклонный туризм</span></div>
-                </div>
-              </a>
-            </div>
-          </div>
-
-
-          <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Маршруты по 沃洛特у</div>
-            <div class="block-ext-content">
-            </div>
-          </div>
-
-          <div class="city-section" data-ajax-loaded="4">
-            <div class="grid-three-in-row">
-              <div class="object-tmb route-tmb" style="width: 100%;">
-                <a href="/routes/voenno-patrioticheskiy-marshrut-tsvety-k-obelisku/">
-                  <div class="object-tmb-pic"
-                    style="background-image: url(images/b15d14d17c972aac729e736d06a0649b.JPG);">
-                    <div class="object-tmb-info ">
-                      <div class="object-tmb-info-item">
-                        <div class="object-info-num">150�&nbsp;<span>р.</span></div>
-                        <div class="object-info-ttl">стоимость</div>
-                      </div>
-                    </div>
-                  </div>
-                </a>
-                <div class="object-tmb-descr">
-                  <div class="route-tmb-descr">
-                    <ul class="object-tmb-tags">
-                      <li>Воинская слава</li>
-                    </ul>
-                    <a href="/routes/voenno-patrioticheskiy-marshrut-tsvety-k-obelisku/">
-                      <div class="h3"><span>Цветы к обелиску</span></div>
-                    </a>
-                  </div>
-                  <div class="object-tmb-data">
-                    <div class="object-data-item">
-                      <div class="ico ico-object-time"></div>
-                      <div class="text">1 день</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="object-tmb route-tmb" style="width: 100%;">
-                <a href="/routes/gorodu-kamney/">
-                  <div class="object-tmb-pic"
-                    style="background-image: url(images/ae529ba12f10651c006fdcd7dc49b412.jpg);">
-                    <div class="object-tmb-info ">
-                      <div class="object-tmb-info-item">
-                        <div class="object-info-num">300�&nbsp;<span>р.</span></div>
-                        <div class="object-info-ttl">стоимость</div>
-                      </div>
-                    </div>
-                  </div>
-                </a>
-                <div class="object-tmb-descr">
-                  <div class="route-tmb-descr">
-                    <ul class="object-tmb-tags">
-                      <li>Природа</li>
-                    </ul>
-                    <a href="/routes/gorodu-kamney/">
-                      <div class="h3"><span>«Путешествие к «Городу камней» и в «Музей Сказки»</span></div>
-                    </a>
-                  </div>
-                  <div class="object-tmb-data">
-                    <div class="object-data-item">
-                      <div class="ico ico-object-time"></div>
-                      <div class="text">3 часа 30 минут</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="object-tmb route-tmb" style="width: 100%;">
-                <a href="/routes/gorodu-kamney-2/">
-                  <div class="object-tmb-pic"
-                    style="background-image: url(images/a896af7900484469e328cd3de5a44dc7.jpg);">
-                    <div class="object-tmb-info ">
-                      <div class="object-tmb-info-item">
-                        <div class="object-info-num">250�&nbsp;<span>р.</span></div>
-                        <div class="object-info-ttl">стоимость</div>
-                      </div>
-                    </div>
-                  </div>
-                </a>
-                <div class="object-tmb-descr">
-                  <div class="route-tmb-descr">
-                    <ul class="object-tmb-tags">
-                      <li>Детский отдых</li>
-                    </ul>
-                    <a href="/routes/gorodu-kamney-2/">
-                      <div class="h3"><span>«Путешествие к «Городу камней»</span></div>
-                    </a>
-                  </div>
-                  <div class="object-tmb-data">
-                    <div class="object-data-item">
-                      <div class="ico ico-object-time"></div>
-                      <div class="text">2 часа</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-
-          <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Куда сходить в 沃洛特е</div>
-            <div class="block-ext-content">
-            </div>
-          </div>
-
-          <div class="city-section" data-ajax-loaded="6">
-            <div class="grid-three-in-row">
-              <a class="event-tmb" href="/events/mezhrayonnyy-festival-folklornyy-prazdnik-solntsa-2024/"
-                style="width: 100%;">
-                <div class="event-tmb-inner clearfix">
-                  <div class="event-tmb-pic">
-                  </div>
-                  <div class="event-tmb-descr">
-                    <div class="event-tmb-date"><span>29 </span> июн</div>
-                    <div class="h3"><span>Межрайонный фестиваль "Фольклорный праздник Солнца"</span></div>
-                    <div class="event-tmb-info">
-                      <div class="event-info-item">
-                        <div class="ico ico-event-location"></div>
-                        <div class="text">沃洛特周围 район, д. Камень, на территории памятника природы регионального
-                          значения "Валун у д. Камень"</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </a>
-            </div>
-          </div>
-
-
-
-
-
-
-
-
-
         </div>
       </div>
     </div>
