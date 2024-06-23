@@ -97,11 +97,7 @@
                         <div class="col-xs-12 col-sm-6">
                           <div class="intext-pic-descr">
                             <p>
-                              Посёлок 柳比蒂诺 входит в�&nbsp;перечень исторических городов �&nbsp;оссии. Прежнее его
-                              название�&nbsp;— 村庄 Белое. Посёлок расположен на�&nbsp;правом берегу реки Мсты где
-                              в�&nbsp;древности был центр округи, именуемой в�&nbsp;документах и�&nbsp;летописях
-                              Помостьем. С�&nbsp;Помостьем связывают учреждение в�&nbsp;947 г. княгиней Ольгой
-                              административных пунктов на�&nbsp;реке Мсте�&nbsp;— погостов для сбора дани.
+                              柳比蒂诺镇位于姆斯塔河畔。10世纪，奥尔加公主沿着姆斯塔航行到诺夫哥罗德。公主在河上建了墓地。从其中一个墓地，后来诞生了一个小村庄贝洛耶。它因流经它的一条小河而得名。
                             </p>
                           </div>
                         </div>
@@ -115,10 +111,7 @@
                         <div class="col-xs-12 col-sm-6 col-sm-pull-6">
                           <div class="intext-pic-descr">
                             <p>
-                              Через посёлок протекают также реки Белая и�&nbsp;Забитица�&nbsp;— правые притоки Мсты.
-                              Впервые упоминается как погост Прокопьевский на�&nbsp;реке Белой в�&nbsp;писцовых книгах
-                              Бежецкой пятины Новгородской земли в�&nbsp;1581–1583 годах, а�&nbsp;镇 Бор
-                              на�&nbsp;левом берегу Мсты упоминается как погост Бельский раньше�&nbsp;— около 1495 года.
+                              在19-20世纪之交，木材、面粉和各种动物的活跃贸易穿过村庄。货物通过驳船运往诺夫哥罗德。贝洛耶村于1931年更名为柳比蒂诺，当时未来的柳比蒂诺区是列宁格勒州的一部分。1944年，该村被转移到新成立的诺夫哥罗德州。柳比蒂诺镇有很多景点。这里有一个露天博物馆“10世纪的斯拉夫村庄”。它是在一个古老定居点的领土上组织的。博物馆重建了当时的经济建筑。重建了住宅楼。当时多达30人住在里面。
                             </p>
                           </div>
                         </div>
@@ -132,12 +125,7 @@
                         <div class="col-xs-12 col-sm-6">
                           <div class="intext-pic-descr">
                             <p>
-                              На�&nbsp;рубеже <nobr>XIX–XX</nobr> веков это уже 村庄 Белое, в�&nbsp;котором имелась
-                              только одна улица из�&nbsp;30 дворов, а�&nbsp;人口 села составляло 150 人овек. Через
-                              村庄 по�&nbsp;Мсте шла торговля лесом, мукой, скотом, горшечной продукцией.
-                              В�&nbsp;1911�&nbsp;г. в�&nbsp;честь Александра II�&nbsp;в.�&nbsp;поселке 柳比蒂诺 был
-                              открыт памятник. Александр II�&nbsp;вошел в�&nbsp;историю как <nobr>император-освободитель
-                              </nobr>, так как именно при нем произошла отмена крепостного права.
+                              柳比蒂诺镇附近还有前洛康修道院。圣母升天教堂保存在柳比蒂诺本身。这座教堂是为了纪念战胜拿破仑二十周年而建造的。戈列梅金贵族的前家族庄园被保留了下来。
                             </p>
                           </div>
                         </div>
@@ -151,13 +139,7 @@
                         <div class="col-xs-12 col-sm-6 col-sm-pull-6">
                           <div class="intext-pic-descr">
                             <p>
-                              После революции 1917�&nbsp;г. он�&nbsp;был утрачен. По�&nbsp;инициативе жителей
-                              Любытинского района памятник был воссоздан и�&nbsp;открыт в�&nbsp;2014�&nbsp;г.
-                              В�&nbsp;самом центре посёлка 柳比蒂诺, у�&nbsp;моста через реку Мсту, возвышаются
-                              грандиозные сопки�&nbsp;— погребальные сооружения славян высотой 8–10�&nbsp;метров. Более
-                              200 подобных насыпей разной высоты известно в�&nbsp;ближайшей округе поселка. С�&nbsp;2009
-                              года 镇 柳比蒂诺 стал новым туристским центром Новгородской области, благодаря
-                              открытию Музея под открытым небом «Славянская 镇 X�&nbsp;века».
+                              离柳比蒂诺不远的是生态度假村“柳博戈里”。全年工作。冬天，你可以在这里滑雪和玩油管。沿越野滑雪路线滑雪。夏季，度假村组织骑自行车和徒步旅行、打猎和钓鱼以及极限漂流。
                             </p>
                           </div>
                         </div>
@@ -169,544 +151,94 @@
             </div>
           </div>
 
-          <input type="hidden" id="cityId" value="35">
-
           <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Видео о Любытинском районе</div>
-            <div class="block-ext-content">
-              <div class="row">
-                <div class="col-xs-12 col-sm-12">
-                  <iframe width="100%" height="350" src="https://www.youtube.com/embed/EtgsewveEFw?rel=0"
-                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen=""></iframe> <br>
-                </div>
+            <div class="h2" style="margin-top: 0;">在哪吃饭</div>
+            <div class="objects-list">
+              <div class="tr">
+              <div class="object-tmb rest-tmb">
+                            <a href="../../restaurants/restoran-lyubytino-khutor/" id="bx_1454625752_471">
+                              <div class="object-tmb-pic"
+                                style="background-image: url(images/a2bdb5ffdbe831bdcd95b1f8462d3a68.jpg);">
+                                <div class="object-tmb-info ">
+
+
+                                  <div class="object-tmb-info-item">
+                                    <div class="object-info-num">-10%</div>
+                                    <div class="object-info-ttl">斯客人卡”的折扣。</div>
+                                  </div>
+
+
+                                </div>
+                              </div>
+                            </a>
+                            <div class="object-tmb-descr" style="min-height: 153.5px;">
+                              <div class="rest-tmb-descr" style="min-height: 112.5px;">
+                                <ul class="object-tmb-tags">
+                                  <li><a href="../../cities/p-lyubytino/">柳比蒂诺</a></li>
+                                  <li>餐厅</li>
+                                </ul>
+                                <a href="../../restaurants/restoran-lyubytino-khutor/">
+                                  <div class="h3"><span>«柳比蒂诺-农场» 餐厅</span></div>
+                                </a>
+                              </div>
+                              <div class="object-tmb-data">
+                                <div class="object-data-item">
+                                  <div class="ico ico-cuisine"></div>
+                                  <div class="text">
+                                    <ul class="object-tmb-tags">
+                                      <li>俄罗斯菜</li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
               </div>
             </div>
           </div>
 
           <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Что посмотреть в 柳比蒂诺</div>
-            <div class="block-ext-content">
-              <p>
-                柳比蒂诺 – посёлок в Новгородской области, который туристы прозвали «новгородской Швейцарией» из-за
-                сложного, неравномерного ландшафта местности, где перепады высот достигают 100-150 метров.
-              </p>
-              <p>
-                А место действительно уникальное: здесь сохранились редкие природные ландшафты, карстовые озера, пороги
-                и водопады на реках Белая и Прикша. А ещё 柳比蒂诺 – это место, где находится большое сосредоточение
-                археологических памятников.
-              </p>
-              <h3>
-                ЭКСПОЗИЦИЯ «СЛАВЯНСКАЯ ДЕ�&nbsp;ЕВНЯ X ВЕКА»</h3>
-              <p>
-                Экспозиция представляет собой комплекс жилых и хозяйственных построек (клети, амбара, погреба, хлебной
-                печи, кузницы), расположенных под открытым небом. Это не привычный музей, где трогать экспонаты
-                категорически запрещено. Тут можно не только разглядывать, но и попробовать сделать своими руками то,
-                что делали древние новгородцы: размолоть зерно в ступе или жерновах, попытаться добыть огонь с помощью
-                кресала, растопить печь и зажечь лучину.
-              </p>
-              <p>
-                Каждый желающий сможет примерить красивый славянский наряд или облачиться в кольчугу и шлем воинов,
-                поупражняться с мечом и щитом, метнуть копье. �&nbsp;адушные хозяева деревни познакомят вас с культурой,
-                обычаями и верованиями наших предков.
-              </p>
-              <h3>
-                УСАДЬБА А.В.СУВО�&nbsp;ОВА В ДЕ�&nbsp;ЕВНЕ КАМЕНКА</h3>
-              <p>
-                На берегу озера Каменского, в 18 км от посёлка 柳比蒂诺 находится Усадьба великого русского полководца
-                Александра Суворова. Деревянный усадебный дом XVIII века церковь Александра Невского XIX века
-                сохранились в хорошем состоянию и доступны к посещению туристов. По мнению некоторых библиографов и
-                историков, знаменитый полководец родился именно в этой усадьбе. На это указывают и воспоминания внука
-                генералиссимуса - Александра Аркадьевича Суворова.
-              </p>
-              <h3>
-                �&nbsp;ОДОВАЯ УСАДЬБА ГО�&nbsp;ЕМЫКИНА</h3>
-              <p>
-                И.Л.Горемыкин – общественный деятель, последний председатель совета министров царского правительства
-                Николая II.
-              </p>
-              <p>
-                Министерская усадьба находится в центре посёлка 柳比蒂诺 на правом берегу реки Мсты при впадении в неё
-                реки Белой. Сохранилось 6 построек кон. XIX в. усадебный парк и родовой склеп. Будет интересно
-                посмотреть строение, выстроенное в готическом стиле. Сейчас здесь размещается детская школа искусств
-                柳比蒂诺.
-              </p>
-              <h3>
-                СОБО�&nbsp; �&nbsp;ОЖДЕСТВА П�&nbsp;ЕСВЯТОЙ БОГО�&nbsp;ОДИЦЫ</h3>
-              <p>
-                Недалеко от усадьбы Горемыкина расположен Собор �&nbsp;ождества Пресвятой Богородицы. Храм построен в
-                году на месте сгоревшей в 1884 году церкви Архистратига Михаила. Сейчас здесь располагается 柳比蒂诺
-                дом культуры.
-              </p>
-              <h3>
-                ЦЕ�&nbsp;КОВЬ УСПЕНИЯ П�&nbsp;ЕСВЯТОЙ БОГО�&nbsp;ОДИЦЫ 1832 ГОДА </h3>
-              <p>
-                Церковь Успения Пресвятой Богородицы воздвигнута на левом берегу р. Мсты напротив усадьбы И.Л.
-                Горемыкина. Это редкий тип храма «под звоном», у которых ярус с колоколами помещен на основном объёме
-                строения, под главой. Церковь построена за деньги полковника Александра Васильевича Ханыкова в честь
-                20-летия победы над Наполеоном. Достоинства композиционного и архитектурного решения предполагают В
-                настоящий момент церковь передана Новгородской епархии и находится на реставрации.
-              </p>
-              <h3>
-                Т�&nbsp;АКТО�&nbsp; ХТЗ </h3>
-              <p>
-                Памятник первым механизаторам - цельнометаллический трактор ХТЗ выпуска 30-х годов - в 1967 году
-                установлен в п. 柳比蒂诺.
-              </p>
-            </div>
-          </div>
+            <div class="h2" style="margin-top: 0;">在哪里停留</div>
+            <div class="objects-list">
+              <div class="tr">
+              <div class="object-tmb hotel-tmb">
+                          <a href="../../hotels/vsesezonnyy-kurort-lyubogore-gornolyzhnyy-klub/" id="bx_1454625752_2936">
+                            <div class="object-tmb-pic"
+                              style="background-image: url(images/2cec561e7de15f59f61fc1c0f14ccea8.jpg);">
+                              <div class="object-tmb-info">
 
 
-          <div class="city-section block-ext-parent">
-            <div class="grid-three-in-row block-ext-content">
-              <a class="guide-tmb" href="/guides/muzei/?TOWN=35"
-                style="background-image:url(images/3d086428f2f6d508469e64f0bfef55d8.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">3</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Музеи</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/khramy-i-monastyri/?TOWN=35"
-                style="background-image:url(images/ff783b0d8ccf2f03c4cf73397e6683ba.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">5</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Храмы и монастыри</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/priroda/?TOWN=35"
-                style="background-image:url(images/952aa577f0b8436d020018c5f300f0de.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">6</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Природа</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/aktivnyy-otdykh/?TOWN=35"
-                style="background-image:url(images/9b7749d95eb1c4c1b1bf1b402a106ce7.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">3</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Активный отдых</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/voinskaya-slava/?TOWN=35"
-                style="background-image:url(images/95b8fdf0837fae883f3df65a3b293d8f.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">4</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Поклонный туризм</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/neobychnye-mesta/?TOWN=35"
-                style="background-image:url(images/a3f1dc60fd5b4848c25d23cb59bb1a95.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">2</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Необычные места</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/okhota-i-rybalka/?TOWN=35"
-                style="background-image:url(images/f8e1c1c8acb67c71173a62460c2aaaa6.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">1</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Охота и рыбалка</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/razvlecheniya/?TOWN=35"
-                style="background-image:url(images/fc362a255aabf1a1634e75c1318ed92b.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">1</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>�&nbsp;азвлечения</span></div>
-                </div>
-              </a>
-              <a class="guide-tmb" href="/guides/skulptury-i-byusty/?TOWN=35"
-                style="background-image:url(images/ce633d563d8cd431b32a7018a2393de9.jpg); width: 100%;">
-                <div class="guide-tmb-count">
-                  <div class="guide-tmb-count-num">3</div>
-                  <div class="guide-tmb-count-ttl">места</div>
-                </div>
-                <div class="guide-tmb-inner">
-                  <div class="h3"><span>Скульптуры и бюсты</span></div>
-                </div>
-              </a>
-            </div>
-          </div>
+                                <div class="object-tmb-info-item">
+                                  <div class="object-info-num">-5%</div>
+                                  <div class="object-info-ttl">斯客人卡”的折扣。</div>
+                                </div>
+                              </div>
+                            </div>
+                          </a>
+                          <div class="object-tmb-descr" style="min-height: 153.5px;">
+                            <div class="hotel-tmb-descr" style="min-height: 122.5px;">
+                              <ul class="object-tmb-tags">
+                                <li><a href="../../cities/p-lyubytino/">柳比蒂诺</a></li>
+                              </ul>
+                              <a href="../../hotels/vsesezonnyy-kurort-lyubogore-gornolyzhnyy-klub/">
+                                <div class="h3"><span>“柳博戈列”
+                                    全季节度假村（滑雪俱乐部）
+                                  </span></div>
+                              </a>
+                            </div>
+                            <div class="object-tmb-data">
+                              <div class="object-data-item">
+                                <div class="ico ico-type-hotel"></div>
+                                <div class="text">娱乐设施</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
 
-
-          <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Маршруты по 柳比蒂诺</div>
-            <div class="block-ext-content">
-              <h3>
-                А�&nbsp;ХЕОЛОГИЧЕСКИЙ ЗАПОВЕДНИК </h3>
-              <p>
-                Это единственный в Новгородской области археологический заповедник.
-              </p>
-              <p>
-                250 погребальных памятников, многие из которых достигают 6-9 метровой высоты и поселений VI-XVI вв. н.
-                э., расположенный в долине р. Белой - правого притока р. Мсты на территории 3,5 х 10 км. Эта территория
-                сыграла важную роль в процессе формирования Новгородских земель. Особое значение имеют памятники эпохи
-                славянского расселения в регионе и образования древнерусского государства.
-              </p>
-              <p>
-                Учитывая особую значимость этих территорий решением Новгородского облисполкома № 177 от 21 апреля 1986
-                года здесь был организован единственный в Новгородской области археологический заповедник.
-              </p>
-              <h3>
-                ВОДОПАД НА �&nbsp;ЕКЕ БЕЛАЯ </h3>
-              <p>
-                В 1988 году долине реки Белая присвоен статус памятника природы регионального значения. Здесь множество
-                археологических и исторических памятников, различные геологические обнажения, водопады, разнообразные
-                проявления карста.
-              </p>
-              <p>
-                Водопад крупный для сравнительно небольшой реки. Длина его почти 7 метров, высота около 1,5 м. Вода
-                падает с известкового уступа, образуя большое количество пены. Шум от водопада слышен за несколько
-                десятков метров.
-              </p>
-              <p>
-                Подробности о маршруте - <a href="mailto:lubytino-museum@yandex.ru">lubytino-museum@yandex.ru</a>
-              </p>
-              <p>
-                Телефон: 8 (816-68) 61-7-93, 8-950-681-59-59
-              </p>
-            </div>
-          </div>
-
-          <div class="city-section" data-ajax-loaded="4">
-            <div class="grid-three-in-row">
-              <div class="object-tmb route-tmb" style="width: 100%;">
-                <a href="/routes/gornaya-msta-/">
-                  <div class="object-tmb-pic" style="background-image: url();">
-                    <div class="object-tmb-info ">
-                      <div class="object-tmb-info-item">
-                        <div class="object-info-num">6000�&nbsp;<span>р.</span></div>
-                        <div class="object-info-ttl">стоимость</div>
-                      </div>
-                    </div>
-                  </div>
-                </a>
-                <div class="object-tmb-descr">
-                  <div class="route-tmb-descr">
-                    <ul class="object-tmb-tags">
-                      <li>Активный отдых</li>
-                    </ul>
-                    <a href="/routes/gornaya-msta-/">
-                      <div class="h3"><span>Горная Мста </span></div>
-                    </a>
-                  </div>
-                  <div class="object-tmb-data">
-                    <div class="object-data-item">
-                      <div class="ico ico-object-time"></div>
-                      <div class="text">1 день</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="object-tmb route-tmb" style="width: 100%;">
-                <a href="/routes/peshekhodnaya-ekskursiya-po-posyelku-lyubytino/">
-                  <div class="object-tmb-pic" style="background-image: url();">
-                    <div class="object-tmb-info ">
-                      <div class="object-tmb-info-item">
-                        <div class="object-info-num">30�&nbsp;<span>р.</span></div>
-                        <div class="object-info-ttl">стоимость</div>
-                      </div>
-                    </div>
-                  </div>
-                </a>
-                <div class="object-tmb-descr">
-                  <div class="route-tmb-descr">
-                    <ul class="object-tmb-tags">
-                      <li>Культура</li>
-                    </ul>
-                    <a href="/routes/peshekhodnaya-ekskursiya-po-posyelku-lyubytino/">
-                      <div class="h3"><span>Пешеходная экскурсия по посёлку 柳比蒂诺</span></div>
-                    </a>
-                  </div>
-                  <div class="object-tmb-data">
-                    <div class="object-data-item">
-                      <div class="ico ico-object-time"></div>
-                      <div class="text">1 день</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="object-tmb route-tmb" style="width: 100%;">
-                <a href="/routes/ekskursiya-po-okrestnostyam-poselka-lyubytino/">
-                  <div class="object-tmb-pic" style="background-image: url();">
-                    <div class="object-tmb-info ">
-                      <div class="object-tmb-info-item">
-                        <div class="object-info-num">450�&nbsp;<span>р.</span></div>
-                        <div class="object-info-ttl">стоимость</div>
-                      </div>
-                    </div>
-                  </div>
-                </a>
-                <div class="object-tmb-descr">
-                  <div class="route-tmb-descr">
-                    <ul class="object-tmb-tags">
-                      <li>Культура</li>
-                    </ul>
-                    <a href="/routes/ekskursiya-po-okrestnostyam-poselka-lyubytino/">
-                      <div class="h3"><span>Экскурсия по окрестностям поселка 柳比蒂诺</span></div>
-                    </a>
-                  </div>
-                  <div class="object-tmb-data">
-                    <div class="object-data-item">
-                      <div class="ico ico-object-time"></div>
-                      <div class="text">1 день</div>
-                    </div>
-                  </div>
-                </div>
               </div>
             </div>
           </div>
-
-
-          <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Куда сходить в 柳比蒂诺</div>
-            <div class="block-ext-content">
-              <h3> <a
-                  href="https://novgorod.travel/events/mezhregionalnyy-festival-kultury-i-byta-slavyanskiy-bereg/">ФЕСТИВАЛЬ
-                  КУЛЬТУ�&nbsp;Ы И БЫТА «СЛАВЯНСКИЙ БЕ�&nbsp;ЕГ»</a></h3>
-              <p>
-                Ежегодное интерактивное событие, которое дарит невероятную возможность погружения в жизнь Древней
-                �&nbsp;уси рубежа 9-12 веков.
-              </p>
-              <p>
-                Народ с разных уголков страны, соберется в посёлке 柳比蒂诺, на живописном берегу реки Мсты в музее под
-                открытым небом «Славянская 镇 10 века».
-              </p>
-              <p>
-                Фестиваль сочетает в себе историческую реконструкцию, музыкальную программу, потешные славянские игры,
-                мастер классы по раннесредневековым ремёслам, а также порадует вкусной натуральной пищей.
-              </p>
-              <h3> <a
-                  href="https://novgorod.travel/events/semeynyy-festival-aktivnogo-otdykha-famili-fast-2021/">СЕМЕЙНЫЙ
-                  ФЕСТИВАЛЬ АКТИВНОГО ОТДЫХА «FAMILI FAST 2021»</a></h3>
-              <p>
-                Это мероприятие на открытом воздухе для всей семьи. Можно будет поучаствовать в велопробеге и спортивных
-                соревнованиях, посмотреть концертную программу и работу интерактивных площадок
-              </p>
-              <h3>
-                <!--noindex--><a rel="nofollow" href="https://lybhutor.ru/">柳比蒂诺-ХУТО�&nbsp;</a><!--/noindex-->
-              </h3>
-              <p>
-                Это край первозданной природы, с густыми лесами и чистым воздухом, широкими лугами и прозрачной и
-                извилистой рекой Мста.
-              </p>
-              <p>
-                База отдыха находится в 180 км от Великого Новгорода, в 280 км от Санкт-Петербурга и в 550 км от Москвы.
-                Комфортно добраться можно на автомобиле и на самолете: есть взлётно-посадочная площадка для малой
-                авиации.
-              </p>
-              <p>
-                �&nbsp;усская баня на дровах, контактный зоопарк, рыбалка, охота, велопрогулки, сплав на байдарках,
-                места для кемпинга, катание на лошадях, фотосессии, детская площадка.
-              </p>
-              <h3>
-                <!--noindex--><a rel="nofollow" href="https://lubogora.ru/">ВСЕСЕЗОННЫЙ КУ�&nbsp;О�&nbsp;Т
-                  «ЛЮБОГО�&nbsp;ЬЕ»</a><!--/noindex-->
-              </h3>
-              <p>
-                Уникальный эко-курорт Новгородской области, который работает в круглогодичном режиме.
-              </p>
-              <p>
-                Зимой работают 7 склонов разного уровня сложности: трассы для горных лыж и сноубордов с перепадом высот
-                до 120 метров, учебный спуск для новичков и склон для тюбинга, а также живописный маршрут для беговых
-                лыж протяженностью 3 км и уникальный по своей атмосфере каток, окруженный лесом.
-              </p>
-              <p>
-                Летом – велосипедные и пешие прогулки, терренкур, охота и рыбалка, отдых на озере и благоустроенная
-                барбекю-зона с беседками. По желанию вы можете участвовать в экстремальном рафтинге или посетить
-                музей-заповедник под открытым небом «Славянская 镇 X века». Весь год для вас работают русские бани.
-              </p>
-            </div>
-          </div>
-
-
-
-          <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Где поесть в 柳比蒂诺</div>
-            <div class="block-ext-content">
-              <h3>
-                �&nbsp;есторан «柳比蒂诺-Хутор»</h3>
-              <p>
-                В кафе готовят вкуснейшие домашние блюда русской кухни из натуральных фермерских продуктов. В меню
-                найдёте наваристую солянку и щаницы, большое разнообразие блюд, приготовленных на мангале, пельмени и
-                вареники ручной работы.
-              </p>
-            </div>
-          </div>
-
-
-          <div class="city-section" data-ajax-loaded="8">
-            <div class="grid-three-in-row">
-              <div class="object-tmb rest-tmb" style="width: 100%;">
-                <a href="/restaurants/restoran-lyubytino-khutor/">
-                  <div class="object-tmb-pic"
-                    style="background-image: url(images/4bac80d99c8385a4c93cfa9cde12fed1.jpg);">
-                    <div class="object-tmb-info ">
-                      <div class="object-tmb-info-item">
-                        <div class="object-info-num">-10%</div>
-                        <div class="object-info-ttl">скидка по�&nbsp;карте гостя</div>
-                      </div>
-                    </div>
-                  </div>
-                </a>
-                <div class="object-tmb-descr">
-                  <div class="rest-tmb-descr">
-                    <ul class="object-tmb-tags">
-                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">柳比蒂诺</a></li>
-                    </ul>
-                    <a href="/restaurants/restoran-lyubytino-khutor/">
-                      <div class="h3"><span>�&nbsp;есторан «柳比蒂诺-хутор»</span></div>
-                    </a>
-                  </div>
-                  <div class="object-tmb-data">
-                    <div class="object-data-item">
-                      <div class="ico ico-cuisine"></div>
-                      <div class="text">
-                        <ul class="object-tmb-tags">
-                          <li>�&nbsp;усская</li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Где остановиться в 柳比蒂诺</div>
-            <div class="block-ext-content">
-            </div>
-          </div>
-
-          <div class="city-section" data-ajax-loaded="7">
-            <div class="grid-three-in-row">
-
-              <div class="object-tmb hotel-tmb" style="width: 100%;">
-                <a href="/hotels/baza-otdykha-lyubytino-khutor/">
-                  <div class="object-tmb-pic"
-                    style="background-image: url(images/04a2d6c9f181987011d9d90e511b6a39.jpg);"></div>
-                </a>
-                <div class="object-tmb-descr">
-                  <div class="hotel-tmb-descr">
-                    <ul class="object-tmb-tags">
-                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">柳比蒂诺</a></li>
-                    </ul>
-                    <a href="/hotels/baza-otdykha-lyubytino-khutor/">
-                      <div class="h3"><span>База отдыха «柳比蒂诺-хутор»</span></div>
-                    </a>
-                  </div>
-                  <div class="object-tmb-data">
-                    <div class="object-data-item">
-                      <div class="ico ico-type-hotel"></div>
-                      <div class="text">База отдыха</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="object-tmb hotel-tmb" style="width: 100%;">
-                <a href="/hotels/vsesezonnyy-kurort-lyubogore-gornolyzhnyy-klub/">
-                  <div class="object-tmb-pic"
-                    style="background-image: url(images/097651679bdf27311309aafb90d70433.jpg);"></div>
-                </a>
-                <div class="object-tmb-descr">
-                  <div class="hotel-tmb-descr">
-                    <ul class="object-tmb-tags">
-                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">柳比蒂诺</a></li>
-                    </ul>
-                    <a href="/hotels/vsesezonnyy-kurort-lyubogore-gornolyzhnyy-klub/">
-                      <div class="h3"><span>Всесезонный курорт «Любогорье» (Горнолыжный клуб)</span></div>
-                    </a>
-                  </div>
-                  <div class="object-tmb-data">
-                    <div class="object-data-item">
-                      <div class="ico ico-type-hotel"></div>
-                      <div class="text">База отдыха</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="object-tmb hotel-tmb" style="width: 100%;">
-                <a href="/hotels/gostevoy-dom-dom-pod-lipoy/">
-                  <div class="object-tmb-pic"
-                    style="background-image: url(images/dc9ff0e61ff2fef539389cf62bcd984f.JPG);"></div>
-                </a>
-                <div class="object-tmb-descr">
-                  <div class="hotel-tmb-descr">
-                    <ul class="object-tmb-tags">
-                      <li><a href="#SITE_DIR#/cities/#ELEMENT_CODE#/">柳比蒂诺</a></li>
-                    </ul>
-                    <a href="/hotels/gostevoy-dom-dom-pod-lipoy/">
-                      <div class="h3"><span>Гостевой дом "Дом под липой"</span></div>
-                    </a>
-                  </div>
-                  <div class="object-tmb-data">
-                    <div class="object-data-item">
-                      <div class="ico ico-type-hotel"></div>
-                      <div class="text">Гостевой дом</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="city-section block-ext-parent">
-            <div class="h2" style="margin-top: 0;">Что привезти из 柳比蒂诺</div>
-            <div class="block-ext-content">
-              <p>
-                柳比蒂诺 – это край с богатой историей и археологией. Привезти с собой приятные воспоминания о
-                путешествии можно, купив традиционный сувенир Новгородской области: изделия из бересты, дерева, железа.
-              </p>
-              <p>
-                Если хочется чего-то необычного и оригинального – привезите церу и писало – это то, чем пользовались для
-                написания сообщений древние новгородцы.
-              </p>
-              <p>
-                Как мы знаем из уроков истории в школе, древние новгородцы были очень грамотными и Новгородчина по праву
-                считается центром летописания и книжности. Древние новгородцы не имели, разумеется, бумаги и ручки, зато
-                у них была цера и писало. Привезти такой оригинальный сувенир, а также другие предметы быта древних
-                новгородцев, купив в Мастерской Алёшиных.
-              </p>
-              <p>
-                Широкий ассортимент гастрономических сувениров Вы найдете на
-                <!--noindex--><a rel="nofollow" href="https://lybhutor.ru/">базе отдыха
-                  «柳比蒂诺-Хутор</a><!--/noindex-->
-              </p>
-              <p>
-                Где купить:
-              </p>
-              <p>
-                <!--noindex--><a href="https://magnitsuvenir.ru/"
-                  rel="nofollow">https://magnitsuvenir.ru/</a><!--/noindex-->
-              </p>
-            </div>
-          </div>
-
 
         </div>
       </div>
