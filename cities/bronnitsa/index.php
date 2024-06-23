@@ -68,7 +68,7 @@
                       <tbody>
                         <tr>
                           <td class="name">地区:</td>
-                          <td class="val">Новгородский</td>
+                          <td class="val">诺夫哥罗德区</td>
                         </tr>
                         <tr>
                           <td class="name">人口:</td>

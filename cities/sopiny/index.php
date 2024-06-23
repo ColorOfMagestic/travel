@@ -68,7 +68,7 @@
                       <tbody>
                         <tr>
                           <td class="name">地区:</td>
-                          <td class="val">Боровичский</td>
+                          <td class="val">博罗维奇区</td>
                         </tr>
                         <tr>
                           <td class="name">人口:</td>

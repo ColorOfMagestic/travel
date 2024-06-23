@@ -39,7 +39,7 @@
                         <div class="city-tmb-info">
                           <div class="city-info-item">
                             <div class="ico"><img src="images/ico-city-location.png"></div>
-                            <div class="ttl">Боровичский</div>
+                            <div class="ttl">博罗维奇区</div>
                           </div>
                           <div class="city-info-item">
                             <div class="ico"><img src="images/ico-city-population.png"></div>
@@ -104,7 +104,7 @@
                         <div class="city-tmb-info">
                           <div class="city-info-item">
                             <div class="ico"><img src="images/ico-city-location.png"></div>
-                            <div class="ttl">Новгородский</div>
+                            <div class="ttl">诺夫哥罗德区</div>
                           </div>
                           <div class="city-info-item">
                             <div class="ico"><img src="images/ico-city-type.png"></div>
@@ -121,7 +121,7 @@
                         <div class="city-tmb-info">
                           <div class="city-info-item">
                             <div class="ico"><img src="images/ico-city-location.png"></div>
-                            <div class="ttl">Новгородский</div>
+                            <div class="ttl">诺夫哥罗德区</div>
                           </div>
                           <div class="city-info-item">
                             <div class="ico"><img src="images/ico-city-population.png"></div>
@@ -143,7 +143,7 @@
                         <div class="city-tmb-info">
                           <div class="city-info-item">
                             <div class="ico"><img src="images/ico-city-location.png"></div>
-                            <div class="ttl">Новгородский</div>
+                            <div class="ttl">诺夫哥罗德区</div>
                           </div>
                           <div class="city-info-item">
                             <div class="ico"><img src="images/ico-city-population.png"></div>
@@ -184,7 +184,7 @@
                         <div class="city-tmb-info">
                           <div class="city-info-item">
                             <div class="ico"><img src="images/ico-city-location.png"></div>
-                            <div class="ttl">Новгородский</div>
+                            <div class="ttl">诺夫哥罗德区</div>
                           </div>
                           <div class="city-info-item">
                             <div class="ico"><img src="images/ico-city-population.png"></div>
@@ -532,7 +532,7 @@
                         <div class="city-tmb-info">
                           <div class="city-info-item">
                             <div class="ico"><img src="images/ico-city-location.png"></div>
-                            <div class="ttl">Боровичский</div>
+                            <div class="ttl">博罗维奇区</div>
                           </div>
                           <div class="city-info-item">
                             <div class="ico"><img src="images/ico-city-population.png"></div>

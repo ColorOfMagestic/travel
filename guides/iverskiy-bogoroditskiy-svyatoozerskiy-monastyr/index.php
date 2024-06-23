@@ -80,7 +80,7 @@
                           </tr>
                           <tr>
                             <td class="name">地址:</td>
-                            <td class="val">Новгородский район, 瓦尔代, Сельвицкий остров</td>
+                            <td class="val">诺夫哥罗德区 район, 瓦尔代, Сельвицкий остров</td>
                           </tr>
                           <tr>
                             <td class="name">GPS坐标:</td>

@@ -82,7 +82,7 @@
                           </tr>
                           <tr>
                             <td class="name">地址:</td>
-                            <td class="val">Новгородский Кремль, 14
+                            <td class="val">诺夫哥罗德区 Кремль, 14
                             </td>
                           </tr>
                           <tr>

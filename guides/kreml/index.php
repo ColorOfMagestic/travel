@@ -80,7 +80,7 @@
                           </tr>
                           <tr>
                             <td class="name">地址:</td>
-                            <td class="val">大诺夫哥罗德, Новгородский кремль</td>
+                            <td class="val">大诺夫哥罗德, 诺夫哥罗德区 кремль</td>
                           </tr>
                           <tr>
                             <td class="name">GPS坐标:</td>
