@@ -11,27 +11,27 @@
             <div class="row">
               <div class="col-xs-12 col-sm-6 col-md-4">
 
-                <div class="h4"><a href="/cities/">城市和人类住区</a></div>
+                <div class="h4"><a href="../../cities/">城市和人类住区</a></div>
                 <div class="row">
                   <div class="col-xs-12 col-sm-6">
                     <ul>
-                      <li id="bx_3218110189_266"><a href="/cities/velikiy-novgorod/">大诺夫哥罗德</a></li>
-                      <li id="bx_3218110189_265"><a href="/cities/p-khvoynaya/">赫沃伊纳亚</a></li>
-                      <li id="bx_3218110189_264"><a href="/cities/p-parfino/">帕菲诺</a></li>
-                      <li id="bx_3218110189_263"><a href="/cities/s-marevo/">马廖沃</a></li>
-                      <li id="bx_3218110189_262"><a href="/cities/kholm/">霍尔姆</a></li>
-                      <li id="bx_3218110189_261"><a href="/cities/pestovo/">佩斯托沃</a></li>
-                      <li id="bx_3218110189_260"><a href="/cities/okulovka/">奥库洛夫卡</a></li>
+                      <li id="bx_3218110189_266"><a href="../../cities/velikiy-novgorod/">大诺夫哥罗德</a></li>
+                      <li id="bx_3218110189_265"><a href="../../cities/p-khvoynaya/">赫沃伊纳亚</a></li>
+                      <li id="bx_3218110189_264"><a href="../../cities/p-parfino/">帕菲诺</a></li>
+                      <li id="bx_3218110189_263"><a href="../../cities/s-marevo/">马廖沃</a></li>
+                      <li id="bx_3218110189_262"><a href="../../cities/kholm/">霍尔姆</a></li>
+                      <li id="bx_3218110189_261"><a href="../../cities/pestovo/">佩斯托沃</a></li>
+                      <li id="bx_3218110189_260"><a href="../../cities/okulovka/">奥库洛夫卡</a></li>
                     </ul>
                   </div>
                   <div class="col-xs-12 col-sm-6">
                     <ul>
-                      <li id="bx_3218110189_259"><a href="/cities/malayae-vishchera/">小维舍拉</a></li>
-                      <li id="bx_3218110189_258"><a href="/cities/soltsy/">索利齐</a></li>
-                      <li id="bx_3218110189_256"><a href="/cities/valda/">瓦尔代</a></li>
-                      <li id="bx_3218110189_255"><a href="/cities/borovichi/">博罗维奇</a></li>
-                      <li id="bx_3218110189_254"><a href="/cities/staraya-russa/">旧鲁萨</a></li>
-                      <li id="bx_3218110189_257"><a href="/cities/chudovo/">丘多沃</a></li>
+                      <li id="bx_3218110189_259"><a href="../../cities/malayae-vishchera/">小维舍拉</a></li>
+                      <li id="bx_3218110189_258"><a href="../../cities/soltsy/">索利齐</a></li>
+                      <li id="bx_3218110189_256"><a href="../../cities/valda/">瓦尔代</a></li>
+                      <li id="bx_3218110189_255"><a href="../../cities/borovichi/">博罗维奇</a></li>
+                      <li id="bx_3218110189_254"><a href="../../cities/staraya-russa/">旧鲁萨</a></li>
+                      <li id="bx_3218110189_257"><a href="../../cities/chudovo/">丘多沃</a></li>
                     </ul>
                   </div>
                 </div>
